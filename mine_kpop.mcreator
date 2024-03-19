@@ -1254,10 +1254,10 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.mine_kpop.in_3": "Jeongin 3",
       "item.mine_kpop.felix_3": "Felix 3",
-      "item.mine_kpop.in_3": "I.N. 3",
       "item.mine_kpop.felix_2": "Felix 2",
-      "item.mine_kpop.in_4": "I.N. 4",
+      "item.mine_kpop.in_4": "Jeongin 4",
       "item.mine_kpop.chaewon_lakers": "Chaewon Lakers",
       "item.mine_kpop.felix_4": "Felix 4",
       "item.mine_kpop.han_4": "Han 4",
@@ -1272,8 +1272,8 @@
       "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
       "item.mine_kpop.lee_know_1": "Lee Know 1",
       "item.mine_kpop.stray_kids_1": "Stray Kids 1",
-      "item.mine_kpop.in_1": "I.N. 1",
-      "item.mine_kpop.in_2": "I.N. 2",
+      "item.mine_kpop.in_1": "Jeongin 1",
+      "item.mine_kpop.in_2": "Jeongin 2",
       "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
       "item.mine_kpop.chaewon_fcb_3": "Chaewon FCB3",
       "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
