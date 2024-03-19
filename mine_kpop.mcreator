@@ -629,14 +629,660 @@
         ]
       },
       "path": "~/Groups/LeSserafim"
+    },
+    {
+      "name": "StrayKids5Stars",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stray_kids_5_stars",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/StrayKids5StarsItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/stray_kids_5_stars.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "StrayKidsLightstick",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stray_kids_lightstick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/StrayKidsLightstickItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/stray_kids_lightstick.json"
+        ]
+      },
+      "path": "~/LightSticks"
+    },
+    {
+      "name": "Chan1",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chan_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/chan_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Chan1Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Chan2",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chan_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/chan_2.json",
+          "src/main/java/net/mcreator/minekpop/item/Chan2Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Chan3",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chan_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/chan_3.json",
+          "src/main/java/net/mcreator/minekpop/item/Chan3Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Chan4",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chan_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Chan4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/chan_4.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Changbin1",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "changbin_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Changbin1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/changbin_1.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Changbin2",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "changbin_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Changbin2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/changbin_2.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Changbin3",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "changbin_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/changbin_3.json",
+          "src/main/java/net/mcreator/minekpop/item/Changbin3Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Changbin4",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "changbin_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Changbin4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/changbin_4.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Felix1",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "felix_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/felix_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Felix1Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Felix2",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "felix_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/felix_2.json",
+          "src/main/java/net/mcreator/minekpop/item/Felix2Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Felix3",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "felix_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Felix3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/felix_3.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Felix4",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "felix_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/felix_4.json",
+          "src/main/java/net/mcreator/minekpop/item/Felix4Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Han1",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "han_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Han1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/han_1.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Han2",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "han_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/han_2.json",
+          "src/main/java/net/mcreator/minekpop/item/Han2Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Han3",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "han_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/han_3.json",
+          "src/main/java/net/mcreator/minekpop/item/Han3Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Han4",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "han_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Han4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/han_4.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Hyunjin1",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hyunjin_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/hyunjin_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Hyunjin1Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Hyunjin2",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hyunjin_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Hyunjin2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/hyunjin_2.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Hyunjin3",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hyunjin_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Hyunjin3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/hyunjin_3.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Hyunjin4",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hyunjin_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Hyunjin4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/hyunjin_4.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "IN1",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "in_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/IN1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/in_1.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "IN2",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "in_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/in_2.json",
+          "src/main/java/net/mcreator/minekpop/item/IN2Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "IN3",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "in_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/IN3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/in_3.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "IN4",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "in_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/in_4.json",
+          "src/main/java/net/mcreator/minekpop/item/IN4Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "LeeKnow1",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lee_know_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/LeeKnow1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/lee_know_1.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "LeeKnow2",
+      "type": "item",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lee_know_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/LeeKnow2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/lee_know_2.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "LeeKnow3",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lee_know_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/lee_know_3.json",
+          "src/main/java/net/mcreator/minekpop/item/LeeKnow3Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "LeeKnow4",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lee_know_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/LeeKnow4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/lee_know_4.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Seungmin1",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seungmin_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Seungmin1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/seungmin_1.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Seungmin2",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seungmin_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Seungmin2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/seungmin_2.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Seungmin3",
+      "type": "item",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seungmin_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/seungmin_3.json",
+          "src/main/java/net/mcreator/minekpop/item/Seungmin3Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "Seungmin4",
+      "type": "item",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seungmin_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Seungmin4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/seungmin_4.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "StrayKidsMaxIdent",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stray_kids_max_ident",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/StrayKidsMaxIdentItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/stray_kids_max_ident.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "StrayKids1",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stray_kids_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/stray_kids_1.json",
+          "src/main/java/net/mcreator/minekpop/item/StrayKids1Item.java"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "StrayKids2",
+      "type": "item",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stray_kids_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/StrayKids2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/stray_kids_2.json"
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "StrayKids5StarsPlayerFinishesUsingItem",
+      "type": "procedure",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stray_kids_5_stars_player_finishes_using_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/StrayKids5StarsPlayerFinishesUsingItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Groups/StrayKids"
+    },
+    {
+      "name": "StrayKidsMaxIdentPlayerFinishesUsingItem",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stray_kids_max_ident_player_finishes_using_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/StrayKidsMaxIdentPlayerFinishesUsingItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.mine_kpop.eunchae_4": "Eunchae 4",
+      "item.mine_kpop.felix_3": "Felix 3",
+      "item.mine_kpop.in_3": "I.N. 3",
+      "item.mine_kpop.felix_2": "Felix 2",
+      "item.mine_kpop.in_4": "I.N. 4",
       "item.mine_kpop.chaewon_lakers": "Chaewon Lakers",
+      "item.mine_kpop.felix_4": "Felix 4",
+      "item.mine_kpop.han_4": "Han 4",
+      "item.mine_kpop.han_3": "Han 3",
+      "item.mine_kpop.han_2": "Han 2",
+      "item.mine_kpop.han_1": "Han 1",
+      "item.mine_kpop.felix_1": "Felix 1",
+      "item.mine_kpop.lee_know_4": "Lee Know 4",
+      "item.mine_kpop.lee_know_2": "Lee Know 2",
+      "item.mine_kpop.lee_know_3": "Lee Know 3",
+      "item.mine_kpop.stray_kids_2": "Stray Kids 2",
+      "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
+      "item.mine_kpop.lee_know_1": "Lee Know 1",
+      "item.mine_kpop.stray_kids_1": "Stray Kids 1",
+      "item.mine_kpop.in_1": "I.N. 1",
+      "item.mine_kpop.in_2": "I.N. 2",
+      "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
+      "item.mine_kpop.chaewon_fcb_3": "Chaewon FCB3",
+      "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
+      "item.mine_kpop.le_sserafim_1": "Le Sserafim 1",
+      "item.mine_kpop.lesserafim_lightstick": "Lesserafim lightstick",
+      "item_group.kpop_albums.mine_kpop": "Mine Kpop",
+      "item.mine_kpop.chaewon_fcb_2": "Chaewon FCB2",
+      "item.mine_kpop.chaewon_fcb_1": "Chaewon FCB1",
+      "item.mine_kpop.eunchae_4": "Eunchae 4",
       "item.mine_kpop.eunchae_3": "Eunchae 3",
       "item.mine_kpop.sakura_4": "Sakura 4",
       "item.mine_kpop.eunchae_2": "Eunchae 2",
@@ -651,28 +1297,38 @@
       "item.mine_kpop.chaewon_6": "Chaewon 6",
       "item.mine_kpop.chaewon_5": "Chaewon 5",
       "item.mine_kpop.kazuha_1": "Kazuha 1",
+      "item.mine_kpop.stray_kids_max_ident": "Stray Kids Max ident",
       "item.mine_kpop.kazuha_4": "Kazuha 4",
       "item.mine_kpop.kazuha_2": "Kazuha 2",
       "item.mine_kpop.kazuha_3": "Kazuha 3",
-      "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
+      "item.mine_kpop.seungmin_1": "Seungmin 1",
       "item_group.mine_kpop.mine_kpop": "Mine Kpop",
-      "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
-      "item.mine_kpop.chaewon_fcb_3": "Chaewon FCB3",
-      "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
       "item.mine_kpop.le_sserafim_album": "Le Sserafim Fearless",
+      "item.mine_kpop.hyunjin_3": "Hyunjin 3",
+      "item.mine_kpop.seungmin_2": "Seungmin 2",
       "item.kpop_albums.le_sserafim_album": "Le Sserafim Album",
-      "item.mine_kpop.le_sserafim_1": "Le Sserafim 1",
       "item.mine_kpop.le_sserafim_fcb_1": "Le Sserafim FCB1",
+      "item.mine_kpop.hyunjin_4": "Hyunjin 4",
+      "item.mine_kpop.seungmin_3": "Seungmin 3",
       "item.mine_kpop.le_sserafim_fcb_2": "Le Sserafim FCB2",
+      "item.mine_kpop.stray_kids_5_stars": "Stray kids 5 Stars",
+      "item.mine_kpop.hyunjin_1": "Hyunjin 1",
+      "item.mine_kpop.seungmin_4": "Seungmin 4",
       "item.mine_kpop.le_sserafim_fcb_3": "Le Sserafim FCB3",
-      "item.mine_kpop.lesserafim_lightstick": "Lesserafim lightstick",
+      "item.mine_kpop.hyunjin_2": "Hyunjin 2",
+      "item.mine_kpop.stray_kids_lightstick": "Stray kids lightstick",
+      "item.mine_kpop.changbin_2": "Changbin 2",
       "item.mine_kpop.junjin_4": "Junjin 4",
       "item.mine_kpop.le_sserafim_album_2": "Le Sserafim Unforgiven",
+      "item.mine_kpop.chan_4": "Chan 4",
+      "item.mine_kpop.changbin_3": "Changbin 3",
+      "item.mine_kpop.chan_3": "Chan 3",
+      "item.mine_kpop.changbin_4": "Changbin 4",
+      "item.mine_kpop.chan_2": "Chan 2",
+      "item.mine_kpop.chan_1": "Chan 1",
       "item.mine_kpop.chaewon_rabbit": "Chaewon rabbit",
-      "item_group.kpop_albums.mine_kpop": "Mine Kpop",
-      "item.mine_kpop.chaewon_fcb_2": "Chaewon FCB2",
+      "item.mine_kpop.changbin_1": "Changbin 1",
       "item.mine_kpop.le_sserafim_f_1": "Le Sserafim F1",
-      "item.mine_kpop.chaewon_fcb_1": "Chaewon FCB1",
       "item.mine_kpop.junjin_1": "Junjin 1",
       "item.mine_kpop.junjin_3": "Junjin 3",
       "item.mine_kpop.junjin_2": "Junjin 2"
@@ -690,6 +1346,10 @@
         "children": [
           {
             "name": "LeSserafim",
+            "children": []
+          },
+          {
+            "name": "StrayKids",
             "children": []
           }
         ]
