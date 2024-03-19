@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mine_kpop:item/bts_you_never_walk_alone"
+  }
+}

@@ -33,7 +33,7 @@
     {
       "name": "MineKpop",
       "type": "tab",
-      "sortid": 38,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mine_kpop",
@@ -44,7 +44,7 @@
     {
       "name": "Chaewon1",
       "type": "item",
-      "sortid": 4,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_1",
@@ -59,7 +59,7 @@
     {
       "name": "Chaewon2",
       "type": "item",
-      "sortid": 5,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_2",
@@ -74,7 +74,7 @@
     {
       "name": "LeSserafimAlbumPlayerFinishesUsingItem",
       "type": "procedure",
-      "sortid": 39,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_album_player_finishes_using_item",
@@ -106,7 +106,7 @@
     {
       "name": "Chaewon3",
       "type": "item",
-      "sortid": 6,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_3",
@@ -121,7 +121,7 @@
     {
       "name": "Chaewon4",
       "type": "item",
-      "sortid": 7,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_4",
@@ -136,7 +136,7 @@
     {
       "name": "Chaewon5",
       "type": "item",
-      "sortid": 8,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_5",
@@ -151,7 +151,7 @@
     {
       "name": "ChaewonFCB1",
       "type": "item",
-      "sortid": 9,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_fcb_1",
@@ -166,7 +166,7 @@
     {
       "name": "ChaewonFCB2",
       "type": "item",
-      "sortid": 10,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_fcb_2",
@@ -181,7 +181,7 @@
     {
       "name": "ChaewonFCB3",
       "type": "item",
-      "sortid": 11,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_fcb_3",
@@ -196,7 +196,7 @@
     {
       "name": "Eunchae1",
       "type": "item",
-      "sortid": 12,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eunchae_1",
@@ -211,7 +211,7 @@
     {
       "name": "Eunchae2",
       "type": "item",
-      "sortid": 13,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eunchae_2",
@@ -226,7 +226,7 @@
     {
       "name": "Eunchae3",
       "type": "item",
-      "sortid": 14,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eunchae_3",
@@ -241,7 +241,7 @@
     {
       "name": "Eunchae4",
       "type": "item",
-      "sortid": 15,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eunchae_4",
@@ -256,7 +256,7 @@
     {
       "name": "Junjin1",
       "type": "item",
-      "sortid": 16,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "junjin_1",
@@ -271,7 +271,7 @@
     {
       "name": "Junjin2",
       "type": "item",
-      "sortid": 17,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "junjin_2",
@@ -286,7 +286,7 @@
     {
       "name": "Junjin3",
       "type": "item",
-      "sortid": 18,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "junjin_3",
@@ -301,7 +301,7 @@
     {
       "name": "Junjin4",
       "type": "item",
-      "sortid": 19,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "junjin_4",
@@ -316,7 +316,7 @@
     {
       "name": "Kazuha1",
       "type": "item",
-      "sortid": 20,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kazuha_1",
@@ -331,7 +331,7 @@
     {
       "name": "Kazuha2",
       "type": "item",
-      "sortid": 21,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kazuha_2",
@@ -346,7 +346,7 @@
     {
       "name": "Kazuha3",
       "type": "item",
-      "sortid": 22,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kazuha_3",
@@ -361,7 +361,7 @@
     {
       "name": "Kazuha4",
       "type": "item",
-      "sortid": 23,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kazuha_4",
@@ -376,7 +376,7 @@
     {
       "name": "LeSserafim1",
       "type": "item",
-      "sortid": 24,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_1",
@@ -391,7 +391,7 @@
     {
       "name": "LeSserafimF1",
       "type": "item",
-      "sortid": 25,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_f_1",
@@ -406,7 +406,7 @@
     {
       "name": "LeSserafimFCB1",
       "type": "item",
-      "sortid": 26,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_fcb_1",
@@ -421,7 +421,7 @@
     {
       "name": "LeSserafimFCB2",
       "type": "item",
-      "sortid": 27,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_fcb_2",
@@ -436,7 +436,7 @@
     {
       "name": "LeSserafimFCB3",
       "type": "item",
-      "sortid": 28,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_fcb_3",
@@ -451,7 +451,7 @@
     {
       "name": "LeSserafimPerfectNight",
       "type": "item",
-      "sortid": 29,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_perfect_night",
@@ -466,7 +466,7 @@
     {
       "name": "Sakura1",
       "type": "item",
-      "sortid": 30,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sakura_1",
@@ -481,7 +481,7 @@
     {
       "name": "Sakura2",
       "type": "item",
-      "sortid": 31,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sakura_2",
@@ -496,7 +496,7 @@
     {
       "name": "Sakura3",
       "type": "item",
-      "sortid": 32,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sakura_3",
@@ -511,7 +511,7 @@
     {
       "name": "Sakura4",
       "type": "item",
-      "sortid": 33,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sakura_4",
@@ -526,7 +526,7 @@
     {
       "name": "ChaewonLakers",
       "type": "item",
-      "sortid": 34,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_lakers",
@@ -556,7 +556,7 @@
     {
       "name": "ChaewonRabbit",
       "type": "item",
-      "sortid": 35,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_rabbit",
@@ -571,7 +571,7 @@
     {
       "name": "Chaewon6",
       "type": "item",
-      "sortid": 36,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chaewon_6",
@@ -586,7 +586,7 @@
     {
       "name": "LeSserafim2",
       "type": "item",
-      "sortid": 37,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_2",
@@ -601,7 +601,7 @@
     {
       "name": "LeSserafimAlbum2PlayerFinishesUsingItem",
       "type": "procedure",
-      "sortid": 40,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "le_sserafim_album_2_player_finishes_using_item",
@@ -633,7 +633,7 @@
     {
       "name": "StrayKids5Stars",
       "type": "item",
-      "sortid": 41,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stray_kids_5_stars",
@@ -1143,7 +1143,7 @@
     {
       "name": "StrayKidsMaxIdent",
       "type": "item",
-      "sortid": 75,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stray_kids_max_ident",
@@ -1158,7 +1158,7 @@
     {
       "name": "StrayKids1",
       "type": "item",
-      "sortid": 76,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stray_kids_1",
@@ -1173,7 +1173,7 @@
     {
       "name": "StrayKids2",
       "type": "item",
-      "sortid": 77,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stray_kids_2",
@@ -1188,7 +1188,7 @@
     {
       "name": "StrayKids5StarsPlayerFinishesUsingItem",
       "type": "procedure",
-      "sortid": 78,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stray_kids_5_stars_player_finishes_using_item",
@@ -1220,7 +1220,7 @@
     {
       "name": "StrayKidsMaxIdentPlayerFinishesUsingItem",
       "type": "procedure",
-      "sortid": 79,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stray_kids_max_ident_player_finishes_using_item",
@@ -1248,54 +1248,692 @@
         ]
       },
       "path": "~/Albums"
+    },
+    {
+      "name": "BtsLoveYourself",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_love_yourself",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/BtsLoveYourselfItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/bts_love_yourself.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BtsYouNeverWalkAlone",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_you_never_walk_alone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/bts_you_never_walk_alone.json",
+          "src/main/java/net/mcreator/minekpop/item/BtsYouNeverWalkAloneItem.java"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "JHope1",
+      "type": "item",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_hope_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/JHope1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/j_hope_1.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "JHope2",
+      "type": "item",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_hope_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/j_hope_2.json",
+          "src/main/java/net/mcreator/minekpop/item/JHope2Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "JHope3",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_hope_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/JHope3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/j_hope_3.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "JHope4",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_hope_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/j_hope_4.json",
+          "src/main/java/net/mcreator/minekpop/item/JHope4Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jimin1",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jimin_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jimin_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Jimin1Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jimin2",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jimin_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jimin_2.json",
+          "src/main/java/net/mcreator/minekpop/item/Jimin2Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jimin3",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jimin_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Jimin3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/jimin_3.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jimin4",
+      "type": "item",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jimin_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jimin_4.json",
+          "src/main/java/net/mcreator/minekpop/item/Jimin4Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jimin5",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jimin_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Jimin5Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/jimin_5.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jin1",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jin_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jin_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Jin1Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jin2",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jin_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jin_2.json",
+          "src/main/java/net/mcreator/minekpop/item/Jin2Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jin3",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jin_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Jin3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/jin_3.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Jin4",
+      "type": "item",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jin_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jin_4.json",
+          "src/main/java/net/mcreator/minekpop/item/Jin4Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "JungKook1",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jung_kook_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/JungKook1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/jung_kook_1.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "JungKook2",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jung_kook_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jung_kook_2.json",
+          "src/main/java/net/mcreator/minekpop/item/JungKook2Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "JungKook3",
+      "type": "item",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jung_kook_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/JungKook3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/jung_kook_3.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "JungKook4",
+      "type": "item",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jung_kook_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jung_kook_4.json",
+          "src/main/java/net/mcreator/minekpop/item/JungKook4Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "JungKook5",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jung_kook_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/jung_kook_5.json",
+          "src/main/java/net/mcreator/minekpop/item/JungKook5Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "RM1",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rm_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/RM1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/rm_1.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "RM2",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rm_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/rm_2.json",
+          "src/main/java/net/mcreator/minekpop/item/RM2Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "RM3",
+      "type": "item",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rm_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/RM3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/rm_3.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "RM4",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rm_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/RM4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/rm_4.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Suga1",
+      "type": "item",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suga_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/suga_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Suga1Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Suga2",
+      "type": "item",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suga_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Suga2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/suga_2.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Suga3",
+      "type": "item",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suga_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/suga_3.json",
+          "src/main/java/net/mcreator/minekpop/item/Suga3Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Suga4",
+      "type": "item",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suga_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/suga_4.json",
+          "src/main/java/net/mcreator/minekpop/item/Suga4Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "Suga5",
+      "type": "item",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suga_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Suga5Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/suga_5.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "V1",
+      "type": "item",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "v_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/v_1.json",
+          "src/main/java/net/mcreator/minekpop/item/V1Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "V2",
+      "type": "item",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "v_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/V2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/v_2.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "V3",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "v_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/V3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/v_3.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "V4",
+      "type": "item",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "v_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/v_4.json",
+          "src/main/java/net/mcreator/minekpop/item/V4Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "BtsLoveYourselfPlayerFinishesUsingItem",
+      "type": "procedure",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_love_yourself_player_finishes_using_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/BtsLoveYourselfPlayerFinishesUsingItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BtsYouNeverWalkAlonePlayerFinishesUsingItem",
+      "type": "procedure",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_you_never_walk_alone_player_finishes_using_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/BtsYouNeverWalkAlonePlayerFinishesUsingItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTS1",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/BTS1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/bts_1.json"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "BTS2",
+      "type": "item",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/bts_2.json",
+          "src/main/java/net/mcreator/minekpop/item/BTS2Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
+    },
+    {
+      "name": "BT21",
+      "type": "item",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bt_21",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/bt_21.json",
+          "src/main/java/net/mcreator/minekpop/item/BT21Item.java"
+        ]
+      },
+      "path": "~/Groups/BTS"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.mine_kpop.in_3": "Jeongin 3",
-      "item.mine_kpop.felix_3": "Felix 3",
-      "item.mine_kpop.felix_2": "Felix 2",
-      "item.mine_kpop.in_4": "Jeongin 4",
-      "item.mine_kpop.chaewon_lakers": "Chaewon Lakers",
-      "item.mine_kpop.felix_4": "Felix 4",
       "item.mine_kpop.han_4": "Han 4",
       "item.mine_kpop.han_3": "Han 3",
       "item.mine_kpop.han_2": "Han 2",
       "item.mine_kpop.han_1": "Han 1",
-      "item.mine_kpop.felix_1": "Felix 1",
-      "item.mine_kpop.lee_know_4": "Lee Know 4",
-      "item.mine_kpop.lee_know_2": "Lee Know 2",
-      "item.mine_kpop.lee_know_3": "Lee Know 3",
+      "item.mine_kpop.bts_2": "BTS 2",
+      "item.mine_kpop.bts_1": "BTS 1",
       "item.mine_kpop.stray_kids_2": "Stray Kids 2",
-      "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
-      "item.mine_kpop.lee_know_1": "Lee Know 1",
       "item.mine_kpop.stray_kids_1": "Stray Kids 1",
-      "item.mine_kpop.in_1": "Jeongin 1",
-      "item.mine_kpop.in_2": "Jeongin 2",
-      "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
-      "item.mine_kpop.chaewon_fcb_3": "Chaewon FCB3",
       "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
+      "item.mine_kpop.jung_kook_2": "Jung Kook 2",
+      "item.mine_kpop.jung_kook_1": "Jung Kook 1",
+      "item.mine_kpop.jung_kook_4": "Jung Kook 4",
       "item.mine_kpop.le_sserafim_1": "Le Sserafim 1",
+      "item.mine_kpop.jung_kook_3": "Jung Kook 3",
+      "item.mine_kpop.jung_kook_5": "Jung Kook 5",
       "item.mine_kpop.lesserafim_lightstick": "Lesserafim lightstick",
+      "item.mine_kpop.rm_1": "RM 1",
+      "item.mine_kpop.rm_2": "RM 2",
+      "item.mine_kpop.rm_3": "RM 3",
+      "item.mine_kpop.rm_4": "RM 4",
       "item_group.kpop_albums.mine_kpop": "Mine Kpop",
-      "item.mine_kpop.chaewon_fcb_2": "Chaewon FCB2",
-      "item.mine_kpop.chaewon_fcb_1": "Chaewon FCB1",
       "item.mine_kpop.eunchae_4": "Eunchae 4",
       "item.mine_kpop.eunchae_3": "Eunchae 3",
-      "item.mine_kpop.sakura_4": "Sakura 4",
       "item.mine_kpop.eunchae_2": "Eunchae 2",
-      "item.mine_kpop.sakura_3": "Sakura 3",
       "item.mine_kpop.eunchae_1": "Eunchae 1",
-      "item.mine_kpop.sakura_2": "Sakura 2",
-      "item.mine_kpop.sakura_1": "Sakura 1",
       "item.mine_kpop.chaewon_2": "Chaewon 2",
       "item.mine_kpop.chaewon_1": "Chaewon 1",
       "item.mine_kpop.chaewon_4": "Chaewon 4",
       "item.mine_kpop.chaewon_3": "Chaewon 3",
       "item.mine_kpop.chaewon_6": "Chaewon 6",
       "item.mine_kpop.chaewon_5": "Chaewon 5",
+      "item.mine_kpop.le_sserafim_album": "Le Sserafim Fearless",
+      "item.kpop_albums.le_sserafim_album": "Le Sserafim Album",
+      "item.mine_kpop.bts_love_yourself": "BTS Love yourself",
+      "item.mine_kpop.junjin_4": "Junjin 4",
+      "item.mine_kpop.chaewon_rabbit": "Chaewon rabbit",
+      "item.mine_kpop.jin_4": "Jin 4",
+      "item.mine_kpop.jin_3": "Jin 3",
+      "item.mine_kpop.junjin_1": "Junjin 1",
+      "item.mine_kpop.jin_2": "Jin 2",
+      "item.mine_kpop.jin_1": "Jin 1",
+      "item.mine_kpop.junjin_3": "Junjin 3",
+      "item.mine_kpop.junjin_2": "Junjin 2",
+      "item.mine_kpop.in_3": "Jeongin 3",
+      "item.mine_kpop.felix_3": "Felix 3",
+      "item.mine_kpop.felix_2": "Felix 2",
+      "item.mine_kpop.in_4": "Jeongin 4",
+      "item.mine_kpop.jimin_5": "Jimin 5",
+      "item.mine_kpop.chaewon_lakers": "Chaewon Lakers",
+      "item.mine_kpop.jimin_4": "Jimin 4",
+      "item.mine_kpop.felix_4": "Felix 4",
+      "item.mine_kpop.jimin_3": "Jimin 3",
+      "item.mine_kpop.felix_1": "Felix 1",
+      "item.mine_kpop.bts_you_never_walk_alone": "BTS You never walk alone",
+      "item.mine_kpop.lee_know_4": "Lee Know 4",
+      "item.mine_kpop.lee_know_2": "Lee Know 2",
+      "item.mine_kpop.lee_know_3": "Lee Know 3",
+      "item.mine_kpop.jimin_2": "Jimin 2",
+      "item.mine_kpop.lee_know_1": "Lee Know 1",
+      "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
+      "item.mine_kpop.jimin_1": "Jimin 1",
+      "item.mine_kpop.in_1": "Jeongin 1",
+      "item.mine_kpop.bt_21": "BT21",
+      "item.mine_kpop.in_2": "Jeongin 2",
+      "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
+      "item.mine_kpop.chaewon_fcb_3": "Chaewon FCB3",
+      "item.mine_kpop.j_hope_3": "J-Hope 3",
+      "item.mine_kpop.j_hope_4": "J-Hope 4",
+      "item.mine_kpop.j_hope_1": "J-Hope 1",
+      "item.mine_kpop.j_hope_2": "J-Hope 2",
+      "item.mine_kpop.chaewon_fcb_2": "Chaewon FCB2",
+      "item.mine_kpop.chaewon_fcb_1": "Chaewon FCB1",
+      "item.mine_kpop.sakura_4": "Sakura 4",
+      "item.mine_kpop.sakura_3": "Sakura 3",
+      "item.mine_kpop.sakura_2": "Sakura 2",
+      "item.mine_kpop.sakura_1": "Sakura 1",
       "item.mine_kpop.kazuha_1": "Kazuha 1",
       "item.mine_kpop.stray_kids_max_ident": "Stray Kids Max ident",
       "item.mine_kpop.kazuha_4": "Kazuha 4",
@@ -1303,35 +1941,37 @@
       "item.mine_kpop.kazuha_3": "Kazuha 3",
       "item.mine_kpop.seungmin_1": "Seungmin 1",
       "item_group.mine_kpop.mine_kpop": "Mine Kpop",
-      "item.mine_kpop.le_sserafim_album": "Le Sserafim Fearless",
       "item.mine_kpop.hyunjin_3": "Hyunjin 3",
       "item.mine_kpop.seungmin_2": "Seungmin 2",
-      "item.kpop_albums.le_sserafim_album": "Le Sserafim Album",
       "item.mine_kpop.le_sserafim_fcb_1": "Le Sserafim FCB1",
       "item.mine_kpop.hyunjin_4": "Hyunjin 4",
       "item.mine_kpop.seungmin_3": "Seungmin 3",
-      "item.mine_kpop.le_sserafim_fcb_2": "Le Sserafim FCB2",
-      "item.mine_kpop.stray_kids_5_stars": "Stray kids 5 Stars",
-      "item.mine_kpop.hyunjin_1": "Hyunjin 1",
       "item.mine_kpop.seungmin_4": "Seungmin 4",
+      "item.mine_kpop.hyunjin_1": "Hyunjin 1",
+      "item.mine_kpop.stray_kids_5_stars": "Stray kids 5 Stars",
+      "item.mine_kpop.le_sserafim_fcb_2": "Le Sserafim FCB2",
       "item.mine_kpop.le_sserafim_fcb_3": "Le Sserafim FCB3",
       "item.mine_kpop.hyunjin_2": "Hyunjin 2",
       "item.mine_kpop.stray_kids_lightstick": "Stray kids lightstick",
       "item.mine_kpop.changbin_2": "Changbin 2",
-      "item.mine_kpop.junjin_4": "Junjin 4",
+      "item.mine_kpop.suga_3": "Suga 3",
       "item.mine_kpop.le_sserafim_album_2": "Le Sserafim Unforgiven",
       "item.mine_kpop.chan_4": "Chan 4",
       "item.mine_kpop.changbin_3": "Changbin 3",
+      "item.mine_kpop.suga_2": "Suga 2",
       "item.mine_kpop.chan_3": "Chan 3",
       "item.mine_kpop.changbin_4": "Changbin 4",
+      "item.mine_kpop.suga_1": "Suga 1",
       "item.mine_kpop.chan_2": "Chan 2",
       "item.mine_kpop.chan_1": "Chan 1",
-      "item.mine_kpop.chaewon_rabbit": "Chaewon rabbit",
       "item.mine_kpop.changbin_1": "Changbin 1",
       "item.mine_kpop.le_sserafim_f_1": "Le Sserafim F1",
-      "item.mine_kpop.junjin_1": "Junjin 1",
-      "item.mine_kpop.junjin_3": "Junjin 3",
-      "item.mine_kpop.junjin_2": "Junjin 2"
+      "item.mine_kpop.v_4": "V 4",
+      "item.mine_kpop.v_2": "V 2",
+      "item.mine_kpop.v_3": "V 3",
+      "item.mine_kpop.suga_5": "Suga 5",
+      "item.mine_kpop.suga_4": "Suga 4",
+      "item.mine_kpop.v_1": "V 1"
     }
   },
   "foldersRoot": {
@@ -1350,6 +1990,10 @@
           },
           {
             "name": "StrayKids",
+            "children": []
+          },
+          {
+            "name": "BTS",
             "children": []
           }
         ]
