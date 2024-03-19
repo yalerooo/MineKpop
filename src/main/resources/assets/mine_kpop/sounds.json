@@ -1,0 +1,18 @@
+{
+  "opening": {
+    "sounds": [
+      {
+        "name": "mine_kpop:opening",
+        "stream": false
+      }
+    ]
+  },
+  "opening2": {
+    "sounds": [
+      {
+        "name": "mine_kpop:opening2",
+        "stream": false
+      }
+    ]
+  }
+}

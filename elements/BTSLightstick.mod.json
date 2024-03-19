@@ -3,16 +3,16 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "skz_maxident",
+    "texture": "totem_of_undying-bts",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Stray Kids Max ident",
+    "name": "BTS Lightstick",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:MineKpop"
     },
-    "stackSize": 1,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,
@@ -35,22 +35,19 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "onRightClickedInAir": {
-      "name": "StrayKidsMaxIdentRightclicked"
-    },
     "enableRanged": false,
     "shootConstantly": false,
     "projectile": {
       "value": "Arrow"
     },
     "isFood": false,
-    "nutritionalValue": 0,
-    "saturation": 0.0,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
     "eatResultItem": {
       "value": ""
     },
     "isMeat": false,
-    "isAlwaysEdible": true,
+    "isAlwaysEdible": false,
     "animation": "none"
   }
 }

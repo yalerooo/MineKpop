@@ -117,6 +117,7 @@ import net.mcreator.minekpop.item.Chaewon2Item;
 import net.mcreator.minekpop.item.Chaewon1Item;
 import net.mcreator.minekpop.item.BtsYouNeverWalkAloneItem;
 import net.mcreator.minekpop.item.BtsLoveYourselfItem;
+import net.mcreator.minekpop.item.BTSLightstickItem;
 import net.mcreator.minekpop.item.BTS2Item;
 import net.mcreator.minekpop.item.BTS1Item;
 import net.mcreator.minekpop.item.BT21Item;
@@ -125,6 +126,8 @@ import net.mcreator.minekpop.MineKpopMod;
 public class MineKpopModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, MineKpopMod.MODID);
 	public static final RegistryObject<Item> LESSERAFIM_LIGHTSTICK = REGISTRY.register("lesserafim_lightstick", () -> new LesserafimLightstickItem());
+	public static final RegistryObject<Item> STRAY_KIDS_LIGHTSTICK = REGISTRY.register("stray_kids_lightstick", () -> new StrayKidsLightstickItem());
+	public static final RegistryObject<Item> BTS_LIGHTSTICK = REGISTRY.register("bts_lightstick", () -> new BTSLightstickItem());
 	public static final RegistryObject<Item> LE_SSERAFIM_ALBUM = REGISTRY.register("le_sserafim_album", () -> new LeSserafimAlbumItem());
 	public static final RegistryObject<Item> LE_SSERAFIM_ALBUM_2 = REGISTRY.register("le_sserafim_album_2", () -> new LeSserafimAlbum2Item());
 	public static final RegistryObject<Item> STRAY_KIDS_5_STARS = REGISTRY.register("stray_kids_5_stars", () -> new StrayKids5StarsItem());
@@ -165,7 +168,6 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> CHAEWON_RABBIT = REGISTRY.register("chaewon_rabbit", () -> new ChaewonRabbitItem());
 	public static final RegistryObject<Item> CHAEWON_6 = REGISTRY.register("chaewon_6", () -> new Chaewon6Item());
 	public static final RegistryObject<Item> LE_SSERAFIM_2 = REGISTRY.register("le_sserafim_2", () -> new LeSserafim2Item());
-	public static final RegistryObject<Item> STRAY_KIDS_LIGHTSTICK = REGISTRY.register("stray_kids_lightstick", () -> new StrayKidsLightstickItem());
 	public static final RegistryObject<Item> CHAN_1 = REGISTRY.register("chan_1", () -> new Chan1Item());
 	public static final RegistryObject<Item> CHAN_2 = REGISTRY.register("chan_2", () -> new Chan2Item());
 	public static final RegistryObject<Item> CHAN_3 = REGISTRY.register("chan_3", () -> new Chan3Item());

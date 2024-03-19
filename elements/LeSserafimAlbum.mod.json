@@ -12,9 +12,9 @@
     "creativeTab": {
       "value": "CUSTOM:MineKpop"
     },
-    "stackSize": 64,
+    "stackSize": 1,
     "enchantability": 0,
-    "useDuration": 20,
+    "useDuration": 0,
     "toolType": 1.0,
     "damageCount": 0,
     "recipeRemainder": {
@@ -35,15 +35,15 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "onFinishUsingItem": {
-      "name": "LeSserafimAlbumPlayerFinishesUsingItem"
+    "onRightClickedInAir": {
+      "name": "LeSserafimAlbumRightclicked"
     },
     "enableRanged": false,
     "shootConstantly": false,
     "projectile": {
       "value": "Arrow"
     },
-    "isFood": true,
+    "isFood": false,
     "nutritionalValue": 0,
     "saturation": 0.0,
     "eatResultItem": {
@@ -51,6 +51,6 @@
     },
     "isMeat": false,
     "isAlwaysEdible": true,
-    "animation": "bow"
+    "animation": "none"
   }
 }

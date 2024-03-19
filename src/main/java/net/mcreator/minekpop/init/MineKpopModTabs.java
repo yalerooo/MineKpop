@@ -19,6 +19,8 @@ public class MineKpopModTabs {
 	public static final RegistryObject<CreativeModeTab> MINE_KPOP = REGISTRY.register("mine_kpop",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.mine_kpop.mine_kpop")).icon(() -> new ItemStack(MineKpopModItems.LESSERAFIM_LIGHTSTICK.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(MineKpopModItems.LESSERAFIM_LIGHTSTICK.get());
+				tabData.accept(MineKpopModItems.STRAY_KIDS_LIGHTSTICK.get());
+				tabData.accept(MineKpopModItems.BTS_LIGHTSTICK.get());
 				tabData.accept(MineKpopModItems.LE_SSERAFIM_ALBUM.get());
 				tabData.accept(MineKpopModItems.LE_SSERAFIM_ALBUM_2.get());
 				tabData.accept(MineKpopModItems.STRAY_KIDS_5_STARS.get());
@@ -59,7 +61,6 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.CHAEWON_RABBIT.get());
 				tabData.accept(MineKpopModItems.CHAEWON_6.get());
 				tabData.accept(MineKpopModItems.LE_SSERAFIM_2.get());
-				tabData.accept(MineKpopModItems.STRAY_KIDS_LIGHTSTICK.get());
 				tabData.accept(MineKpopModItems.CHAN_1.get());
 				tabData.accept(MineKpopModItems.CHAN_2.get());
 				tabData.accept(MineKpopModItems.CHAN_3.get());
