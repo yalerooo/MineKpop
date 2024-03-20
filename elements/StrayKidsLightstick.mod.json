@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Stray kids lightstick",
+    "name": "Stray kids Lightstick",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:MineKpop"
@@ -30,7 +30,7 @@
       "fixedValue": []
     },
     "glowCondition": {
-      "fixedValue": true
+      "fixedValue": false
     },
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,

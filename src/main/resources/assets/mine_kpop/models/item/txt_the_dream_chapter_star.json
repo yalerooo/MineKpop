@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mine_kpop:item/txt_the_dream_chapter_star"
+  }
+}
