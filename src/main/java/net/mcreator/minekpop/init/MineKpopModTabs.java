@@ -21,12 +21,15 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.LESSERAFIM_LIGHTSTICK.get());
 				tabData.accept(MineKpopModItems.STRAY_KIDS_LIGHTSTICK.get());
 				tabData.accept(MineKpopModItems.BTS_LIGHTSTICK.get());
+				tabData.accept(MineKpopModItems.G_IDLE_LIGHTSTICK.get());
 				tabData.accept(MineKpopModItems.LE_SSERAFIM_ALBUM.get());
 				tabData.accept(MineKpopModItems.LE_SSERAFIM_ALBUM_2.get());
 				tabData.accept(MineKpopModItems.STRAY_KIDS_5_STARS.get());
 				tabData.accept(MineKpopModItems.STRAY_KIDS_MAX_IDENT.get());
 				tabData.accept(MineKpopModItems.BTS_LOVE_YOURSELF.get());
 				tabData.accept(MineKpopModItems.BTS_YOU_NEVER_WALK_ALONE.get());
+				tabData.accept(MineKpopModItems.G_IDLE_IFEEL_1.get());
+				tabData.accept(MineKpopModItems.G_IDLE_IFEEL_2.get());
 				tabData.accept(MineKpopModItems.CHAEWON_1.get());
 				tabData.accept(MineKpopModItems.CHAEWON_2.get());
 				tabData.accept(MineKpopModItems.CHAEWON_3.get());
@@ -157,6 +160,13 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.YUQI_3.get());
 				tabData.accept(MineKpopModItems.YUQI_4.get());
 				tabData.accept(MineKpopModItems.YUQI_5.get());
+				tabData.accept(MineKpopModItems.G_IDLE_1.get());
+				tabData.accept(MineKpopModItems.G_IDLE_2.get());
+				tabData.accept(MineKpopModItems.G_IDLE_3.get());
+				tabData.accept(MineKpopModItems.G_IDLE_4.get());
+				tabData.accept(MineKpopModItems.G_IDLE_5.get());
+				tabData.accept(MineKpopModItems.G_IDLE_6.get());
+				tabData.accept(MineKpopModItems.G_IDLE_7.get());
 			})
 
 					.build());
