@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Smart - Le Sserafim",
+    "rarity": "COMMON",
+    "texture": "easy3",
+    "description": "Smart from LeSserafim",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:easy1"
+    },
+    "lengthInTicks": 4320,
+    "analogOutput": 0
+  }
+}

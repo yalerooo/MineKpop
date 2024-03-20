@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Fire in the belly - Le Sserafim",
+    "rarity": "COMMON",
+    "texture": "unforgiven",
+    "description": "Fire in the belly from LeSserafim",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:fireinthebelly"
+    },
+    "lengthInTicks": 4320,
+    "analogOutput": 0
+  }
+}

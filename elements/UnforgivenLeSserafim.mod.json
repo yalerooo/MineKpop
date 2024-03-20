@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Unforgiven - Le Sserafim",
+    "rarity": "COMMON",
+    "texture": "unforgiven",
+    "description": "Unforgiven from LeSserafim",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:unforgiven2"
+    },
+    "lengthInTicks": 3640,
+    "analogOutput": 0
+  }
+}

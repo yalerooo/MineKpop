@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Queencard - G-Idle",
+    "rarity": "COMMON",
+    "texture": "queencard2",
+    "description": "Queencard from G-Idle",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:queencard"
+    },
+    "lengthInTicks": 4080,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Antifragile - Le Sserafim",
+    "rarity": "COMMON",
+    "texture": "nocelestial",
+    "description": "Antifragile from LeSserafim",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:antifragile"
+    },
+    "lengthInTicks": 3800,
+    "analogOutput": 0
+  }
+}

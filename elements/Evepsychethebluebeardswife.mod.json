@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "eve psyche & the bluebeard’s wife - Le Sserafim",
+    "rarity": "COMMON",
+    "texture": "eve_psyche__the_bluebeards_wife",
+    "description": "eve psyche & the bluebeard’s wife from LeSserafim",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:eve"
+    },
+    "lengthInTicks": 3800,
+    "analogOutput": 0
+  }
+}

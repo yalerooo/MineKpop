@@ -204,6 +204,15 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.TXT_7.get());
 				tabData.accept(MineKpopModItems.TXT_8.get());
 				tabData.accept(MineKpopModItems.TXT_9.get());
+				tabData.accept(MineKpopModItems.SMART_LE_SERAFIM.get());
+				tabData.accept(MineKpopModItems.EASY_LE_SSERAFIM.get());
+				tabData.accept(MineKpopModItems.NOCELESTIAL_LE_SSERAFIM.get());
+				tabData.accept(MineKpopModItems.FIRE_IN_THE_BELLY_LE_SSERAFIM.get());
+				tabData.accept(MineKpopModItems.UNFORGIVEN_LE_SSERAFIM.get());
+				tabData.accept(MineKpopModItems.PERFECT_NIGHT_LE_SSERAFIM.get());
+				tabData.accept(MineKpopModItems.ANTIFRAGILE_LE_SSERAFIM.get());
+				tabData.accept(MineKpopModItems.EVEPSYCHETHEBLUEBEARDSWIFE.get());
+				tabData.accept(MineKpopModItems.QUEENCARD_G_IDLE.get());
 			})
 
 					.build());

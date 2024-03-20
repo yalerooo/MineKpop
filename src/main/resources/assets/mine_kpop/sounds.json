@@ -14,5 +14,93 @@
         "stream": false
       }
     ]
+  },
+  "easy": {
+    "sounds": [
+      {
+        "name": "mine_kpop:le_sserafim_reuserapim_smart",
+        "stream": false
+      }
+    ]
+  },
+  "easy1": {
+    "sounds": [
+      {
+        "name": "mine_kpop:le_sserafim_reuserapim_smart",
+        "stream": true
+      }
+    ]
+  },
+  "easy3": {
+    "sounds": [
+      {
+        "name": "mine_kpop:le_sserafim_easy",
+        "stream": false
+      }
+    ]
+  },
+  "nocelestial": {
+    "sounds": [
+      {
+        "name": "mine_kpop:le_sserafim_-_no_celestial",
+        "stream": true
+      }
+    ]
+  },
+  "fireinthebelly": {
+    "sounds": [
+      {
+        "name": "mine_kpop:fire_in_the_belly",
+        "stream": true
+      }
+    ]
+  },
+  "unforgiven": {
+    "sounds": [
+      {
+        "name": "mine_kpop:le_sserafim_unforgiven",
+        "stream": false
+      }
+    ]
+  },
+  "unforgiven2": {
+    "sounds": [
+      {
+        "name": "mine_kpop:le_sserafim_unforgiven",
+        "stream": true
+      }
+    ]
+  },
+  "perfect": {
+    "sounds": [
+      {
+        "name": "mine_kpop:le_sserafim_perfect_night_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "antifragile": {
+    "sounds": [
+      {
+        "name": "mine_kpop:antifragile",
+        "stream": true
+      }
+    ]
+  },
+  "eve": {
+    "sounds": [
+      {
+        "name": "mine_kpop:eve_psyche__the_bluebeards_wife",
+        "stream": true
+      }
+    ]
+  },
+  "queencard": {
+    "sounds": [
+      {
+        "name": "mine_kpop:queencard",
+        "stream": true
+      }
+    ]
   }
 }

@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "No celestial - Le Sserafim",
+    "rarity": "COMMON",
+    "texture": "nocelestial",
+    "description": "No celestial from LeSserafim",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:nocelestial"
+    },
+    "lengthInTicks": 4360,
+    "analogOutput": 0
+  }
+}
