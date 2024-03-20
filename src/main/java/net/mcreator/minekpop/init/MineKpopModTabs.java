@@ -129,6 +129,34 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.BTS_1.get());
 				tabData.accept(MineKpopModItems.BTS_2.get());
 				tabData.accept(MineKpopModItems.BT_21.get());
+				tabData.accept(MineKpopModItems.MINNIE_1.get());
+				tabData.accept(MineKpopModItems.MINNIE_2.get());
+				tabData.accept(MineKpopModItems.MINNIE_3.get());
+				tabData.accept(MineKpopModItems.MINNIE_4.get());
+				tabData.accept(MineKpopModItems.MINNIE_5.get());
+				tabData.accept(MineKpopModItems.MIYEON_1.get());
+				tabData.accept(MineKpopModItems.MIYEON_2.get());
+				tabData.accept(MineKpopModItems.MIYEON_3.get());
+				tabData.accept(MineKpopModItems.MIYEON_4.get());
+				tabData.accept(MineKpopModItems.SHUHUA_1.get());
+				tabData.accept(MineKpopModItems.SHUHUA_2.get());
+				tabData.accept(MineKpopModItems.SHUHUA_3.get());
+				tabData.accept(MineKpopModItems.SHUHUA_4.get());
+				tabData.accept(MineKpopModItems.SOOJIN_1.get());
+				tabData.accept(MineKpopModItems.SOOJIN_2.get());
+				tabData.accept(MineKpopModItems.SOOJIN_3.get());
+				tabData.accept(MineKpopModItems.SOOJIN_4.get());
+				tabData.accept(MineKpopModItems.SOYEON_1.get());
+				tabData.accept(MineKpopModItems.SOYEON_2.get());
+				tabData.accept(MineKpopModItems.SOYEON_3.get());
+				tabData.accept(MineKpopModItems.SOYEON_4.get());
+				tabData.accept(MineKpopModItems.SOYEON_5.get());
+				tabData.accept(MineKpopModItems.SOYEON_6.get());
+				tabData.accept(MineKpopModItems.YUQI_1.get());
+				tabData.accept(MineKpopModItems.YUQI_2.get());
+				tabData.accept(MineKpopModItems.YUQI_3.get());
+				tabData.accept(MineKpopModItems.YUQI_4.get());
+				tabData.accept(MineKpopModItems.YUQI_5.get());
 			})
 
 					.build());

@@ -1915,6 +1915,426 @@
         ]
       },
       "path": "~/LightSticks"
+    },
+    {
+      "name": "Minnie1",
+      "type": "item",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minnie_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Minnie1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/minnie_1.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Minnie2",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minnie_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/minnie_2.json",
+          "src/main/java/net/mcreator/minekpop/item/Minnie2Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Minnie3",
+      "type": "item",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minnie_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/minnie_3.json",
+          "src/main/java/net/mcreator/minekpop/item/Minnie3Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Minnie4",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minnie_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/minnie_4.json",
+          "src/main/java/net/mcreator/minekpop/item/Minnie4Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Minnie5",
+      "type": "item",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minnie_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Minnie5Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/minnie_5.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Miyeon1",
+      "type": "item",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miyeon_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/miyeon_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Miyeon1Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Miyeon2",
+      "type": "item",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miyeon_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Miyeon2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/miyeon_2.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Miyeon3",
+      "type": "item",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miyeon_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Miyeon3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/miyeon_3.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Miyeon4",
+      "type": "item",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miyeon_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/miyeon_4.json",
+          "src/main/java/net/mcreator/minekpop/item/Miyeon4Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Shuhua1",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuhua_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/shuhua_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Shuhua1Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Shuhua2",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuhua_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Shuhua2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/shuhua_2.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Shuhua3",
+      "type": "item",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuhua_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/shuhua_3.json",
+          "src/main/java/net/mcreator/minekpop/item/Shuhua3Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Shuhua4",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuhua_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Shuhua4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/shuhua_4.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soojin1",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soojin_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/soojin_1.json",
+          "src/main/java/net/mcreator/minekpop/item/Soojin1Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soojin2",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soojin_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/soojin_2.json",
+          "src/main/java/net/mcreator/minekpop/item/Soojin2Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soojin3",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soojin_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Soojin3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/soojin_3.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soojin4",
+      "type": "item",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soojin_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/soojin_4.json",
+          "src/main/java/net/mcreator/minekpop/item/Soojin4Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soyeon1",
+      "type": "item",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soyeon_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Soyeon1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/soyeon_1.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soyeon2",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soyeon_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/soyeon_2.json",
+          "src/main/java/net/mcreator/minekpop/item/Soyeon2Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soyeon3",
+      "type": "item",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soyeon_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Soyeon3Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/soyeon_3.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soyeon4",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soyeon_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/soyeon_4.json",
+          "src/main/java/net/mcreator/minekpop/item/Soyeon4Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soyeon5",
+      "type": "item",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soyeon_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Soyeon5Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/soyeon_5.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Soyeon6",
+      "type": "item",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soyeon_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/soyeon_6.json",
+          "src/main/java/net/mcreator/minekpop/item/Soyeon6Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Yuqi1",
+      "type": "item",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuqi_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Yuqi1Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/yuqi_1.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Yuqi2",
+      "type": "item",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuqi_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Yuqi2Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/yuqi_2.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Yuqi3",
+      "type": "item",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuqi_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/yuqi_3.json",
+          "src/main/java/net/mcreator/minekpop/item/Yuqi3Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Yuqi4",
+      "type": "item",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuqi_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Yuqi4Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/yuqi_4.json"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
+    },
+    {
+      "name": "Yuqi5",
+      "type": "item",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuqi_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/yuqi_5.json",
+          "src/main/java/net/mcreator/minekpop/item/Yuqi5Item.java"
+        ]
+      },
+      "path": "~/Groups/G-Idle"
     }
   ],
   "variable_elements": [],
@@ -1940,8 +2360,11 @@
     "en_us": {
       "item.mine_kpop.han_4": "Han 4",
       "item.mine_kpop.han_3": "Han 3",
+      "item.mine_kpop.yuqi_1": "Yuqi 1",
       "item.mine_kpop.han_2": "Han 2",
+      "item.mine_kpop.yuqi_2": "Yuqi 2",
       "item.mine_kpop.han_1": "Han 1",
+      "item.mine_kpop.yuqi_3": "Yuqi 3",
       "item.mine_kpop.bts_2": "BTS 2",
       "item.mine_kpop.bts_1": "BTS 1",
       "item.mine_kpop.stray_kids_2": "Stray Kids 2",
@@ -1950,8 +2373,8 @@
       "item.mine_kpop.jung_kook_2": "Jung Kook 2",
       "item.mine_kpop.jung_kook_1": "Jung Kook 1",
       "item.mine_kpop.jung_kook_4": "Jung Kook 4",
-      "item.mine_kpop.jung_kook_3": "Jung Kook 3",
       "item.mine_kpop.le_sserafim_1": "Le Sserafim 1",
+      "item.mine_kpop.jung_kook_3": "Jung Kook 3",
       "item.mine_kpop.jung_kook_5": "Jung Kook 5",
       "item.mine_kpop.lesserafim_lightstick": "Lesserafim lightstick",
       "item.mine_kpop.rm_1": "RM 1",
@@ -1959,6 +2382,8 @@
       "item.mine_kpop.rm_3": "RM 3",
       "item.mine_kpop.rm_4": "RM 4",
       "item_group.kpop_albums.mine_kpop": "Mine Kpop",
+      "item.mine_kpop.yuqi_4": "Yuqi 4",
+      "item.mine_kpop.yuqi_5": "Yuqi 5",
       "subtitles.opening2": "",
       "item.mine_kpop.eunchae_4": "Eunchae 4",
       "item.mine_kpop.eunchae_3": "Eunchae 3",
@@ -1985,27 +2410,42 @@
       "item.mine_kpop.junjin_2": "Junjin 2",
       "item.mine_kpop.in_3": "Jeongin 3",
       "item.mine_kpop.felix_3": "Felix 3",
+      "item.mine_kpop.soyeon_1": "Soyeon 1",
       "item.mine_kpop.felix_2": "Felix 2",
       "item.mine_kpop.in_4": "Jeongin 4",
       "item.mine_kpop.jimin_5": "Jimin 5",
+      "item.mine_kpop.soyeon_2": "Soyeon 2",
       "item.mine_kpop.chaewon_lakers": "Chaewon Lakers",
       "item.mine_kpop.jimin_4": "Jimin 4",
+      "item.mine_kpop.soyeon_3": "Soyeon 3",
       "item.mine_kpop.felix_4": "Felix 4",
       "item.mine_kpop.jimin_3": "Jimin 3",
+      "item.mine_kpop.soyeon_4": "Soyeon 4",
+      "item.mine_kpop.soyeon_5": "Soyeon 5",
+      "item.mine_kpop.soyeon_6": "Soyeon 6",
       "item.mine_kpop.felix_1": "Felix 1",
       "item.mine_kpop.bts_you_never_walk_alone": "BTS You never walk alone",
       "item.mine_kpop.lee_know_4": "Lee Know 4",
       "item.mine_kpop.lee_know_2": "Lee Know 2",
       "item.mine_kpop.lee_know_3": "Lee Know 3",
+      "item.mine_kpop.minnie_2": "Minnie 2",
+      "item.mine_kpop.minnie_3": "Minnie 3",
+      "item.mine_kpop.minnie_1": "Minnie 1",
       "item.mine_kpop.jimin_2": "Jimin 2",
       "item.mine_kpop.lee_know_1": "Lee Know 1",
       "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
       "item.mine_kpop.jimin_1": "Jimin 1",
       "item.mine_kpop.in_1": "Jeongin 1",
       "item.mine_kpop.bt_21": "BT21",
+      "item.mine_kpop.minnie_4": "Minnie 4",
       "item.mine_kpop.in_2": "Jeongin 2",
+      "item.mine_kpop.minnie_5": "Minnie 5",
       "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
+      "item.mine_kpop.soojin_3": "Soojin 3",
       "item.mine_kpop.chaewon_fcb_3": "Chaewon FCB3",
+      "item.mine_kpop.soojin_2": "Soojin 2",
+      "item.mine_kpop.soojin_1": "Soojin 1",
+      "item.mine_kpop.soojin_4": "Soojin 4",
       "item.mine_kpop.j_hope_3": "J-Hope 3",
       "item.mine_kpop.j_hope_4": "J-Hope 4",
       "item.mine_kpop.j_hope_1": "J-Hope 1",
@@ -2023,6 +2463,10 @@
       "item.mine_kpop.kazuha_3": "Kazuha 3",
       "item.mine_kpop.seungmin_1": "Seungmin 1",
       "subtitles.opening": "",
+      "item.mine_kpop.shuhua_4": "Shuhua 4",
+      "item.mine_kpop.shuhua_1": "Shuhua 1",
+      "item.mine_kpop.shuhua_3": "Shuhua 3",
+      "item.mine_kpop.shuhua_2": "Shuhua 2",
       "item_group.mine_kpop.mine_kpop": "Mine Kpop",
       "item.mine_kpop.hyunjin_3": "Hyunjin 3",
       "item.mine_kpop.seungmin_2": "Seungmin 2",
@@ -2038,14 +2482,18 @@
       "item.mine_kpop.stray_kids_lightstick": "Stray kids lightstick",
       "item.mine_kpop.changbin_2": "Changbin 2",
       "item.mine_kpop.suga_3": "Suga 3",
+      "item.mine_kpop.miyeon_4": "Miyeon 4",
       "item.mine_kpop.le_sserafim_album_2": "Le Sserafim Unforgiven",
       "item.mine_kpop.chan_4": "Chan 4",
       "item.mine_kpop.changbin_3": "Changbin 3",
       "item.mine_kpop.suga_2": "Suga 2",
+      "item.mine_kpop.miyeon_3": "Miyeon 3",
       "item.mine_kpop.chan_3": "Chan 3",
       "item.mine_kpop.changbin_4": "Changbin 4",
       "item.mine_kpop.suga_1": "Suga 1",
+      "item.mine_kpop.miyeon_2": "Miyeon 2",
       "item.mine_kpop.chan_2": "Chan 2",
+      "item.mine_kpop.miyeon_1": "Miyeon 1",
       "item.mine_kpop.chan_1": "Chan 1",
       "item.mine_kpop.changbin_1": "Changbin 1",
       "item.mine_kpop.le_sserafim_f_1": "Le Sserafim F1",
@@ -2077,6 +2525,10 @@
           },
           {
             "name": "BTS",
+            "children": []
+          },
+          {
+            "name": "G-Idle",
             "children": []
           }
         ]
