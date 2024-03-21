@@ -1929,7 +1929,7 @@
           "src/main/resources/assets/mine_kpop/models/item/minnie_1.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Minnie2",
@@ -1944,7 +1944,7 @@
           "src/main/java/net/mcreator/minekpop/item/Minnie2Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Minnie3",
@@ -1959,7 +1959,7 @@
           "src/main/java/net/mcreator/minekpop/item/Minnie3Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Minnie4",
@@ -1974,7 +1974,7 @@
           "src/main/java/net/mcreator/minekpop/item/Minnie4Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Minnie5",
@@ -1989,7 +1989,7 @@
           "src/main/resources/assets/mine_kpop/models/item/minnie_5.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Miyeon1",
@@ -2004,7 +2004,7 @@
           "src/main/java/net/mcreator/minekpop/item/Miyeon1Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Miyeon2",
@@ -2019,7 +2019,7 @@
           "src/main/resources/assets/mine_kpop/models/item/miyeon_2.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Miyeon3",
@@ -2034,7 +2034,7 @@
           "src/main/resources/assets/mine_kpop/models/item/miyeon_3.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Miyeon4",
@@ -2049,7 +2049,7 @@
           "src/main/java/net/mcreator/minekpop/item/Miyeon4Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Shuhua1",
@@ -2064,7 +2064,7 @@
           "src/main/java/net/mcreator/minekpop/item/Shuhua1Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Shuhua2",
@@ -2079,7 +2079,7 @@
           "src/main/resources/assets/mine_kpop/models/item/shuhua_2.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Shuhua3",
@@ -2094,7 +2094,7 @@
           "src/main/java/net/mcreator/minekpop/item/Shuhua3Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Shuhua4",
@@ -2109,7 +2109,7 @@
           "src/main/resources/assets/mine_kpop/models/item/shuhua_4.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soojin1",
@@ -2124,7 +2124,7 @@
           "src/main/java/net/mcreator/minekpop/item/Soojin1Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soojin2",
@@ -2139,7 +2139,7 @@
           "src/main/java/net/mcreator/minekpop/item/Soojin2Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soojin3",
@@ -2154,7 +2154,7 @@
           "src/main/resources/assets/mine_kpop/models/item/soojin_3.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soojin4",
@@ -2169,7 +2169,7 @@
           "src/main/java/net/mcreator/minekpop/item/Soojin4Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soyeon1",
@@ -2184,7 +2184,7 @@
           "src/main/resources/assets/mine_kpop/models/item/soyeon_1.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soyeon2",
@@ -2199,7 +2199,7 @@
           "src/main/java/net/mcreator/minekpop/item/Soyeon2Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soyeon3",
@@ -2214,7 +2214,7 @@
           "src/main/resources/assets/mine_kpop/models/item/soyeon_3.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soyeon4",
@@ -2229,7 +2229,7 @@
           "src/main/java/net/mcreator/minekpop/item/Soyeon4Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soyeon5",
@@ -2244,7 +2244,7 @@
           "src/main/resources/assets/mine_kpop/models/item/soyeon_5.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Soyeon6",
@@ -2259,7 +2259,7 @@
           "src/main/java/net/mcreator/minekpop/item/Soyeon6Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Yuqi1",
@@ -2274,7 +2274,7 @@
           "src/main/resources/assets/mine_kpop/models/item/yuqi_1.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Yuqi2",
@@ -2289,7 +2289,7 @@
           "src/main/resources/assets/mine_kpop/models/item/yuqi_2.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Yuqi3",
@@ -2304,7 +2304,7 @@
           "src/main/java/net/mcreator/minekpop/item/Yuqi3Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Yuqi4",
@@ -2319,7 +2319,7 @@
           "src/main/resources/assets/mine_kpop/models/item/yuqi_4.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "Yuqi5",
@@ -2334,7 +2334,7 @@
           "src/main/java/net/mcreator/minekpop/item/Yuqi5Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "GIdleIfeel1",
@@ -2459,7 +2459,7 @@
           "src/main/java/net/mcreator/minekpop/item/GIdle1Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "GIdle2",
@@ -2474,7 +2474,7 @@
           "src/main/resources/assets/mine_kpop/models/item/g_idle_2.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "GIdle3",
@@ -2489,7 +2489,7 @@
           "src/main/java/net/mcreator/minekpop/item/GIdle3Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "GIdle4",
@@ -2504,7 +2504,7 @@
           "src/main/resources/assets/mine_kpop/models/item/g_idle_4.json"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "GIdle5",
@@ -2519,7 +2519,7 @@
           "src/main/java/net/mcreator/minekpop/item/GIdle5Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "GIdle6",
@@ -2534,7 +2534,7 @@
           "src/main/java/net/mcreator/minekpop/item/GIdle6Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "GIdle7",
@@ -2549,7 +2549,7 @@
           "src/main/java/net/mcreator/minekpop/item/GIdle7Item.java"
         ]
       },
-      "path": "~/Groups/G-Idle"
+      "path": "~/Groups/GI-DLE"
     },
     {
       "name": "GIdleLightstick",
@@ -3335,6 +3335,81 @@
         ]
       },
       "path": "~/Music"
+    },
+    {
+      "name": "Fategidle",
+      "type": "musicdisc",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fategidle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/fategidle.json",
+          "src/main/java/net/mcreator/minekpop/item/FategidleItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "LadyGidle",
+      "type": "musicdisc",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lady_gidle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/lady_gidle.json",
+          "src/main/java/net/mcreator/minekpop/item/LadyGidleItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Wifegidle",
+      "type": "musicdisc",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wifegidle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/WifegidleItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/wifegidle.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "IWantThatGidle",
+      "type": "musicdisc",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_want_that_gidle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/IWantThatGidleItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/i_want_that_gidle.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "EyesRollGidle",
+      "type": "musicdisc",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eyes_roll_gidle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/EyesRollGidleItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/eyes_roll_gidle.json"
+        ]
+      },
+      "path": "~/Music"
     }
   ],
   "variable_elements": [],
@@ -3442,22 +3517,63 @@
       ],
       "category": "music",
       "subtitle": ""
+    },
+    {
+      "name": "fate",
+      "files": [
+        "gi-dle_fate"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "lady",
+      "files": [
+        "lady"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "wife",
+      "files": [
+        "wife"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "iwantthat",
+      "files": [
+        "gi-dle_i_want_that_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "eyesroll",
+      "files": [
+        "eyes_roll"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "language_map": {
     "en_us": {
       "item.mine_kpop.han_4": "Han 4",
-      "item.mine_kpop.yuqi_1": "Yuqi 1",
       "item.mine_kpop.han_3": "Han 3",
+      "item.mine_kpop.yuqi_1": "Yuqi 1",
       "item.mine_kpop.yuqi_2": "Yuqi 2",
       "item.mine_kpop.han_2": "Han 2",
-      "item.mine_kpop.yuqi_3": "Yuqi 3",
       "item.mine_kpop.han_1": "Han 1",
+      "item.mine_kpop.yuqi_3": "Yuqi 3",
       "subtitles.easy1": "",
       "subtitles.easy3": "",
       "item.mine_kpop.stray_kids_2": "Stray Kids 2",
       "item.mine_kpop.stray_kids_1": "Stray Kids 1",
       "item.mine_kpop.antifragile_le_sserafim": "Antifragile - Le Sserafim",
+      "item.mine_kpop.fategidle": "Fate - (G)I-DLE",
       "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
       "item.mine_kpop.jung_kook_2": "Jung Kook 2",
       "item.mine_kpop.jung_kook_1": "Jung Kook 1",
@@ -3465,18 +3581,21 @@
       "item.mine_kpop.jung_kook_3": "Jung Kook 3",
       "item.mine_kpop.le_sserafim_1": "Le Sserafim 1",
       "subtitles.nocelestial": "",
+      "subtitles.iwantthat": "",
       "item.mine_kpop.jung_kook_5": "Jung Kook 5",
       "item.mine_kpop.lesserafim_lightstick": "Lesserafim Lightstick",
       "item.mine_kpop.soobin_4": "Soobin 4",
       "item.mine_kpop.soobin_5": "Soobin 5",
+      "item.mine_kpop.wifegidle.desc": "Wife from (G)I-DLE",
       "item.mine_kpop.yuqi_4": "Yuqi 4",
       "item.mine_kpop.yuqi_5": "Yuqi 5",
-      "item.mine_kpop.queencard_g_idle.desc": "Queencard from G-Idle",
+      "item.mine_kpop.fategidle.desc": "Fate from (G)I-DLE",
+      "item.mine_kpop.queencard_g_idle.desc": "Queencard from (G)I-DLE",
       "item.mine_kpop.eunchae_4": "Eunchae 4",
       "item.mine_kpop.eunchae_3": "Eunchae 3",
       "item.mine_kpop.eunchae_2": "Eunchae 2",
-      "item.mine_kpop.eunchae_1": "Eunchae 1",
       "subtitles.antifragile": "",
+      "item.mine_kpop.eunchae_1": "Eunchae 1",
       "item.mine_kpop.bts_lightstick": "BTS Lightstick",
       "item.mine_kpop.taehyun_5": "Taehyun 5",
       "item.mine_kpop.taehyun_4": "Taehyun 4",
@@ -3485,7 +3604,7 @@
       "item.mine_kpop.taehyun_2": "Taehyun 2",
       "item.mine_kpop.taehyun_1": "Taehyun 1",
       "item.mine_kpop.junjin_4": "Junjin 4",
-      "item.mine_kpop.queencard_g_idle": "Queencard - G-Idle",
+      "item.mine_kpop.queencard_g_idle": "Queencard - (G)I-DLE",
       "item.mine_kpop.chaewon_rabbit": "Chaewon rabbit",
       "item.mine_kpop.jin_4": "Jin 4",
       "item.mine_kpop.jin_3": "Jin 3",
@@ -3495,15 +3614,16 @@
       "item.mine_kpop.junjin_3": "Junjin 3",
       "item.mine_kpop.junjin_2": "Junjin 2",
       "item.mine_kpop.bts_you_never_walk_alone": "BTS You never walk alone",
+      "item.mine_kpop.lady_gidle.desc": "Super lady from (G)I-DLE",
       "item.mine_kpop.minnie_2": "Minnie 2",
       "item.mine_kpop.minnie_3": "Minnie 3",
       "item.mine_kpop.minnie_1": "Minnie 1",
       "subtitles.perfect": "",
       "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
-      "item.mine_kpop.minnie_4": "Minnie 4",
       "item.mine_kpop.bt_21": "BT21",
-      "item.mine_kpop.minnie_5": "Minnie 5",
+      "item.mine_kpop.minnie_4": "Minnie 4",
       "item.mine_kpop.nocelestial_le_sserafim": "No celestial - Le Sserafim",
+      "item.mine_kpop.minnie_5": "Minnie 5",
       "item.mine_kpop.txt_1": "TXT 1",
       "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
       "item.mine_kpop.soojin_3": "Soojin 3",
@@ -3512,6 +3632,7 @@
       "item.mine_kpop.soojin_2": "Soojin 2",
       "item.mine_kpop.txt_4": "TXT 4",
       "subtitles.easy": "",
+      "item.mine_kpop.wifegidle": "Wife - (G)I-DLE",
       "item.mine_kpop.soojin_1": "Soojin 1",
       "item.mine_kpop.txt_3": "TXT 3",
       "item.mine_kpop.txt_2": "TXT 2",
@@ -3529,7 +3650,9 @@
       "item.mine_kpop.sakura_2": "Sakura 2",
       "item.mine_kpop.sakura_1": "Sakura 1",
       "subtitles.queencard": "",
+      "subtitles.eyesroll": "",
       "item.mine_kpop.seungmin_1": "Seungmin 1",
+      "item.mine_kpop.lady_gidle": "Super lady - (G)I-DLE",
       "item.mine_kpop.smart_le_serafim": "Smart - Le Sserafim",
       "item.mine_kpop.seungmin_2": "Seungmin 2",
       "item.mine_kpop.le_sserafim_fcb_1": "Le Sserafim FCB1",
@@ -3544,7 +3667,7 @@
       "item.mine_kpop.miyeon_2": "Miyeon 2",
       "item.mine_kpop.suga_1": "Suga 1",
       "item.mine_kpop.miyeon_1": "Miyeon 1",
-      "item.mine_kpop.g_idle_lightstick": "G-Idle Lightstick",
+      "item.mine_kpop.g_idle_lightstick": "(G)I-DLE Lightstick",
       "item.mine_kpop.le_sserafim_f_1": "Le Sserafim F1",
       "item.mine_kpop.v_4": "V 4",
       "item.mine_kpop.v_2": "V 2",
@@ -3553,6 +3676,7 @@
       "item.mine_kpop.suga_4": "Suga 4",
       "item.mine_kpop.v_1": "V 1",
       "item.mine_kpop.evepsychethebluebeardswife.desc": "eve psyche \u0026 the bluebeard’s wife from LeSserafim",
+      "subtitles.fate": "",
       "item.mine_kpop.huening_kai_2": "Huening Kai 2",
       "item.mine_kpop.huening_kai_3": "Huening Kai 3",
       "item.mine_kpop.huening_kai_4": "Huening Kai 4",
@@ -3567,16 +3691,16 @@
       "item.mine_kpop.rm_2": "RM 2",
       "item.mine_kpop.rm_3": "RM 3",
       "item.mine_kpop.rm_4": "RM 4",
-      "item.mine_kpop.g_idle_ifeel_1": "G-Idle I feel Album 1",
-      "item.mine_kpop.g_idle_1": "G-Idle 1",
-      "item.mine_kpop.g_idle_3": "G-Idle 3",
-      "item.mine_kpop.g_idle_ifeel_2": "G-Idle I feel Album 2",
-      "item.mine_kpop.g_idle_2": "G-Idle 2",
+      "item.mine_kpop.g_idle_ifeel_1": "(G)I-DLE I feel Album 1",
+      "item.mine_kpop.g_idle_1": "(G)I-DLE 1",
+      "item.mine_kpop.g_idle_3": "(G)I-DLE 3",
+      "item.mine_kpop.g_idle_ifeel_2": "(G)I-DLE I feel Album 2",
+      "item.mine_kpop.g_idle_2": "(G)I-DLE 2",
       "item_group.kpop_albums.mine_kpop": "Mine Kpop",
-      "item.mine_kpop.g_idle_5": "G-Idle 5",
-      "item.mine_kpop.g_idle_4": "G-Idle 4",
-      "item.mine_kpop.g_idle_7": "G-Idle 7",
-      "item.mine_kpop.g_idle_6": "G-Idle 6",
+      "item.mine_kpop.g_idle_5": "(G)I-DLE 5",
+      "item.mine_kpop.g_idle_4": "(G)I-DLE 4",
+      "item.mine_kpop.g_idle_7": "(G)I-DLE 7",
+      "item.mine_kpop.g_idle_6": "(G)I-DLE 6",
       "subtitles.opening2": "",
       "item.mine_kpop.unforgiven_le_sserafim": "Unforgiven - Le Sserafim",
       "item.mine_kpop.chaewon_2": "Chaewon 2",
@@ -3585,6 +3709,8 @@
       "item.mine_kpop.chaewon_3": "Chaewon 3",
       "item.mine_kpop.chaewon_6": "Chaewon 6",
       "item.mine_kpop.chaewon_5": "Chaewon 5",
+      "item.mine_kpop.i_want_that_gidle.desc": "I Want That from (G)I-DLE",
+      "item.mine_kpop.i_want_that_gidle": "I Want That - (G)I-DLE",
       "item.mine_kpop.beomgyu_5": "Beomgyu 5",
       "item.mine_kpop.beomgyu_4": "Beomgyu 4",
       "item.mine_kpop.antifragile_le_sserafim.desc": "Antifragile from LeSserafim",
@@ -3595,6 +3721,7 @@
       "item.mine_kpop.unforgiven_le_sserafim.desc": "Unforgiven from LeSserafim",
       "item.kpop_albums.le_sserafim_album": "Le Sserafim Album",
       "item.mine_kpop.bts_love_yourself": "BTS Love yourself",
+      "subtitles.lady": "",
       "item.mine_kpop.in_3": "Jeongin 3",
       "item.mine_kpop.felix_3": "Felix 3",
       "item.mine_kpop.soyeon_1": "Soyeon 1",
@@ -3617,6 +3744,7 @@
       "item.mine_kpop.lee_know_4": "Lee Know 4",
       "item.mine_kpop.lee_know_2": "Lee Know 2",
       "item.mine_kpop.lee_know_3": "Lee Know 3",
+      "item.mine_kpop.eyes_roll_gidle": "Eyes roll - (G)I-DLE",
       "item.mine_kpop.jimin_2": "Jimin 2",
       "item.mine_kpop.lee_know_1": "Lee Know 1",
       "item.mine_kpop.jimin_1": "Jimin 1",
@@ -3629,6 +3757,7 @@
       "item.mine_kpop.evepsychethebluebeardswife": "eve psyche \u0026 the bluebeard’s wife - Le Sserafim",
       "item.mine_kpop.j_hope_1": "J-Hope 1",
       "item.mine_kpop.j_hope_2": "J-Hope 2",
+      "item.mine_kpop.eyes_roll_gidle.desc": "Eyes roll from (G)I-DLE",
       "item.mine_kpop.fire_in_the_belly_le_sserafim.desc": "Fire in the belly from LeSserafim",
       "item.mine_kpop.soobin_2": "Soobin 2",
       "item.mine_kpop.soobin_3": "Soobin 3",
@@ -3641,6 +3770,7 @@
       "item.mine_kpop.kazuha_3": "Kazuha 3",
       "subtitles.opening": "",
       "item.mine_kpop.shuhua_4": "Shuhua 4",
+      "subtitles.wife": "",
       "item.mine_kpop.shuhua_1": "Shuhua 1",
       "item.mine_kpop.shuhua_3": "Shuhua 3",
       "item.mine_kpop.shuhua_2": "Shuhua 2",
@@ -3692,7 +3822,7 @@
             "children": []
           },
           {
-            "name": "G-Idle",
+            "name": "GI-DLE",
             "children": []
           },
           {

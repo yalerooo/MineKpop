@@ -28,4 +28,9 @@ public class MineKpopModSounds {
 	public static final RegistryObject<SoundEvent> ANTIFRAGILE = REGISTRY.register("antifragile", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "antifragile")));
 	public static final RegistryObject<SoundEvent> EVE = REGISTRY.register("eve", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "eve")));
 	public static final RegistryObject<SoundEvent> QUEENCARD = REGISTRY.register("queencard", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "queencard")));
+	public static final RegistryObject<SoundEvent> FATE = REGISTRY.register("fate", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "fate")));
+	public static final RegistryObject<SoundEvent> LADY = REGISTRY.register("lady", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "lady")));
+	public static final RegistryObject<SoundEvent> WIFE = REGISTRY.register("wife", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "wife")));
+	public static final RegistryObject<SoundEvent> IWANTTHAT = REGISTRY.register("iwantthat", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "iwantthat")));
+	public static final RegistryObject<SoundEvent> EYESROLL = REGISTRY.register("eyesroll", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "eyesroll")));
 }

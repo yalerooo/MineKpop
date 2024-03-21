@@ -2,10 +2,10 @@
   "_fv": 57,
   "_type": "musicdisc",
   "definition": {
-    "name": "Queencard - (G)I-DLE",
+    "name": "Eyes roll - (G)I-DLE",
     "rarity": "COMMON",
-    "texture": "queencard2",
-    "description": "Queencard from (G)I-DLE",
+    "texture": "heat",
+    "description": "Eyes roll from (G)I-DLE",
     "creativeTab": {
       "value": "CUSTOM:MineKpop"
     },
@@ -16,9 +16,9 @@
       "fixedValue": false
     },
     "music": {
-      "value": "CUSTOM:queencard"
+      "value": "CUSTOM:eyesroll"
     },
-    "lengthInTicks": 4080,
+    "lengthInTicks": 4280,
     "analogOutput": 0
   }
 }

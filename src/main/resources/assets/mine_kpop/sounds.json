@@ -102,5 +102,45 @@
         "stream": true
       }
     ]
+  },
+  "fate": {
+    "sounds": [
+      {
+        "name": "mine_kpop:gi-dle_fate",
+        "stream": true
+      }
+    ]
+  },
+  "lady": {
+    "sounds": [
+      {
+        "name": "mine_kpop:lady",
+        "stream": true
+      }
+    ]
+  },
+  "wife": {
+    "sounds": [
+      {
+        "name": "mine_kpop:wife",
+        "stream": true
+      }
+    ]
+  },
+  "iwantthat": {
+    "sounds": [
+      {
+        "name": "mine_kpop:gi-dle_i_want_that_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "eyesroll": {
+    "sounds": [
+      {
+        "name": "mine_kpop:eyes_roll",
+        "stream": true
+      }
+    ]
   }
 }

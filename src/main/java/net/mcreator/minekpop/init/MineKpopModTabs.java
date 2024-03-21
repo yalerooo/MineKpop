@@ -213,6 +213,11 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.ANTIFRAGILE_LE_SSERAFIM.get());
 				tabData.accept(MineKpopModItems.EVEPSYCHETHEBLUEBEARDSWIFE.get());
 				tabData.accept(MineKpopModItems.QUEENCARD_G_IDLE.get());
+				tabData.accept(MineKpopModItems.FATEGIDLE.get());
+				tabData.accept(MineKpopModItems.LADY_GIDLE.get());
+				tabData.accept(MineKpopModItems.WIFEGIDLE.get());
+				tabData.accept(MineKpopModItems.I_WANT_THAT_GIDLE.get());
+				tabData.accept(MineKpopModItems.EYES_ROLL_GIDLE.get());
 			})
 
 					.build());

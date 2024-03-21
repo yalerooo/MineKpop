@@ -2,10 +2,10 @@
   "_fv": 57,
   "_type": "musicdisc",
   "definition": {
-    "name": "Queencard - (G)I-DLE",
+    "name": "I Want That - (G)I-DLE",
     "rarity": "COMMON",
-    "texture": "queencard2",
-    "description": "Queencard from (G)I-DLE",
+    "texture": "heat",
+    "description": "I Want That from (G)I-DLE",
     "creativeTab": {
       "value": "CUSTOM:MineKpop"
     },
@@ -16,9 +16,9 @@
       "fixedValue": false
     },
     "music": {
-      "value": "CUSTOM:queencard"
+      "value": "CUSTOM:iwantthat"
     },
-    "lengthInTicks": 4080,
+    "lengthInTicks": 2440,
     "analogOutput": 0
   }
 }
