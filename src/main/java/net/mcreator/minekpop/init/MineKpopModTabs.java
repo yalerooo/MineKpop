@@ -218,6 +218,11 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.WIFEGIDLE.get());
 				tabData.accept(MineKpopModItems.I_WANT_THAT_GIDLE.get());
 				tabData.accept(MineKpopModItems.EYES_ROLL_GIDLE.get());
+				tabData.accept(MineKpopModItems.LOVE_SONG_TXT.get());
+				tabData.accept(MineKpopModItems.SLUMP_SKZ.get());
+				tabData.accept(MineKpopModItems.SILENT_CRY_SKZ.get());
+				tabData.accept(MineKpopModItems.CHEESE_SKZ.get());
+				tabData.accept(MineKpopModItems.HELLEVATOR_SKZ.get());
 			})
 
 					.build());

@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Stray Kids - Silent Cry",
+    "rarity": "COMMON",
+    "texture": "noeasy",
+    "description": "Silent Cry by Stray kids",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:silentcry"
+    },
+    "lengthInTicks": 4880,
+    "analogOutput": 0
+  }
+}

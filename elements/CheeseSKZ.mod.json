@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Stray Kids - Cheese",
+    "rarity": "COMMON",
+    "texture": "cheese",
+    "description": "Cheese by Stray kids",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:cheese"
+    },
+    "lengthInTicks": 3920,
+    "analogOutput": 0
+  }
+}

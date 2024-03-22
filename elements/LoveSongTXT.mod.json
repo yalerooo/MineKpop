@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TXT - 0X1=LOVESONG",
+    "rarity": "COMMON",
+    "texture": "freeze",
+    "description": "0X1=LOVESONG from TXT",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:lovesong"
+    },
+    "lengthInTicks": 5120,
+    "analogOutput": 0
+  }
+}

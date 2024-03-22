@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Stray Kids - HELLEVATOR ",
+    "rarity": "COMMON",
+    "texture": "hellevator",
+    "description": "HELLEVATOR  by Stray kids",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:hellevator"
+    },
+    "lengthInTicks": 3920,
+    "analogOutput": 0
+  }
+}

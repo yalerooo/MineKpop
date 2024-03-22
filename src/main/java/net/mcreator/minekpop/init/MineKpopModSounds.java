@@ -33,4 +33,9 @@ public class MineKpopModSounds {
 	public static final RegistryObject<SoundEvent> WIFE = REGISTRY.register("wife", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "wife")));
 	public static final RegistryObject<SoundEvent> IWANTTHAT = REGISTRY.register("iwantthat", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "iwantthat")));
 	public static final RegistryObject<SoundEvent> EYESROLL = REGISTRY.register("eyesroll", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "eyesroll")));
+	public static final RegistryObject<SoundEvent> LOVESONG = REGISTRY.register("lovesong", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "lovesong")));
+	public static final RegistryObject<SoundEvent> SLUMP = REGISTRY.register("slump", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "slump")));
+	public static final RegistryObject<SoundEvent> SILENTCRY = REGISTRY.register("silentcry", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "silentcry")));
+	public static final RegistryObject<SoundEvent> CHEESE = REGISTRY.register("cheese", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "cheese")));
+	public static final RegistryObject<SoundEvent> HELLEVATOR = REGISTRY.register("hellevator", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "hellevator")));
 }

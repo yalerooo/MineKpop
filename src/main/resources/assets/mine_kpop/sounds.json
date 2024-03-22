@@ -142,5 +142,45 @@
         "stream": true
       }
     ]
+  },
+  "lovesong": {
+    "sounds": [
+      {
+        "name": "mine_kpop:txt_-_0x1lovesong_i_know_i_love_you_feat._seori_lyrics_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "slump": {
+    "sounds": [
+      {
+        "name": "mine_kpop:_slump_japanese_ver._easy_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "silentcry": {
+    "sounds": [
+      {
+        "name": "mine_kpop:stray_kids_-_silent_cry",
+        "stream": true
+      }
+    ]
+  },
+  "cheese": {
+    "sounds": [
+      {
+        "name": "mine_kpop:stray_kids_cheese_easy_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "hellevator": {
+    "sounds": [
+      {
+        "name": "mine_kpop:stray_kids__hellevator__skz2020_colorcodedlyrics_han-rom-eng",
+        "stream": true
+      }
+    ]
   }
 }
