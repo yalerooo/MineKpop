@@ -3485,6 +3485,66 @@
         ]
       },
       "path": "~/Music"
+    },
+    {
+      "name": "TOMBOYgidel",
+      "type": "musicdisc",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tombo_ygidel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/TOMBOYgidelItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/tombo_ygidel.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Nxdegidle",
+      "type": "musicdisc",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nxdegidle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/nxdegidle.json",
+          "src/main/java/net/mcreator/minekpop/item/NxdegidleItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "IveIam",
+      "type": "musicdisc",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ive_iam",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/ive_iam.json",
+          "src/main/java/net/mcreator/minekpop/item/IveIamItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "DramaAespa",
+      "type": "musicdisc",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "drama_aespa",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/DramaAespaItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/drama_aespa.json"
+        ]
+      },
+      "path": "~/Music"
     }
   ],
   "variable_elements": [],
@@ -3672,6 +3732,38 @@
       ],
       "category": "music",
       "subtitle": ""
+    },
+    {
+      "name": "tomboy",
+      "files": [
+        "tomboy_gasa_color_coded_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "nxde",
+      "files": [
+        "nxde_lyrics_yeojaaideul_nxde_gasa_color_coded_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "iam",
+      "files": [
+        "ive_i_am_lyrics_aibeu_i_am_gasa_color_coded_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "drama",
+      "files": [
+        "aespa_eseupa_drama_lyrics_color_coded_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "language_map": {
@@ -3684,11 +3776,13 @@
       "item.mine_kpop.han_1": "Han 1",
       "item.mine_kpop.yuqi_3": "Yuqi 3",
       "subtitles.easy1": "",
+      "subtitles.drama": "",
       "subtitles.easy3": "",
       "item.mine_kpop.stray_kids_2": "Stray Kids 2",
       "item.mine_kpop.stray_kids_1": "Stray Kids 1",
       "item.mine_kpop.antifragile_le_sserafim": "Le Sserafim - Antifragile",
       "item.mine_kpop.fategidle": "(G)I-DLE - Fate",
+      "item.mine_kpop.ive_iam.desc": "I AM by IVE",
       "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
       "item.mine_kpop.jung_kook_2": "Jung Kook 2",
       "item.mine_kpop.jung_kook_1": "Jung Kook 1",
@@ -3717,13 +3811,15 @@
       "item.mine_kpop.taehyun_5": "Taehyun 5",
       "item.mine_kpop.taehyun_4": "Taehyun 4",
       "item.mine_kpop.txt_the_dream_chapter_star": "TXT The dream chapter: Star",
-      "item.mine_kpop.hellevator_skz": "Stray Kids - HELLEVATOR ",
+      "item.mine_kpop.hellevator_skz": "Stray Kids - Hellevator",
       "item.mine_kpop.taehyun_3": "Taehyun 3",
       "item.mine_kpop.taehyun_2": "Taehyun 2",
       "item.mine_kpop.taehyun_1": "Taehyun 1",
+      "subtitles.nxde": "",
       "item.mine_kpop.junjin_4": "Junjin 4",
       "item.mine_kpop.queencard_g_idle": "(G)I-DLE - Queencard",
       "item.mine_kpop.chaewon_rabbit": "Chaewon rabbit",
+      "subtitles.tomboy": "",
       "item.mine_kpop.jin_4": "Jin 4",
       "item.mine_kpop.jin_3": "Jin 3",
       "item.mine_kpop.jin_2": "Jin 2",
@@ -3736,9 +3832,11 @@
       "subtitles.lovesong": "",
       "item.mine_kpop.minnie_2": "Minnie 2",
       "item.mine_kpop.minnie_3": "Minnie 3",
+      "item.mine_kpop.tombo_ygidel": "(G)I-DLE - TOMBOY",
       "item.mine_kpop.minnie_1": "Minnie 1",
       "subtitles.perfect": "",
       "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
+      "subtitles.iam": "",
       "item.mine_kpop.bt_21": "BT21",
       "item.mine_kpop.minnie_4": "Minnie 4",
       "item.mine_kpop.nocelestial_le_sserafim": "Le Sserafim - No celestial",
@@ -3757,6 +3855,7 @@
       "item.mine_kpop.txt_2": "TXT 2",
       "item.mine_kpop.txt_blue_hour": "TXT Blue Hour",
       "item.mine_kpop.soojin_4": "Soojin 4",
+      "item.mine_kpop.ive_iam": "IVE - I AM",
       "item.mine_kpop.txt_9": "TXT 9",
       "item.mine_kpop.txt_8": "TXT 8",
       "item.mine_kpop.chaewon_fcb_2": "Chaewon FCB2",
@@ -3770,6 +3869,7 @@
       "item.mine_kpop.sakura_1": "Sakura 1",
       "item.mine_kpop.love_song_txt": "TXT - 0X1\u003dLOVESONG",
       "subtitles.queencard": "",
+      "item.mine_kpop.drama_aespa.desc": "Drama by aespa",
       "subtitles.eyesroll": "",
       "item.mine_kpop.seungmin_1": "Seungmin 1",
       "item.mine_kpop.lady_gidle": "(G)I-DLE - Super lady",
@@ -3808,6 +3908,7 @@
       "subtitles.eve": "",
       "item.mine_kpop.fire_in_the_belly_le_sserafim": "Le Sserafim - Fire in the belly",
       "subtitles.cheese": "",
+      "item.mine_kpop.nxdegidle": "(G)I-DLE - Nxde",
       "item.mine_kpop.rm_1": "RM 1",
       "subtitles.unforgiven2": "",
       "item.mine_kpop.rm_2": "RM 2",
@@ -3824,6 +3925,7 @@
       "item.mine_kpop.g_idle_7": "(G)I-DLE 7",
       "item.mine_kpop.g_idle_6": "(G)I-DLE 6",
       "subtitles.opening2": "",
+      "item.mine_kpop.drama_aespa": "aespa - Drama",
       "item.mine_kpop.unforgiven_le_sserafim": "Le Sserafim - Unforgiven",
       "item.mine_kpop.chaewon_2": "Chaewon 2",
       "item.mine_kpop.chaewon_1": "Chaewon 1",
@@ -3834,6 +3936,7 @@
       "item.mine_kpop.i_want_that_gidle.desc": "I Want That from (G)I-DLE",
       "item.mine_kpop.i_want_that_gidle": "(G)I-DLE - I Want That",
       "item.mine_kpop.silent_cry_skz": "Stray Kids - Silent Cry",
+      "item.mine_kpop.tombo_ygidel.desc": "TOMBOY by (G)I-DLE",
       "item.mine_kpop.beomgyu_5": "Beomgyu 5",
       "item.mine_kpop.beomgyu_4": "Beomgyu 4",
       "subtitles.slump": "",
@@ -3878,7 +3981,7 @@
       "item.mine_kpop.in_1": "Jeongin 1",
       "item.mine_kpop.in_2": "Jeongin 2",
       "item.mine_kpop.perfect_night_le_sserafim": "Le Sserafim - Perfect night",
-      "item.mine_kpop.hellevator_skz.desc": "HELLEVATOR  by Stray kids",
+      "item.mine_kpop.hellevator_skz.desc": "Hellevator  by Stray kids",
       "item.mine_kpop.perfect_night_le_sserafim.desc": "Perfect night from LeSserafim",
       "item.mine_kpop.j_hope_3": "J-Hope 3",
       "subtitles.hellevator": "",
@@ -3926,7 +4029,8 @@
       "item.mine_kpop.chan_1": "Chan 1",
       "item.mine_kpop.smart_le_serafim.desc": "Smart from LeSserafim",
       "item.mine_kpop.easy_le_sserafim": "Le Sserafim - Easy",
-      "item.mine_kpop.changbin_1": "Changbin 1"
+      "item.mine_kpop.changbin_1": "Changbin 1",
+      "item.mine_kpop.nxdegidle.desc": "Nxde by (G)I-DLE"
     }
   },
   "foldersRoot": {

@@ -2,10 +2,10 @@
   "_fv": 57,
   "_type": "musicdisc",
   "definition": {
-    "name": "Stray Kids - Hellevator",
+    "name": "aespa - Drama",
     "rarity": "COMMON",
-    "texture": "hellevator",
-    "description": "Hellevator  by Stray kids",
+    "texture": "drama",
+    "description": "Drama by aespa",
     "creativeTab": {
       "value": "CUSTOM:MineKpop"
     },
@@ -16,9 +16,9 @@
       "fixedValue": false
     },
     "music": {
-      "value": "CUSTOM:hellevator"
+      "value": "CUSTOM:drama"
     },
-    "lengthInTicks": 5680,
+    "lengthInTicks": 5000,
     "analogOutput": 0
   }
 }

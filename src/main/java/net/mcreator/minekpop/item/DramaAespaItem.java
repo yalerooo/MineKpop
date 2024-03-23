@@ -14,9 +14,9 @@ import net.minecraft.network.chat.Component;
 
 import java.util.List;
 
-public class HellevatorSKZItem extends RecordItem {
-	public HellevatorSKZItem() {
-		super(0, () -> ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mine_kpop:hellevator")), new Item.Properties().stacksTo(1).rarity(Rarity.COMMON), 5680);
+public class DramaAespaItem extends RecordItem {
+	public DramaAespaItem() {
+		super(0, () -> ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mine_kpop:drama")), new Item.Properties().stacksTo(1).rarity(Rarity.COMMON), 5000);
 	}
 
 	@Override

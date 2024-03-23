@@ -223,6 +223,10 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.SILENT_CRY_SKZ.get());
 				tabData.accept(MineKpopModItems.CHEESE_SKZ.get());
 				tabData.accept(MineKpopModItems.HELLEVATOR_SKZ.get());
+				tabData.accept(MineKpopModItems.TOMBO_YGIDEL.get());
+				tabData.accept(MineKpopModItems.NXDEGIDLE.get());
+				tabData.accept(MineKpopModItems.IVE_IAM.get());
+				tabData.accept(MineKpopModItems.DRAMA_AESPA.get());
 			})
 
 					.build());

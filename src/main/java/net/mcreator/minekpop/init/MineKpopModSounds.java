@@ -38,4 +38,8 @@ public class MineKpopModSounds {
 	public static final RegistryObject<SoundEvent> SILENTCRY = REGISTRY.register("silentcry", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "silentcry")));
 	public static final RegistryObject<SoundEvent> CHEESE = REGISTRY.register("cheese", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "cheese")));
 	public static final RegistryObject<SoundEvent> HELLEVATOR = REGISTRY.register("hellevator", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "hellevator")));
+	public static final RegistryObject<SoundEvent> TOMBOY = REGISTRY.register("tomboy", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "tomboy")));
+	public static final RegistryObject<SoundEvent> NXDE = REGISTRY.register("nxde", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "nxde")));
+	public static final RegistryObject<SoundEvent> IAM = REGISTRY.register("iam", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "iam")));
+	public static final RegistryObject<SoundEvent> DRAMA = REGISTRY.register("drama", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "drama")));
 }

@@ -182,5 +182,37 @@
         "stream": true
       }
     ]
+  },
+  "tomboy": {
+    "sounds": [
+      {
+        "name": "mine_kpop:tomboy_gasa_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "nxde": {
+    "sounds": [
+      {
+        "name": "mine_kpop:nxde_lyrics_yeojaaideul_nxde_gasa_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "iam": {
+    "sounds": [
+      {
+        "name": "mine_kpop:ive_i_am_lyrics_aibeu_i_am_gasa_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "drama": {
+    "sounds": [
+      {
+        "name": "mine_kpop:aespa_eseupa_drama_lyrics_color_coded_lyrics",
+        "stream": true
+      }
+    ]
   }
 }

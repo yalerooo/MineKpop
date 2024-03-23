@@ -2,10 +2,10 @@
   "_fv": 57,
   "_type": "musicdisc",
   "definition": {
-    "name": "Stray Kids - Hellevator",
+    "name": "(G)I-DLE - TOMBOY",
     "rarity": "COMMON",
-    "texture": "hellevator",
-    "description": "Hellevator  by Stray kids",
+    "texture": "ineverdie",
+    "description": "TOMBOY by (G)I-DLE",
     "creativeTab": {
       "value": "CUSTOM:MineKpop"
     },
@@ -16,9 +16,9 @@
       "fixedValue": false
     },
     "music": {
-      "value": "CUSTOM:hellevator"
+      "value": "CUSTOM:tomboy"
     },
-    "lengthInTicks": 5680,
+    "lengthInTicks": 4280,
     "analogOutput": 0
   }
 }
