@@ -8,7 +8,9 @@ import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
 
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.minekpop.item.Yuqi5Item;
 import net.mcreator.minekpop.item.Yuqi4Item;
@@ -89,6 +91,7 @@ import net.mcreator.minekpop.item.RM3Item;
 import net.mcreator.minekpop.item.RM2Item;
 import net.mcreator.minekpop.item.RM1Item;
 import net.mcreator.minekpop.item.QueencardGIdleItem;
+import net.mcreator.minekpop.item.QueenZioPArkItem;
 import net.mcreator.minekpop.item.PerfectNightLeSserafimItem;
 import net.mcreator.minekpop.item.NxdegidleItem;
 import net.mcreator.minekpop.item.NocelestialLeSserafimItem;
@@ -432,4 +435,10 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> NXDEGIDLE = REGISTRY.register("nxdegidle", () -> new NxdegidleItem());
 	public static final RegistryObject<Item> IVE_IAM = REGISTRY.register("ive_iam", () -> new IveIamItem());
 	public static final RegistryObject<Item> DRAMA_AESPA = REGISTRY.register("drama_aespa", () -> new DramaAespaItem());
+	public static final RegistryObject<Item> QUEEN_ZIO_P_ARK = REGISTRY.register("queen_zio_p_ark", () -> new QueenZioPArkItem());
+	public static final RegistryObject<Item> PRUEBA = block(MineKpopModBlocks.PRUEBA);
+
+	private static RegistryObject<Item> block(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
+	}
 }

@@ -214,5 +214,13 @@
         "stream": true
       }
     ]
+  },
+  "queen": {
+    "sounds": [
+      {
+        "name": "mine_kpop:zior_park__queen__sub_espanol__lyrics",
+        "stream": true
+      }
+    ]
   }
 }

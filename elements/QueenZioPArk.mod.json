@@ -2,10 +2,10 @@
   "_fv": 57,
   "_type": "musicdisc",
   "definition": {
-    "name": "(G)I-DLE - Nxde",
+    "name": "Zior Park - QUEEN",
     "rarity": "COMMON",
-    "texture": "ilove",
-    "description": "Nxde by (G)I-DLE",
+    "texture": "queen",
+    "description": "QUEEN by Zior Park",
     "creativeTab": {
       "value": "CUSTOM:MineKpop"
     },
@@ -16,9 +16,9 @@
       "fixedValue": false
     },
     "music": {
-      "value": "CUSTOM:nxde"
+      "value": "CUSTOM:queen"
     },
-    "lengthInTicks": 3600,
+    "lengthInTicks": 5240,
     "analogOutput": 0
   }
 }

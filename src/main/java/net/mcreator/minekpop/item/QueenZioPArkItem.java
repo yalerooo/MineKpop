@@ -14,9 +14,9 @@ import net.minecraft.network.chat.Component;
 
 import java.util.List;
 
-public class NxdegidleItem extends RecordItem {
-	public NxdegidleItem() {
-		super(0, () -> ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mine_kpop:nxde")), new Item.Properties().stacksTo(1).rarity(Rarity.COMMON), 3600);
+public class QueenZioPArkItem extends RecordItem {
+	public QueenZioPArkItem() {
+		super(0, () -> ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mine_kpop:queen")), new Item.Properties().stacksTo(1).rarity(Rarity.COMMON), 5240);
 	}
 
 	@Override

@@ -32,6 +32,8 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.mcreator.minekpop.init.MineKpopModTabs;
 import net.mcreator.minekpop.init.MineKpopModSounds;
 import net.mcreator.minekpop.init.MineKpopModItems;
+import net.mcreator.minekpop.init.MineKpopModBlocks;
+import net.mcreator.minekpop.init.MineKpopModBlockEntities;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -51,7 +53,8 @@ public class MineKpopMod {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		MineKpopModSounds.REGISTRY.register(bus);
-
+		MineKpopModBlocks.REGISTRY.register(bus);
+		MineKpopModBlockEntities.REGISTRY.register(bus);
 		MineKpopModItems.REGISTRY.register(bus);
 
 		MineKpopModTabs.REGISTRY.register(bus);

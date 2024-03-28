@@ -3545,6 +3545,107 @@
         ]
       },
       "path": "~/Music"
+    },
+    {
+      "name": "QueenZioPArk",
+      "type": "musicdisc",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "queen_zio_p_ark",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/QueenZioPArkItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/queen_zio_p_ark.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "PruebaOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prueba_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/PruebaOnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "PruebaUpdateTick",
+      "type": "procedure",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prueba_update_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/PruebaUpdateTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Prueba",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prueba",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/block/prueba.json",
+          "src/main/resources/assets/mine_kpop/models/item/prueba.json",
+          "src/main/resources/assets/mine_kpop/blockstates/prueba.json",
+          "src/main/java/net/mcreator/minekpop/block/PruebaBlock.java",
+          "src/main/java/net/mcreator/minekpop/block/entity/PruebaBlockEntity.java"
+        ]
+      },
+      "path": "~/Music"
     }
   ],
   "variable_elements": [],
@@ -3764,6 +3865,14 @@
       ],
       "category": "music",
       "subtitle": ""
+    },
+    {
+      "name": "queen",
+      "files": [
+        "zior_park__queen__sub_espanol__lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "language_map": {
@@ -3782,6 +3891,8 @@
       "item.mine_kpop.stray_kids_1": "Stray Kids 1",
       "item.mine_kpop.antifragile_le_sserafim": "Le Sserafim - Antifragile",
       "item.mine_kpop.fategidle": "(G)I-DLE - Fate",
+      "item.mine_kpop.queen_zio_p_ark.desc": "QUEEN by Zior Park",
+      "block.mine_kpop.prueba": "Prueba",
       "item.mine_kpop.ive_iam.desc": "I AM by IVE",
       "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
       "item.mine_kpop.jung_kook_2": "Jung Kook 2",
@@ -3816,6 +3927,7 @@
       "item.mine_kpop.taehyun_2": "Taehyun 2",
       "item.mine_kpop.taehyun_1": "Taehyun 1",
       "subtitles.nxde": "",
+      "subtitles.queen": "",
       "item.mine_kpop.junjin_4": "Junjin 4",
       "item.mine_kpop.queencard_g_idle": "(G)I-DLE - Queencard",
       "item.mine_kpop.chaewon_rabbit": "Chaewon rabbit",
@@ -3902,6 +4014,7 @@
       "item.mine_kpop.huening_kai_3": "Huening Kai 3",
       "item.mine_kpop.huening_kai_4": "Huening Kai 4",
       "item.mine_kpop.huening_kai_5": "Huening Kai 5",
+      "item.mine_kpop.queen_zio_p_ark": "Zior Park - QUEEN",
       "item.mine_kpop.bts_2": "BTS 2",
       "item.mine_kpop.bts_1": "BTS 1",
       "item.mine_kpop.huening_kai_1": "Huening Kai 1",
