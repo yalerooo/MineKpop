@@ -3630,19 +3630,19 @@
       "path": "~/Music"
     },
     {
-      "name": "Prueba",
+      "name": "PorcosBox",
       "type": "block",
-      "sortid": 224,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "prueba",
+      "registry_name": "porcos_box",
       "metadata": {
         "files": [
-          "src/main/resources/assets/mine_kpop/models/block/prueba.json",
-          "src/main/resources/assets/mine_kpop/models/item/prueba.json",
-          "src/main/resources/assets/mine_kpop/blockstates/prueba.json",
-          "src/main/java/net/mcreator/minekpop/block/PruebaBlock.java",
-          "src/main/java/net/mcreator/minekpop/block/entity/PruebaBlockEntity.java"
+          "src/main/resources/assets/mine_kpop/models/item/porcos_box.json",
+          "src/main/resources/assets/mine_kpop/models/block/porcos_box.json",
+          "src/main/resources/assets/mine_kpop/blockstates/porcos_box.json",
+          "src/main/java/net/mcreator/minekpop/block/entity/PorcosBoxBlockEntity.java",
+          "src/main/java/net/mcreator/minekpop/block/PorcosBoxBlock.java"
         ]
       },
       "path": "~/Music"
@@ -3892,10 +3892,9 @@
       "item.mine_kpop.antifragile_le_sserafim": "Le Sserafim - Antifragile",
       "item.mine_kpop.fategidle": "(G)I-DLE - Fate",
       "item.mine_kpop.queen_zio_p_ark.desc": "QUEEN by Zior Park",
-      "block.mine_kpop.prueba": "Prueba",
       "item.mine_kpop.ive_iam.desc": "I AM by IVE",
-      "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
       "item.mine_kpop.jung_kook_2": "Jung Kook 2",
+      "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
       "item.mine_kpop.jung_kook_1": "Jung Kook 1",
       "item.mine_kpop.jung_kook_4": "Jung Kook 4",
       "item.mine_kpop.jung_kook_3": "Jung Kook 3",
@@ -4106,6 +4105,7 @@
       "item.mine_kpop.fire_in_the_belly_le_sserafim.desc": "Fire in the belly from LeSserafim",
       "item.mine_kpop.soobin_2": "Soobin 2",
       "item.mine_kpop.soobin_3": "Soobin 3",
+      "block.mine_kpop.porcos_box": "PorcosBox",
       "item.mine_kpop.soobin_1": "Soobin 1",
       "item.mine_kpop.kazuha_1": "Kazuha 1",
       "item.mine_kpop.stray_kids_max_ident": "Stray Kids Max ident",

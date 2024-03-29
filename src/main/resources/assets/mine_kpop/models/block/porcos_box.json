@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mine_kpop:block/music_box_bottom2",
+    "up": "mine_kpop:block/music_box_top2",
+    "north": "mine_kpop:block/music_box_side2",
+    "east": "mine_kpop:block/music_box_side3",
+    "south": "mine_kpop:block/music_box_side2",
+    "west": "mine_kpop:block/music_box_side3",
+    "particle": "mine_kpop:block/music_box_bottom2"
+  },
+  "render_type": "solid"
+}

@@ -11,12 +11,12 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.block.Block;
 
-import net.mcreator.minekpop.block.entity.PruebaBlockEntity;
+import net.mcreator.minekpop.block.entity.PorcosBoxBlockEntity;
 import net.mcreator.minekpop.MineKpopMod;
 
 public class MineKpopModBlockEntities {
 	public static final DeferredRegister<BlockEntityType<?>> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCK_ENTITY_TYPES, MineKpopMod.MODID);
-	public static final RegistryObject<BlockEntityType<?>> PRUEBA = register("prueba", MineKpopModBlocks.PRUEBA, PruebaBlockEntity::new);
+	public static final RegistryObject<BlockEntityType<?>> PORCOS_BOX = register("porcos_box", MineKpopModBlocks.PORCOS_BOX, PorcosBoxBlockEntity::new);
 
 	private static RegistryObject<BlockEntityType<?>> register(String registryname, RegistryObject<Block> block, BlockEntityType.BlockEntitySupplier<?> supplier) {
 		return REGISTRY.register(registryname, () -> BlockEntityType.Builder.of(supplier, block.get()).build(null));

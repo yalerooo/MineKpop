@@ -27,12 +27,12 @@ import javax.annotation.Nullable;
 
 import java.util.stream.IntStream;
 
-public class PruebaBlockEntity extends RandomizableContainerBlockEntity implements WorldlyContainer {
+public class PorcosBoxBlockEntity extends RandomizableContainerBlockEntity implements WorldlyContainer {
 	private NonNullList<ItemStack> stacks = NonNullList.<ItemStack>withSize(0, ItemStack.EMPTY);
 	private final LazyOptional<? extends IItemHandler>[] handlers = SidedInvWrapper.create(this, Direction.values());
 
-	public PruebaBlockEntity(BlockPos position, BlockState state) {
-		super(MineKpopModBlockEntities.PRUEBA.get(), position, state);
+	public PorcosBoxBlockEntity(BlockPos position, BlockState state) {
+		super(MineKpopModBlockEntities.PORCOS_BOX.get(), position, state);
 	}
 
 	@Override
@@ -76,7 +76,7 @@ public class PruebaBlockEntity extends RandomizableContainerBlockEntity implemen
 
 	@Override
 	public Component getDefaultName() {
-		return Component.literal("prueba");
+		return Component.literal("porcos_box");
 	}
 
 	@Override
@@ -91,7 +91,7 @@ public class PruebaBlockEntity extends RandomizableContainerBlockEntity implemen
 
 	@Override
 	public Component getDisplayName() {
-		return Component.literal("Prueba");
+		return Component.literal("PorcosBox");
 	}
 
 	@Override

@@ -2,15 +2,15 @@
   "_fv": 57,
   "_type": "block",
   "definition": {
-    "texture": "music_box_bottom",
-    "textureTop": "music_box_top",
-    "textureLeft": "music_box_side",
-    "textureFront": "music_box_side",
-    "textureRight": "music_box_side",
-    "textureBack": "music_box_side",
+    "texture": "music_box_bottom2",
+    "textureTop": "music_box_top2",
+    "textureLeft": "music_box_side3",
+    "textureFront": "music_box_side2",
+    "textureRight": "music_box_side3",
+    "textureBack": "music_box_side2",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 0,
+    "rotationMode": 1,
     "enablePitch": false,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -33,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Prueba",
+    "name": "PorcosBox",
     "specialInformation": {
       "fixedValue": []
     },
@@ -54,7 +54,7 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
-    "lightOpacity": 15,
+    "lightOpacity": 0,
     "material": {
       "value": "ROCK"
     },
@@ -81,7 +81,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "METAL"
     },
     "breakSound": {
       "value": ""

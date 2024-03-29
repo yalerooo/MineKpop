@@ -10,10 +10,10 @@ import net.minecraftforge.registries.DeferredRegister;
 
 import net.minecraft.world.level.block.Block;
 
-import net.mcreator.minekpop.block.PruebaBlock;
+import net.mcreator.minekpop.block.PorcosBoxBlock;
 import net.mcreator.minekpop.MineKpopMod;
 
 public class MineKpopModBlocks {
 	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, MineKpopMod.MODID);
-	public static final RegistryObject<Block> PRUEBA = REGISTRY.register("prueba", () -> new PruebaBlock());
+	public static final RegistryObject<Block> PORCOS_BOX = REGISTRY.register("porcos_box", () -> new PorcosBoxBlock());
 }

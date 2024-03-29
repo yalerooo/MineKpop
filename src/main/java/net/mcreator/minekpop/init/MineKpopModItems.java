@@ -436,7 +436,7 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> IVE_IAM = REGISTRY.register("ive_iam", () -> new IveIamItem());
 	public static final RegistryObject<Item> DRAMA_AESPA = REGISTRY.register("drama_aespa", () -> new DramaAespaItem());
 	public static final RegistryObject<Item> QUEEN_ZIO_P_ARK = REGISTRY.register("queen_zio_p_ark", () -> new QueenZioPArkItem());
-	public static final RegistryObject<Item> PRUEBA = block(MineKpopModBlocks.PRUEBA);
+	public static final RegistryObject<Item> PORCOS_BOX = block(MineKpopModBlocks.PORCOS_BOX);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

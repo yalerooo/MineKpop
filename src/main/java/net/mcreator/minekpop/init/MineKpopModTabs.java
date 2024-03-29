@@ -228,7 +228,7 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.IVE_IAM.get());
 				tabData.accept(MineKpopModItems.DRAMA_AESPA.get());
 				tabData.accept(MineKpopModItems.QUEEN_ZIO_P_ARK.get());
-				tabData.accept(MineKpopModBlocks.PRUEBA.get().asItem());
+				tabData.accept(MineKpopModBlocks.PORCOS_BOX.get().asItem());
 			})
 
 					.build());
