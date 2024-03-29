@@ -43,4 +43,5 @@ public class MineKpopModSounds {
 	public static final RegistryObject<SoundEvent> IAM = REGISTRY.register("iam", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "iam")));
 	public static final RegistryObject<SoundEvent> DRAMA = REGISTRY.register("drama", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "drama")));
 	public static final RegistryObject<SoundEvent> QUEEN = REGISTRY.register("queen", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "queen")));
+	public static final RegistryObject<SoundEvent> LA = REGISTRY.register("la", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "la")));
 }

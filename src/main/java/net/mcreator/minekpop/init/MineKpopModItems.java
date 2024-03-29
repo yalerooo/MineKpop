@@ -119,6 +119,7 @@ import net.mcreator.minekpop.item.LeSserafimAlbumItem;
 import net.mcreator.minekpop.item.LeSserafimAlbum2Item;
 import net.mcreator.minekpop.item.LeSserafim2Item;
 import net.mcreator.minekpop.item.LeSserafim1Item;
+import net.mcreator.minekpop.item.LalalaSKZItem;
 import net.mcreator.minekpop.item.LadyGidleItem;
 import net.mcreator.minekpop.item.Kazuha4Item;
 import net.mcreator.minekpop.item.Kazuha3Item;
@@ -437,6 +438,7 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> DRAMA_AESPA = REGISTRY.register("drama_aespa", () -> new DramaAespaItem());
 	public static final RegistryObject<Item> QUEEN_ZIO_P_ARK = REGISTRY.register("queen_zio_p_ark", () -> new QueenZioPArkItem());
 	public static final RegistryObject<Item> PORCOS_BOX = block(MineKpopModBlocks.PORCOS_BOX);
+	public static final RegistryObject<Item> LALALA_SKZ = REGISTRY.register("lalala_skz", () -> new LalalaSKZItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

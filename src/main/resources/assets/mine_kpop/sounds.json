@@ -222,5 +222,13 @@
         "stream": true
       }
     ]
+  },
+  "la": {
+    "sounds": [
+      {
+        "name": "mine_kpop:_lalalala__m-v",
+        "stream": true
+      }
+    ]
   }
 }
