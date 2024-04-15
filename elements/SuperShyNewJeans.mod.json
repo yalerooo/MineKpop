@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "NewJeans - Super Shy",
+    "rarity": "COMMON",
+    "texture": "supershy",
+    "description": "Super Shy by NewJeans",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:gods"
+    },
+    "lengthInTicks": 3760,
+    "analogOutput": 0
+  }
+}

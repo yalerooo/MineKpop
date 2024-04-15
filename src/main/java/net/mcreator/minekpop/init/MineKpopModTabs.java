@@ -230,6 +230,13 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.QUEEN_ZIO_P_ARK.get());
 				tabData.accept(MineKpopModBlocks.PORCOS_BOX.get().asItem());
 				tabData.accept(MineKpopModItems.LALALA_SKZ.get());
+				tabData.accept(MineKpopModItems.SOCIAL_PATH_SKZ.get());
+				tabData.accept(MineKpopModItems.GODS_NEW_JEANS.get());
+				tabData.accept(MineKpopModItems.SUPER_SHY_NEW_JEANS.get());
+				tabData.accept(MineKpopModItems.MAGNETIC_ILLIT.get());
+				tabData.accept(MineKpopModItems.IDOL_YOASOBI.get());
+				tabData.accept(MineKpopModItems.SINGWAB_B_KOMANCHI.get());
+				tabData.accept(MineKpopModItems.STARTTRAIN.get());
 			})
 
 					.build());

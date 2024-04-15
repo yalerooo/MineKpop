@@ -34,7 +34,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random >= 0 && Random <= 6 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.J_HOPE_1.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.J_HOPE_1.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -43,7 +43,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 6 && Random <= 12 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.J_HOPE_2.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.J_HOPE_2.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -52,7 +52,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 12 && Random <= 18 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.JIMIN_1.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.JIMIN_1.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -61,7 +61,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 18 && Random <= 24 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.JIMIN_2.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.JIMIN_2.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -70,7 +70,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 24 && Random <= 30 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.JIN_1.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.JIN_1.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -79,7 +79,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 30 && Random <= 36 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.JIN_2.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.JIN_2.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -88,7 +88,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 36 && Random <= 42 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.JUNG_KOOK_1.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.JUNG_KOOK_1.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -97,7 +97,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 42 && Random <= 48 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.JUNG_KOOK_2.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.JUNG_KOOK_2.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -106,7 +106,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 48 && Random <= 54 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.RM_1.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.RM_1.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -115,7 +115,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 54 && Random <= 60 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.RM_2.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.RM_2.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -124,7 +124,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 60 && Random <= 66 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.SUGA_1.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.SUGA_1.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -133,7 +133,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 66 && Random <= 72 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.SUGA_2.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.SUGA_2.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -142,7 +142,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 72 && Random <= 78 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.V_1.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.V_1.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -151,7 +151,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 78 && Random <= 84 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.V_2.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.V_2.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -160,7 +160,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 84 && Random <= 90 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.JUNG_KOOK_3.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.JUNG_KOOK_3.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -169,7 +169,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 90 && Random <= 96 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.JIMIN_3.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.JIMIN_3.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -178,7 +178,7 @@ public class BtsLoveYourselfRightclickedProcedure {
 		}
 		if (Random > 96 && Random <= 100 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.BTS_1.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.BTS_1.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)

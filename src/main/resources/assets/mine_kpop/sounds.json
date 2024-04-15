@@ -230,5 +230,61 @@
         "stream": true
       }
     ]
+  },
+  "social": {
+    "sounds": [
+      {
+        "name": "mine_kpop:stray_kids_social_path_feat._lisa__music_video",
+        "stream": true
+      }
+    ]
+  },
+  "gods": {
+    "sounds": [
+      {
+        "name": "mine_kpop:newjeans_nyujinseu_gods_lyrics_color_coded_lyrics___league_of_legends_-_worlds_2023_anthem",
+        "stream": true
+      }
+    ]
+  },
+  "shy": {
+    "sounds": [
+      {
+        "name": "mine_kpop:newjeans_nyujinseu_super_shy_official_audio",
+        "stream": true
+      }
+    ]
+  },
+  "magnetic": {
+    "sounds": [
+      {
+        "name": "mine_kpop:illit_magnetic_lyrics_ailris_magnetic_gasa_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "idol": {
+    "sounds": [
+      {
+        "name": "mine_kpop:yoasobi_-aidoru_idol_from_oshi_no_ko____op._full__sub._espanol__romaji",
+        "stream": true
+      }
+    ]
+  },
+  "wab": {
+    "sounds": [
+      {
+        "name": "mine_kpop:oshi_no_ko_-_sign_wa_b_new_arrange___b-komachi_sub_espanol",
+        "stream": true
+      }
+    ]
+  },
+  "star": {
+    "sounds": [
+      {
+        "name": "mine_kpop:oshi_no_ko_-_startrain_new_arrange___b-komachi_sub_espanol",
+        "stream": true
+      }
+    ]
   }
 }

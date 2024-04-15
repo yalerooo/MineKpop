@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "B-Komachi - Sign wa B",
+    "rarity": "COMMON",
+    "texture": "bkomanchi",
+    "description": "Sign wa B by B-Komachi ",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:wab"
+    },
+    "lengthInTicks": 5320,
+    "analogOutput": 0
+  }
+}

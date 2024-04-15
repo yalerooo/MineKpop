@@ -10,6 +10,9 @@ displayURL="https://mcreator.net"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="Yaler, MCreator"
 
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
 [[dependencies.mine_kpop]]
     modId="minecraft"
     mandatory=true
@@ -18,5 +21,16 @@ authors="Yaler, MCreator"
     side="BOTH"
 
 
-
+[[dependencies.mine_kpop]]
+    modId="kleidersplayerrenderer"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mine_kpop]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 

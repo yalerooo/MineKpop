@@ -34,7 +34,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random >= 0 && Random <= 6 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.BEOMGYU_4.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.BEOMGYU_4.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -43,7 +43,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 6 && Random <= 12 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.BEOMGYU_5.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.BEOMGYU_5.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -52,7 +52,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 12 && Random <= 18 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.HUENING_KAI_4.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.HUENING_KAI_4.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -61,7 +61,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 18 && Random <= 24 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.HUENING_KAI_5.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.HUENING_KAI_5.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -70,7 +70,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 24 && Random <= 30 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.SOOBIN_4.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.SOOBIN_4.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -79,7 +79,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 30 && Random <= 36 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.SOOBIN_5.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.SOOBIN_5.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -88,7 +88,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 36 && Random <= 42 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TAEHYUN_4.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TAEHYUN_4.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -97,7 +97,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 42 && Random <= 48 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TAEHYUN_5.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TAEHYUN_5.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -106,7 +106,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 48 && Random <= 54 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.YEONJUN_4.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.YEONJUN_4.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -115,7 +115,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 54 && Random <= 60 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.YEONJUN_5.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.YEONJUN_5.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -124,7 +124,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 60 && Random <= 66 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_3.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_3.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -133,7 +133,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 66 && Random <= 72 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_4.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_4.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -142,7 +142,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 72 && Random <= 78 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_5.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_5.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -151,7 +151,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 78 && Random <= 84 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_6.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_6.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -160,7 +160,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 84 && Random <= 90 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_7.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_7.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -169,7 +169,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 90 && Random <= 96 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_8.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_8.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
@@ -178,7 +178,7 @@ public class TXTTheDreamChapterStarRightclickedProcedure {
 		}
 		if (Random > 96 && Random <= 100 && (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemstack.getItem()) {
 			if (entity instanceof LivingEntity _entity) {
-				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_9.get());
+				ItemStack _setstack = new ItemStack(MineKpopModItems.TXT_9.get()).copy();
 				_setstack.setCount(itemstack.getCount());
 				_entity.setItemInHand(InteractionHand.MAIN_HAND, _setstack);
 				if (_entity instanceof Player _player)
