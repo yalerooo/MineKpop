@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/tata"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/tata",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/tata",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/tata",
+      "y": 270
+    }
+  }
+}

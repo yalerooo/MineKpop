@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cooky1",
+        "1": "cooky2",
+        "3": "cooky4"
+      },
+      "name": "default"
+    }
+  }
+}

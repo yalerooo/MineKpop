@@ -1,13 +1,19 @@
 {
-  "parent": "block/cube",
+  "parent": "mine_kpop:custom/reproductor",
   "textures": {
-    "down": "mine_kpop:block/music_box_bottom2",
-    "up": "mine_kpop:block/music_box_top2",
-    "north": "mine_kpop:block/music_box_side2",
-    "east": "mine_kpop:block/music_box_side3",
-    "south": "mine_kpop:block/music_box_side2",
-    "west": "mine_kpop:block/music_box_side3",
-    "particle": "mine_kpop:block/music_box_bottom2"
+    "all": "mine_kpop:block/music_box_bottom2",
+    "particle": "mine_kpop:block/music_box_bottom2",
+    "1": "mine_kpop:block/anvil",
+    "2": "mine_kpop:block/texture1",
+    "3": "mine_kpop:block/texture2",
+    "4": "mine_kpop:block/texture3",
+    "5": "mine_kpop:block/texture6",
+    "6": "mine_kpop:block/texture4",
+    "7": "mine_kpop:block/texture5",
+    "8": "mine_kpop:block/texture7",
+    "missing": "mine_kpop:block/",
+    "9": "mine_kpop:block/texture8",
+    "10": "mine_kpop:block/texture9"
   },
   "render_type": "solid"
 }

@@ -1,0 +1,9 @@
+{
+  "parent": "mine_kpop:custom/shooky",
+  "textures": {
+    "all": "mine_kpop:block/shookytexture1",
+    "particle": "mine_kpop:block/shookytexture1",
+    "0": "mine_kpop:block/shookytexture1"
+  },
+  "render_type": "solid"
+}

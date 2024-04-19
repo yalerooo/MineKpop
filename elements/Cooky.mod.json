@@ -2,14 +2,14 @@
   "_fv": 60,
   "_type": "block",
   "definition": {
-    "texture": "music_box_bottom2",
-    "textureTop": "music_box_top2",
-    "textureLeft": "music_box_side3",
-    "textureFront": "music_box_side2",
-    "textureRight": "music_box_side3",
-    "textureBack": "music_box_side2",
+    "texture": "cooky1",
+    "textureTop": "",
+    "textureLeft": "",
+    "textureFront": "",
+    "textureRight": "",
+    "textureBack": "",
     "renderType": 2,
-    "customModelName": "reproductor:default",
+    "customModelName": "cooky:default",
     "rotationMode": 1,
     "enablePitch": false,
     "emissiveRendering": false,
@@ -24,25 +24,88 @@
     "disableOffset": false,
     "boundingBoxes": [
       {
-        "mx": 0.0,
+        "mx": 5.0,
         "my": 0.0,
-        "mz": 1.0,
-        "Mx": 16.0,
+        "mz": 5.0,
+        "Mx": 8.0,
         "My": 2.0,
-        "Mz": 16.0,
+        "Mz": 11.0,
         "subtract": false
       },
       {
-        "mx": 0.0,
+        "mx": 9.0,
+        "my": 0.0,
+        "mz": 5.0,
+        "Mx": 12.0,
+        "My": 2.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 5.0,
         "my": 2.0,
-        "mz": 14.0,
+        "mz": 8.0,
+        "Mx": 12.0,
+        "My": 3.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 2.0,
+        "my": 3.0,
+        "mz": 8.0,
+        "Mx": 12.0,
+        "My": 7.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 12.0,
+        "my": 5.0,
+        "mz": 8.0,
         "Mx": 16.0,
-        "My": 16.0,
-        "Mz": 16.0,
+        "My": 11.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 4.0,
+        "my": 7.0,
+        "mz": 6.0,
+        "Mx": 13.0,
+        "My": 14.0,
+        "Mz": 13.0,
+        "subtract": false
+      },
+      {
+        "mx": 4.0,
+        "my": 14.0,
+        "mz": 8.0,
+        "Mx": 7.0,
+        "My": 18.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 10.0,
+        "my": 14.0,
+        "mz": 8.0,
+        "Mx": 13.0,
+        "My": 19.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 7.0,
+        "my": 1.0,
+        "mz": 11.0,
+        "Mx": 10.0,
+        "My": 3.0,
+        "Mz": 13.0,
         "subtract": false
       }
     ],
-    "name": "PorcosBox",
+    "name": "Cooky",
     "specialInformation": {
       "fixedValue": []
     },
@@ -65,7 +128,7 @@
     "canRedstoneConnect": false,
     "lightOpacity": 0,
     "material": {
-      "value": "ROCK"
+      "value": "SPONGE"
     },
     "tickRate": 0,
     "tickRandomly": false,
@@ -90,7 +153,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "METAL"
+      "value": "SPORE_BLOSSOM"
     },
     "breakSound": {
       "value": ""
@@ -111,13 +174,13 @@
     "unbreakable": false,
     "breakHarvestLevel": 1,
     "isBonemealable": false,
-    "hasInventory": true,
+    "hasInventory": false,
     "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,
-    "inventorySize": 0,
+    "inventorySize": 9,
     "inventoryStackSize": 64,
-    "inventoryDropWhenDestroyed": false,
-    "inventoryComparatorPower": false,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
     "inventoryInSlotIDs": [],
     "hasEnergyStorage": false,
@@ -128,12 +191,6 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "onRightClicked": {
-      "name": "PruebaOnBlockRightClicked"
-    },
-    "onTickUpdate": {
-      "name": "PruebaUpdateTick"
-    },
     "generateFeature": false,
     "restrictionBiomes": [],
     "blocksToReplace": [

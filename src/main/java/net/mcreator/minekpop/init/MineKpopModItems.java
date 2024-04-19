@@ -453,6 +453,10 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> IDOL_YOASOBI = REGISTRY.register("idol_yoasobi", () -> new IdolYoasobiItem());
 	public static final RegistryObject<Item> SINGWAB_B_KOMANCHI = REGISTRY.register("singwab_b_komanchi", () -> new SingwabBKomanchiItem());
 	public static final RegistryObject<Item> STARTTRAIN = REGISTRY.register("starttrain", () -> new StarttrainItem());
+	public static final RegistryObject<Item> COOKY = block(MineKpopModBlocks.COOKY);
+	public static final RegistryObject<Item> SHOOKY = block(MineKpopModBlocks.SHOOKY);
+	public static final RegistryObject<Item> TATA = block(MineKpopModBlocks.TATA);
+	public static final RegistryObject<Item> CHIMMY = block(MineKpopModBlocks.CHIMMY);
 
 	// Start of user code block custom items
 	// End of user code block custom items

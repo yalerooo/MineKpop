@@ -2,14 +2,14 @@
   "_fv": 60,
   "_type": "block",
   "definition": {
-    "texture": "music_box_bottom2",
-    "textureTop": "music_box_top2",
-    "textureLeft": "music_box_side3",
-    "textureFront": "music_box_side2",
-    "textureRight": "music_box_side3",
-    "textureBack": "music_box_side2",
+    "texture": "chimmytexture1",
+    "textureTop": "",
+    "textureLeft": "",
+    "textureFront": "",
+    "textureRight": "",
+    "textureBack": "",
     "renderType": 2,
-    "customModelName": "reproductor:default",
+    "customModelName": "chimmy:default",
     "rotationMode": 1,
     "enablePitch": false,
     "emissiveRendering": false,
@@ -24,25 +24,16 @@
     "disableOffset": false,
     "boundingBoxes": [
       {
-        "mx": 0.0,
+        "mx": 4.0,
         "my": 0.0,
-        "mz": 1.0,
-        "Mx": 16.0,
-        "My": 2.0,
-        "Mz": 16.0,
-        "subtract": false
-      },
-      {
-        "mx": 0.0,
-        "my": 2.0,
-        "mz": 14.0,
-        "Mx": 16.0,
-        "My": 16.0,
-        "Mz": 16.0,
+        "mz": 6.0,
+        "Mx": 12.0,
+        "My": 20.0,
+        "Mz": 9.0,
         "subtract": false
       }
     ],
-    "name": "PorcosBox",
+    "name": "Cooky",
     "specialInformation": {
       "fixedValue": []
     },
@@ -65,7 +56,7 @@
     "canRedstoneConnect": false,
     "lightOpacity": 0,
     "material": {
-      "value": "ROCK"
+      "value": "SPONGE"
     },
     "tickRate": 0,
     "tickRandomly": false,
@@ -90,7 +81,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "METAL"
+      "value": "SPORE_BLOSSOM"
     },
     "breakSound": {
       "value": ""
@@ -111,13 +102,13 @@
     "unbreakable": false,
     "breakHarvestLevel": 1,
     "isBonemealable": false,
-    "hasInventory": true,
+    "hasInventory": false,
     "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,
-    "inventorySize": 0,
+    "inventorySize": 9,
     "inventoryStackSize": 64,
-    "inventoryDropWhenDestroyed": false,
-    "inventoryComparatorPower": false,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
     "inventoryInSlotIDs": [],
     "hasEnergyStorage": false,
@@ -128,12 +119,6 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "onRightClicked": {
-      "name": "PruebaOnBlockRightClicked"
-    },
-    "onTickUpdate": {
-      "name": "PruebaUpdateTick"
-    },
     "generateFeature": false,
     "restrictionBiomes": [],
     "blocksToReplace": [

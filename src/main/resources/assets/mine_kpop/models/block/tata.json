@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/tata",
+  "textures": {
+    "all": "mine_kpop:block/tatatexture1",
+    "particle": "mine_kpop:block/tatatexture1",
+    "0": "mine_kpop:block/tatatexture1",
+    "1": "mine_kpop:block/tatatexture2",
+    "missing": "mine_kpop:block/"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "anvil",
+        "2": "texture1",
+        "3": "texture2",
+        "4": "texture3",
+        "5": "texture6",
+        "6": "texture4",
+        "7": "texture5",
+        "8": "texture7",
+        "missing": "",
+        "9": "texture8",
+        "10": "texture9"
+      },
+      "name": "default"
+    }
+  }
+}

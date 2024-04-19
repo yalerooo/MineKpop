@@ -237,6 +237,10 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.IDOL_YOASOBI.get());
 				tabData.accept(MineKpopModItems.SINGWAB_B_KOMANCHI.get());
 				tabData.accept(MineKpopModItems.STARTTRAIN.get());
+				tabData.accept(MineKpopModBlocks.COOKY.get().asItem());
+				tabData.accept(MineKpopModBlocks.SHOOKY.get().asItem());
+				tabData.accept(MineKpopModBlocks.TATA.get().asItem());
+				tabData.accept(MineKpopModBlocks.CHIMMY.get().asItem());
 			})
 
 					.build());

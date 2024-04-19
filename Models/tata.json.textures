@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tatatexture1",
+        "1": "tatatexture2",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,6 +1,9 @@
 
 package net.mcreator.minekpop.block;
 
+import net.minecraft.world.phys.shapes.VoxelShape;
+import net.minecraft.world.phys.shapes.Shapes;
+import net.minecraft.world.phys.shapes.CollisionContext;
 import net.minecraft.world.phys.BlockHitResult;
 import net.minecraft.world.level.block.state.properties.NoteBlockInstrument;
 import net.minecraft.world.level.block.state.properties.DirectionProperty;
@@ -34,7 +37,7 @@ public class PorcosBoxBlock extends Block implements EntityBlock {
 	public static final DirectionProperty FACING = HorizontalDirectionalBlock.FACING;
 
 	public PorcosBoxBlock() {
-		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.METAL).strength(1f, 10f));
+		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.METAL).strength(1f, 10f).noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH));
 	}
 
@@ -46,6 +49,21 @@ public class PorcosBoxBlock extends Block implements EntityBlock {
 	@Override
 	public int getLightBlock(BlockState state, BlockGetter worldIn, BlockPos pos) {
 		return 0;
+	}
+
+	@Override
+	public VoxelShape getVisualShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
+		return Shapes.empty();
+	}
+
+	@Override
+	public VoxelShape getShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
+		return switch (state.getValue(FACING)) {
+			default -> Shapes.or(box(0, 0, 0, 16, 2, 15), box(0, 2, 0, 16, 16, 2));
+			case NORTH -> Shapes.or(box(0, 0, 1, 16, 2, 16), box(0, 2, 14, 16, 16, 16));
+			case EAST -> Shapes.or(box(0, 0, 0, 15, 2, 16), box(0, 2, 0, 2, 16, 16));
+			case WEST -> Shapes.or(box(1, 0, 0, 16, 2, 16), box(14, 2, 0, 16, 16, 16));
+		};
 	}
 
 	@Override

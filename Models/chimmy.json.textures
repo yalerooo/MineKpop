@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "chimmytexture1",
+        "1": "chimmytexture2",
+        "2": "chimmytexture3",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

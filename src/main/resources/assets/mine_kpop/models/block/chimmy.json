@@ -1,0 +1,12 @@
+{
+  "parent": "mine_kpop:custom/chimmy",
+  "textures": {
+    "all": "mine_kpop:block/chimmytexture1",
+    "particle": "mine_kpop:block/chimmytexture1",
+    "0": "mine_kpop:block/chimmytexture1",
+    "1": "mine_kpop:block/chimmytexture2",
+    "2": "mine_kpop:block/chimmytexture3",
+    "missing": "mine_kpop:block/"
+  },
+  "render_type": "solid"
+}

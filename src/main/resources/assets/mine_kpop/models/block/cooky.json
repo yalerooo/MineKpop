@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/cooky",
+  "textures": {
+    "all": "mine_kpop:block/cooky1",
+    "particle": "mine_kpop:block/cooky1",
+    "0": "mine_kpop:block/cooky1",
+    "1": "mine_kpop:block/cooky2",
+    "3": "mine_kpop:block/cooky4"
+  },
+  "render_type": "solid"
+}
