@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/btsnp"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/btsnp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/btsnp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/btsnp",
+      "y": 270
+    }
+  }
+}

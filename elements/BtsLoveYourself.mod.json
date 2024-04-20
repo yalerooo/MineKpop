@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "bts_love_yourself",
+    "texture": "lvtexture1",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

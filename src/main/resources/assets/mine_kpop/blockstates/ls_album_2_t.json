@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/ls_album_2_t"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/ls_album_2_t",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/ls_album_2_t",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/ls_album_2_t",
+      "y": 270
+    }
+  }
+}

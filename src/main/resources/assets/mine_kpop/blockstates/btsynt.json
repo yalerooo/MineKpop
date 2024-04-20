@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/btsynt"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/btsynt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/btsynt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/btsynt",
+      "y": 270
+    }
+  }
+}

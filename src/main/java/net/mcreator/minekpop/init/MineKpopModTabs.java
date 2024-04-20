@@ -245,6 +245,14 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModBlocks.KOYA.get().asItem());
 				tabData.accept(MineKpopModBlocks.MANG.get().asItem());
 				tabData.accept(MineKpopModBlocks.VAN.get().asItem());
+				tabData.accept(MineKpopModBlocks.LE_SSERAFIM_ALBUM_1_T.get().asItem());
+				tabData.accept(MineKpopModBlocks.LE_SSERAFIM_ALBUM_1_P.get().asItem());
+				tabData.accept(MineKpopModBlocks.LS_ALBUM_2_T.get().asItem());
+				tabData.accept(MineKpopModBlocks.LS_ALBUM_2_P.get().asItem());
+				tabData.accept(MineKpopModBlocks.BTS_ALBUM_1_T.get().asItem());
+				tabData.accept(MineKpopModBlocks.BTS_ALBUM_1_P.get().asItem());
+				tabData.accept(MineKpopModBlocks.BTSYNT.get().asItem());
+				tabData.accept(MineKpopModBlocks.BTSNP.get().asItem());
 			})
 
 					.build());

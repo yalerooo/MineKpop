@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/le_sserafim_album2_pie",
+  "textures": {
+    "all": "mine_kpop:block/lesserafim2",
+    "particle": "mine_kpop:block/lesserafim2",
+    "0": "mine_kpop:block/lesserafim2",
+    "1": "mine_kpop:block/unforgiventexture2",
+    "2": "mine_kpop:block/unforgiventexture3"
+  },
+  "render_type": "solid"
+}

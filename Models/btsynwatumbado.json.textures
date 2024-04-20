@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ynwatexture1",
+        "3": "ynwatexture4",
+        "4": "ynwatexture2.1"
+      },
+      "name": "default"
+    }
+  }
+}

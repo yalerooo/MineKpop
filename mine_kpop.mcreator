@@ -4123,6 +4123,438 @@
         ]
       },
       "path": "~/BT21"
+    },
+    {
+      "name": "LeSserafimAlbum1T",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_sserafim_album_1_t",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/le_sserafim_album_1_t.json",
+          "src/main/resources/assets/mine_kpop/models/item/le_sserafim_album_1_t.json",
+          "src/main/resources/assets/mine_kpop/blockstates/le_sserafim_album_1_t.json",
+          "src/main/resources/assets/mine_kpop/models/block/le_sserafim_album_1_t.json",
+          "src/main/java/net/mcreator/minekpop/block/LeSserafimAlbum1TBlock.java"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "LeSserafimAlbum1P",
+      "type": "block",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_sserafim_album_1_p",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/block/le_sserafim_album_1_p.json",
+          "src/main/resources/assets/mine_kpop/blockstates/le_sserafim_album_1_p.json",
+          "src/main/resources/assets/mine_kpop/models/item/le_sserafim_album_1_p.json",
+          "src/main/java/net/mcreator/minekpop/block/LeSserafimAlbum1PBlock.java",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/le_sserafim_album_1_p.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "LeSserafimAlbum1TOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_sserafim_album_1_t_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/LeSserafimAlbum1TOnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "LeSserafimAlbum1POnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_sserafim_album_1_p_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/LeSserafimAlbum1POnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "LSAlbum2T",
+      "type": "block",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ls_album_2_t",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/ls_album_2_t.json",
+          "src/main/resources/assets/mine_kpop/blockstates/ls_album_2_t.json",
+          "src/main/resources/assets/mine_kpop/models/item/ls_album_2_t.json",
+          "src/main/java/net/mcreator/minekpop/block/LSAlbum2TBlock.java",
+          "src/main/resources/assets/mine_kpop/models/block/ls_album_2_t.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "LSAlbum2P",
+      "type": "block",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ls_album_2_p",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/block/ls_album_2_p.json",
+          "src/main/java/net/mcreator/minekpop/block/LSAlbum2PBlock.java",
+          "src/main/resources/assets/mine_kpop/models/item/ls_album_2_p.json",
+          "src/main/resources/assets/mine_kpop/blockstates/ls_album_2_p.json",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/ls_album_2_p.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "LSAlbum2TRC",
+      "type": "procedure",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ls_album_2_trc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/LSAlbum2TRCProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "LSAlbum2PRC",
+      "type": "procedure",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ls_album_2_prc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/LSAlbum2PRCProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTSAlbum1T",
+      "type": "block",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_album_1_t",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/block/bts_album_1_t.json",
+          "src/main/java/net/mcreator/minekpop/block/BTSAlbum1TBlock.java",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/bts_album_1_t.json",
+          "src/main/resources/assets/mine_kpop/blockstates/bts_album_1_t.json",
+          "src/main/resources/assets/mine_kpop/models/item/bts_album_1_t.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTSAlbum1P",
+      "type": "block",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_album_1_p",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/blockstates/bts_album_1_p.json",
+          "src/main/resources/assets/mine_kpop/models/item/bts_album_1_p.json",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/bts_album_1_p.json",
+          "src/main/resources/assets/mine_kpop/models/block/bts_album_1_p.json",
+          "src/main/java/net/mcreator/minekpop/block/BTSAlbum1PBlock.java"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTSAlbum1TRC",
+      "type": "procedure",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_album_1_trc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/BTSAlbum1TRCProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTSAlbum1PRC",
+      "type": "procedure",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_album_1_prc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/BTSAlbum1PRCProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTSYNT",
+      "type": "block",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "btsynt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/btsynt.json",
+          "src/main/resources/assets/mine_kpop/models/block/btsynt.json",
+          "src/main/java/net/mcreator/minekpop/block/BTSYNTBlock.java",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/btsynt.json",
+          "src/main/resources/assets/mine_kpop/blockstates/btsynt.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTSNP",
+      "type": "block",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "btsnp",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/block/btsnp.json",
+          "src/main/java/net/mcreator/minekpop/block/BTSNPBlock.java",
+          "src/main/resources/assets/mine_kpop/blockstates/btsnp.json",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/btsnp.json",
+          "src/main/resources/assets/mine_kpop/models/item/btsnp.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTSYNRCT",
+      "type": "procedure",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "btsynrct",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/BTSYNRCTProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "BTSYNRCP",
+      "type": "procedure",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "btsynrcp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/BTSYNRCPProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Albums"
     }
   ],
   "variable_elements": [],
@@ -4464,6 +4896,7 @@
       "item.mine_kpop.lalala_skz": "Stray Kids - LALALALA",
       "subtitles.easy1": "",
       "subtitles.drama": "",
+      "block.mine_kpop.btsnp": "Le Sserafim Album 1 T",
       "subtitles.easy3": "",
       "subtitles.wab": "",
       "item.mine_kpop.stray_kids_2": "Stray Kids 2",
@@ -4505,6 +4938,7 @@
       "item.mine_kpop.idol_yoasobi.desc": "Idol by YOASOB",
       "item.mine_kpop.taehyun_5": "Taehyun 5",
       "item.mine_kpop.taehyun_4": "Taehyun 4",
+      "block.mine_kpop.btsynt": "Le Sserafim Album 1 T",
       "item.mine_kpop.txt_the_dream_chapter_star": "TXT The dream chapter: Star",
       "item.mine_kpop.super_shy_new_jeans.desc": "Super Shy by NewJeans",
       "item.mine_kpop.hellevator_skz": "Stray Kids - Hellevator",
@@ -4569,7 +5003,9 @@
       "item.mine_kpop.sakura_3": "Sakura 3",
       "item.mine_kpop.sakura_2": "Sakura 2",
       "item.mine_kpop.sakura_1": "Sakura 1",
+      "block.mine_kpop.bts_album_1_t": "Le Sserafim Album 1 T",
       "item.mine_kpop.love_song_txt": "TXT - 0X1\u003dLOVESONG",
+      "block.mine_kpop.bts_album_1_p": "Le Sserafim Album 1 T",
       "subtitles.queencard": "",
       "item.mine_kpop.drama_aespa.desc": "Drama by aespa",
       "subtitles.eyesroll": "",
@@ -4606,6 +5042,8 @@
       "item.mine_kpop.suga_5": "Suga 5",
       "item.mine_kpop.suga_4": "Suga 4",
       "item.mine_kpop.v_1": "V 1",
+      "block.mine_kpop.ls_album_2_t": "Le Sserafim Album 1 T",
+      "block.mine_kpop.ls_album_2_p": "Le Sserafim Album 1 T",
       "item.mine_kpop.evepsychethebluebeardswife.desc": "eve psyche \u0026 the bluebeard’s wife from LeSserafim",
       "subtitles.fate": "",
       "item.mine_kpop.huening_kai_2": "Huening Kai 2",
@@ -4720,10 +5158,12 @@
       "item.mine_kpop.kazuha_2": "Kazuha 2",
       "item.mine_kpop.kazuha_3": "Kazuha 3",
       "subtitles.opening": "",
+      "block.mine_kpop.le_sserafim_album_1_p": "Le Sserafim Album 1 T",
       "item.mine_kpop.lalala_skz.desc": "LALALALA  by Stray kids",
       "item.mine_kpop.shuhua_4": "Shuhua 4",
       "subtitles.wife": "",
       "block.mine_kpop.shooky": "Shooky",
+      "block.mine_kpop.le_sserafim_album_1_t": "Le Sserafim Album 1 T",
       "item.mine_kpop.shuhua_1": "Shuhua 1",
       "item.mine_kpop.shuhua_3": "Shuhua 3",
       "item.mine_kpop.shuhua_2": "Shuhua 2",

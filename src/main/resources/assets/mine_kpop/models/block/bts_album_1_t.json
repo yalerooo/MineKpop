@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/lvtumbado1.2",
+  "textures": {
+    "all": "mine_kpop:block/lvtexture1",
+    "particle": "mine_kpop:block/lvtexture1",
+    "0": "mine_kpop:block/lvtexture1",
+    "1": "mine_kpop:block/lytexture2",
+    "2": "mine_kpop:block/lytexture3"
+  },
+  "render_type": "solid"
+}

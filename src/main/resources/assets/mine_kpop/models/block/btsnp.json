@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/btsynwapie",
+  "textures": {
+    "all": "mine_kpop:block/ynwatexture1",
+    "particle": "mine_kpop:block/ynwatexture1",
+    "0": "mine_kpop:block/ynwatexture1",
+    "3": "mine_kpop:block/ynwatexture4",
+    "4": "mine_kpop:block/ynwatexture2.1"
+  },
+  "render_type": "solid"
+}

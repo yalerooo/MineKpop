@@ -461,6 +461,14 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> KOYA = block(MineKpopModBlocks.KOYA);
 	public static final RegistryObject<Item> MANG = block(MineKpopModBlocks.MANG);
 	public static final RegistryObject<Item> VAN = block(MineKpopModBlocks.VAN);
+	public static final RegistryObject<Item> LE_SSERAFIM_ALBUM_1_T = block(MineKpopModBlocks.LE_SSERAFIM_ALBUM_1_T);
+	public static final RegistryObject<Item> LE_SSERAFIM_ALBUM_1_P = block(MineKpopModBlocks.LE_SSERAFIM_ALBUM_1_P);
+	public static final RegistryObject<Item> LS_ALBUM_2_T = block(MineKpopModBlocks.LS_ALBUM_2_T);
+	public static final RegistryObject<Item> LS_ALBUM_2_P = block(MineKpopModBlocks.LS_ALBUM_2_P);
+	public static final RegistryObject<Item> BTS_ALBUM_1_T = block(MineKpopModBlocks.BTS_ALBUM_1_T);
+	public static final RegistryObject<Item> BTS_ALBUM_1_P = block(MineKpopModBlocks.BTS_ALBUM_1_P);
+	public static final RegistryObject<Item> BTSYNT = block(MineKpopModBlocks.BTSYNT);
+	public static final RegistryObject<Item> BTSNP = block(MineKpopModBlocks.BTSNP);
 
 	// Start of user code block custom items
 	// End of user code block custom items
