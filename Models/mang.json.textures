@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mangtexture1",
+        "1": "mangtexture2",
+        "2": "mangtexture3",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/koya",
+  "textures": {
+    "all": "mine_kpop:block/koyatexture1",
+    "particle": "mine_kpop:block/koyatexture1",
+    "0": "mine_kpop:block/koyatexture1",
+    "1": "mine_kpop:block/koyatexture4",
+    "2": "mine_kpop:block/koyatexture5"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "vantexture1",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

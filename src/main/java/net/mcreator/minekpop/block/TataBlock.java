@@ -44,10 +44,10 @@ public class TataBlock extends Block {
 	@Override
 	public VoxelShape getShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
 		return switch (state.getValue(FACING)) {
-			default -> Shapes.or(box(9, 0, 9, 12, 3, 13), box(4, 0, 9, 7, 3, 13), box(3, 0, 4, 13, 8, 9), box(3, 8, 4, 13, 15, 9));
-			case NORTH -> Shapes.or(box(4, 0, 3, 7, 3, 7), box(9, 0, 3, 12, 3, 7), box(3, 0, 7, 13, 8, 12), box(3, 8, 7, 13, 15, 12));
-			case EAST -> Shapes.or(box(9, 0, 4, 13, 3, 7), box(9, 0, 9, 13, 3, 12), box(4, 0, 3, 9, 8, 13), box(4, 8, 3, 9, 15, 13));
-			case WEST -> Shapes.or(box(3, 0, 9, 7, 3, 12), box(3, 0, 4, 7, 3, 7), box(7, 0, 3, 12, 8, 13), box(7, 8, 3, 12, 15, 13));
+			default -> box(4, 0, 5, 12, 8, 9);
+			case NORTH -> box(4, 0, 7, 12, 8, 11);
+			case EAST -> box(5, 0, 4, 9, 8, 12);
+			case WEST -> box(7, 0, 4, 11, 8, 12);
 		};
 	}
 

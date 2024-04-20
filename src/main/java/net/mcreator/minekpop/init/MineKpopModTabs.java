@@ -241,6 +241,10 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModBlocks.SHOOKY.get().asItem());
 				tabData.accept(MineKpopModBlocks.TATA.get().asItem());
 				tabData.accept(MineKpopModBlocks.CHIMMY.get().asItem());
+				tabData.accept(MineKpopModBlocks.RJ.get().asItem());
+				tabData.accept(MineKpopModBlocks.KOYA.get().asItem());
+				tabData.accept(MineKpopModBlocks.MANG.get().asItem());
+				tabData.accept(MineKpopModBlocks.VAN.get().asItem());
 			})
 
 					.build());

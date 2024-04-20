@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/koya"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/koya",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/koya",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/koya",
+      "y": 270
+    }
+  }
+}

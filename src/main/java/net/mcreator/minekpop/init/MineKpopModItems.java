@@ -457,6 +457,10 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> SHOOKY = block(MineKpopModBlocks.SHOOKY);
 	public static final RegistryObject<Item> TATA = block(MineKpopModBlocks.TATA);
 	public static final RegistryObject<Item> CHIMMY = block(MineKpopModBlocks.CHIMMY);
+	public static final RegistryObject<Item> RJ = block(MineKpopModBlocks.RJ);
+	public static final RegistryObject<Item> KOYA = block(MineKpopModBlocks.KOYA);
+	public static final RegistryObject<Item> MANG = block(MineKpopModBlocks.MANG);
+	public static final RegistryObject<Item> VAN = block(MineKpopModBlocks.VAN);
 
 	// Start of user code block custom items
 	// End of user code block custom items

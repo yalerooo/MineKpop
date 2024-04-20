@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "koyatexture1",
+        "1": "koyatexture4",
+        "2": "koyatexture5"
+      },
+      "name": "default"
+    }
+  }
+}

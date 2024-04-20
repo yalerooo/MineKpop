@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rjtexture",
+        "1": "rjtexture2",
+        "2": "rjtexture3",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

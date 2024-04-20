@@ -4051,6 +4051,78 @@
         ]
       },
       "path": "~/BT21"
+    },
+    {
+      "name": "Rj",
+      "type": "block",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rj",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/blockstates/rj.json",
+          "src/main/java/net/mcreator/minekpop/block/RjBlock.java",
+          "src/main/resources/assets/mine_kpop/models/item/rj.json",
+          "src/main/resources/assets/mine_kpop/models/block/rj.json",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/rj.json"
+        ]
+      },
+      "path": "~/BT21"
+    },
+    {
+      "name": "Koya",
+      "type": "block",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "koya",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/koya.json",
+          "src/main/resources/assets/mine_kpop/blockstates/koya.json",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/koya.json",
+          "src/main/java/net/mcreator/minekpop/block/KoyaBlock.java",
+          "src/main/resources/assets/mine_kpop/models/block/koya.json"
+        ]
+      },
+      "path": "~/BT21"
+    },
+    {
+      "name": "Mang",
+      "type": "block",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mang",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/mang.json",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/mang.json",
+          "src/main/java/net/mcreator/minekpop/block/MangBlock.java",
+          "src/main/resources/assets/mine_kpop/blockstates/mang.json",
+          "src/main/resources/assets/mine_kpop/models/block/mang.json"
+        ]
+      },
+      "path": "~/BT21"
+    },
+    {
+      "name": "Van",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "van",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/van.json",
+          "src/main/resources/assets/mine_kpop/models/item/van.json",
+          "src/main/resources/assets/mine_kpop/models/block/van.json",
+          "src/main/java/net/mcreator/minekpop/block/VanBlock.java",
+          "src/main/resources/assets/mine_kpop/blockstates/van.json"
+        ]
+      },
+      "path": "~/BT21"
     }
   ],
   "variable_elements": [],
@@ -4387,8 +4459,8 @@
       "item.mine_kpop.yuqi_1": "Yuqi 1",
       "item.mine_kpop.yuqi_2": "Yuqi 2",
       "item.mine_kpop.han_2": "Han 2",
-      "item.mine_kpop.yuqi_3": "Yuqi 3",
       "item.mine_kpop.han_1": "Han 1",
+      "item.mine_kpop.yuqi_3": "Yuqi 3",
       "item.mine_kpop.lalala_skz": "Stray Kids - LALALALA",
       "subtitles.easy1": "",
       "subtitles.drama": "",
@@ -4406,19 +4478,21 @@
       "item.mine_kpop.jung_kook_4": "Jung Kook 4",
       "item.mine_kpop.jung_kook_3": "Jung Kook 3",
       "item.mine_kpop.le_sserafim_1": "Le Sserafim 1",
-      "subtitles.iwantthat": "",
       "subtitles.nocelestial": "",
+      "subtitles.iwantthat": "",
       "item.mine_kpop.jung_kook_5": "Jung Kook 5",
       "item.mine_kpop.lesserafim_lightstick": "Lesserafim Lightstick",
       "item.mine_kpop.gods_new_jeans.desc": "GODS by NewJeans",
       "item.mine_kpop.soobin_4": "Soobin 4",
       "item.mine_kpop.soobin_5": "Soobin 5",
       "item.mine_kpop.wifegidle.desc": "Wife from (G)I-DLE",
+      "block.mine_kpop.van": "Van",
       "item.mine_kpop.yuqi_4": "Yuqi 4",
-      "item.mine_kpop.fategidle.desc": "Fate from (G)I-DLE",
       "item.mine_kpop.yuqi_5": "Yuqi 5",
+      "item.mine_kpop.fategidle.desc": "Fate from (G)I-DLE",
       "subtitles.gods": "",
       "item.mine_kpop.queencard_g_idle.desc": "Queencard from (G)I-DLE",
+      "block.mine_kpop.mang": "Mang",
       "item.mine_kpop.eunchae_4": "Eunchae 4",
       "item.mine_kpop.eunchae_3": "Eunchae 3",
       "item.mine_kpop.eunchae_2": "Eunchae 2",
@@ -4460,7 +4534,7 @@
       "item.mine_kpop.tombo_ygidel": "(G)I-DLE - TOMBOY",
       "item.mine_kpop.minnie_1": "Minnie 1",
       "subtitles.perfect": "",
-      "block.mine_kpop.chimmy": "Cooky",
+      "block.mine_kpop.chimmy": "Chimmy",
       "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
       "subtitles.iam": "",
       "item.mine_kpop.bt_21": "BT21",
@@ -4504,6 +4578,7 @@
       "item.mine_kpop.lady_gidle": "(G)I-DLE - Super lady",
       "subtitles.la": "",
       "item.mine_kpop.smart_le_serafim": "Le Sserafim - Smart",
+      "block.mine_kpop.rj": "Rj",
       "item.mine_kpop.seungmin_2": "Seungmin 2",
       "item.mine_kpop.cheese_skz": "Stray Kids - Cheese",
       "item.mine_kpop.le_sserafim_fcb_1": "Le Sserafim FCB1",
@@ -4512,7 +4587,7 @@
       "item.mine_kpop.seungmin_4": "Seungmin 4",
       "item.mine_kpop.le_sserafim_fcb_2": "Le Sserafim FCB2",
       "item.mine_kpop.le_sserafim_fcb_3": "Le Sserafim FCB3",
-      "block.mine_kpop.tata": "Cooky",
+      "block.mine_kpop.tata": "Tata",
       "item.mine_kpop.miyeon_4": "Miyeon 4",
       "item.mine_kpop.suga_3": "Suga 3",
       "item.mine_kpop.miyeon_3": "Miyeon 3",
@@ -4542,6 +4617,7 @@
       "item.mine_kpop.bts_2": "BTS 2",
       "item.mine_kpop.bts_1": "BTS 1",
       "item.mine_kpop.huening_kai_1": "Huening Kai 1",
+      "block.mine_kpop.koya": "Koya",
       "subtitles.eve": "",
       "item.mine_kpop.fire_in_the_belly_le_sserafim": "Le Sserafim - Fire in the belly",
       "subtitles.cheese": "",
@@ -4647,7 +4723,7 @@
       "item.mine_kpop.lalala_skz.desc": "LALALALA  by Stray kids",
       "item.mine_kpop.shuhua_4": "Shuhua 4",
       "subtitles.wife": "",
-      "block.mine_kpop.shooky": "Cooky",
+      "block.mine_kpop.shooky": "Shooky",
       "item.mine_kpop.shuhua_1": "Shuhua 1",
       "item.mine_kpop.shuhua_3": "Shuhua 3",
       "item.mine_kpop.shuhua_2": "Shuhua 2",

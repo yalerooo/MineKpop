@@ -26,41 +26,14 @@
       {
         "mx": 4.0,
         "my": 0.0,
-        "mz": 3.0,
-        "Mx": 7.0,
-        "My": 3.0,
-        "Mz": 7.0,
-        "subtract": false
-      },
-      {
-        "mx": 9.0,
-        "my": 0.0,
-        "mz": 3.0,
+        "mz": 7.0,
         "Mx": 12.0,
-        "My": 3.0,
-        "Mz": 7.0,
-        "subtract": false
-      },
-      {
-        "mx": 3.0,
-        "my": 0.0,
-        "mz": 7.0,
-        "Mx": 13.0,
         "My": 8.0,
-        "Mz": 12.0,
-        "subtract": false
-      },
-      {
-        "mx": 3.0,
-        "my": 8.0,
-        "mz": 7.0,
-        "Mx": 13.0,
-        "My": 15.0,
-        "Mz": 12.0,
+        "Mz": 11.0,
         "subtract": false
       }
     ],
-    "name": "Cooky",
+    "name": "Tata",
     "specialInformation": {
       "fixedValue": []
     },

@@ -1,0 +1,12 @@
+{
+  "parent": "mine_kpop:custom/rj",
+  "textures": {
+    "all": "mine_kpop:block/rjtexture2",
+    "particle": "mine_kpop:block/rjtexture2",
+    "0": "mine_kpop:block/rjtexture",
+    "1": "mine_kpop:block/rjtexture2",
+    "2": "mine_kpop:block/rjtexture3",
+    "missing": "mine_kpop:block/"
+  },
+  "render_type": "solid"
+}

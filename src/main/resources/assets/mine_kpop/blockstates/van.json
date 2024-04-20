@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/van"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/van",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/van",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/van",
+      "y": 270
+    }
+  }
+}

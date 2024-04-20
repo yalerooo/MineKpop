@@ -1,0 +1,12 @@
+{
+  "parent": "mine_kpop:custom/mang",
+  "textures": {
+    "all": "mine_kpop:block/mangtexture1",
+    "particle": "mine_kpop:block/mangtexture1",
+    "0": "mine_kpop:block/mangtexture1",
+    "1": "mine_kpop:block/mangtexture2",
+    "2": "mine_kpop:block/mangtexture3",
+    "missing": "mine_kpop:block/"
+  },
+  "render_type": "solid"
+}

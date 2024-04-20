@@ -1,0 +1,10 @@
+{
+  "parent": "mine_kpop:custom/van",
+  "textures": {
+    "all": "mine_kpop:block/vantexture1",
+    "particle": "mine_kpop:block/vantexture1",
+    "0": "mine_kpop:block/vantexture1",
+    "missing": "mine_kpop:block/"
+  },
+  "render_type": "solid"
+}
