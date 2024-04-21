@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/skz1tumbado",
+  "textures": {
+    "all": "mine_kpop:block/skz5startexture1",
+    "particle": "mine_kpop:block/skz5startexture1",
+    "0": "mine_kpop:block/skz5startexture1",
+    "1": "mine_kpop:block/skz5startexture2",
+    "2": "mine_kpop:block/skz5startexture3"
+  },
+  "render_type": "solid"
+}

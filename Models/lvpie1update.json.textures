@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lytexture1.2",
+        "1": "lytexture2.2",
+        "2": "lytexture3.2"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "unforgiventexture1.2",
+        "1": "unforgiventexture2.2",
+        "2": "unforgiventexture3.2"
+      },
+      "name": "default"
+    }
+  }
+}

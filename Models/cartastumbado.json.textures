@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cardtexture2",
+        "1": "cardtexture3"
+      },
+      "name": "default"
+    }
+  }
+}

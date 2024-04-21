@@ -1,9 +1,9 @@
 {
-  "parent": "mine_kpop:custom/le_sserafim_album1_pie",
+  "parent": "mine_kpop:custom/fearlesspie",
   "textures": {
-    "all": "mine_kpop:block/lesserafim",
-    "particle": "mine_kpop:block/lesserafim",
-    "0": "mine_kpop:block/lesserafim",
+    "all": "mine_kpop:block/fearlesstexture1",
+    "particle": "mine_kpop:block/fearlesstexture1",
+    "0": "mine_kpop:block/fearlesstexture1",
     "1": "mine_kpop:block/fearlesstexture2",
     "2": "mine_kpop:block/fearlesstexture3"
   },

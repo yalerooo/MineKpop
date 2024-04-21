@@ -469,6 +469,18 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> BTS_ALBUM_1_P = block(MineKpopModBlocks.BTS_ALBUM_1_P);
 	public static final RegistryObject<Item> BTSYNT = block(MineKpopModBlocks.BTSYNT);
 	public static final RegistryObject<Item> BTSNP = block(MineKpopModBlocks.BTSNP);
+	public static final RegistryObject<Item> TXT_1_TUMBADO = block(MineKpopModBlocks.TXT_1_TUMBADO);
+	public static final RegistryObject<Item> TXT_1_PIE = block(MineKpopModBlocks.TXT_1_PIE);
+	public static final RegistryObject<Item> TXT_2_TUMBADO = block(MineKpopModBlocks.TXT_2_TUMBADO);
+	public static final RegistryObject<Item> TXT_2_PIE = block(MineKpopModBlocks.TXT_2_PIE);
+	public static final RegistryObject<Item> SKZ_1_TUMBADO = block(MineKpopModBlocks.SKZ_1_TUMBADO);
+	public static final RegistryObject<Item> SKZ_1_PIE = block(MineKpopModBlocks.SKZ_1_PIE);
+	public static final RegistryObject<Item> IFEEL_TUMBADO = block(MineKpopModBlocks.IFEEL_TUMBADO);
+	public static final RegistryObject<Item> IFEEL_PIE = block(MineKpopModBlocks.IFEEL_PIE);
+	public static final RegistryObject<Item> CARTAS_TUMBADO = block(MineKpopModBlocks.CARTAS_TUMBADO);
+	public static final RegistryObject<Item> CARTAS_PIE = block(MineKpopModBlocks.CARTAS_PIE);
+	public static final RegistryObject<Item> MAX_TUMBADO = block(MineKpopModBlocks.MAX_TUMBADO);
+	public static final RegistryObject<Item> MAX_PIE = block(MineKpopModBlocks.MAX_PIE);
 
 	// Start of user code block custom items
 	// End of user code block custom items

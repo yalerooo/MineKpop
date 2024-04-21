@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/ifeeltumbado",
+  "textures": {
+    "all": "mine_kpop:block/ifeeltexture1",
+    "particle": "mine_kpop:block/ifeeltexture1",
+    "0": "mine_kpop:block/ifeeltexture1",
+    "1": "mine_kpop:block/ifeeltexture2",
+    "2": "mine_kpop:block/ifeeltexture3"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/txt2tumbado",
+  "textures": {
+    "all": "mine_kpop:block/txt2texture1",
+    "particle": "mine_kpop:block/txt2texture1",
+    "0": "mine_kpop:block/txt2texture1",
+    "1": "mine_kpop:block/txt2texture2",
+    "2": "mine_kpop:block/txt2texture3"
+  },
+  "render_type": "solid"
+}

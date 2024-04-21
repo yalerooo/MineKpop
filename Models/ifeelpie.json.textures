@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ifeeltexture1",
+        "1": "ifeeltexture2",
+        "2": "ifeeltexture3"
+      },
+      "name": "default"
+    }
+  }
+}

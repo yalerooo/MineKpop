@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "maxtexture1",
+        "1": "maxtexture2",
+        "2": "maxtexture3"
+      },
+      "name": "default"
+    }
+  }
+}

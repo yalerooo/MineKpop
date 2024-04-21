@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "txt1texture3",
+        "1": "txt1texture2",
+        "2": "txt1texture1"
+      },
+      "name": "default"
+    }
+  }
+}

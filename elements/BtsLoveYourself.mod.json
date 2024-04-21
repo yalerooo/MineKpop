@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "lvtexture1",
+    "texture": "lytexture1.2",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

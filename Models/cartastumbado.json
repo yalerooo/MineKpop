@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "cardTexture2",
+		"1": "cardTexture3",
+		"particle": "cardTexture2"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 5],
+			"to": [10, 1, 11],
+			"faces": {
+				"north": {"uv": [10.51563, 10.96875, 13.73438, 11.6875], "texture": "#1"},
+				"east": {"uv": [8, 12.04688, 13.84375, 13.04688], "texture": "#1"},
+				"south": {"uv": [9.85938, 8.57813, 4.35938, 7.57813], "texture": "#1"},
+				"west": {"uv": [8, 12.04688, 13.84375, 13.04688], "texture": "#1"},
+				"up": {"uv": [13.76563, 10.51563, 10.5, 4.98438], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [0, 6.75, -3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-23.75, 0, 0],
+			"translation": [0, 7, -2.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [-1.5, 4, -3.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0.75, 2.75, -4.25]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"gui": {
+			"rotation": [-90, 0, -180],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

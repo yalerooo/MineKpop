@@ -2,6 +2,7 @@ package net.mcreator.minekpop.procedures;
 
 import net.minecraft.world.phys.Vec3;
 import net.minecraft.world.phys.Vec2;
+import net.minecraft.world.level.block.state.properties.Property;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraft.world.level.LevelAccessor;
@@ -17,6 +18,9 @@ import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.CommandSource;
 
 import net.mcreator.minekpop.init.MineKpopModItems;
+import net.mcreator.minekpop.init.MineKpopModBlocks;
+
+import java.util.Map;
 
 public class Onright3Procedure {
 	public static void execute(LevelAccessor world, double x, double y, double z, Entity entity) {
@@ -50,6 +54,20 @@ public class Onright3Procedure {
 			}
 			if (entity instanceof Player _player && !_player.level().isClientSide())
 				_player.displayClientMessage(Component.literal("Easy - Le Sserafim"), true);
+			{
+				BlockPos _bp = BlockPos.containing(x, y, z);
+				BlockState _bs = MineKpopModBlocks.PORCOS_BOX.get().defaultBlockState();
+				BlockState _bso = world.getBlockState(_bp);
+				for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
+					Property _property = _bs.getBlock().getStateDefinition().getProperty(entry.getKey().getName());
+					if (_property != null && _bs.getValue(_property) != null)
+						try {
+							_bs = _bs.setValue(_property, (Comparable) entry.getValue());
+						} catch (Exception e) {
+						}
+				}
+				world.setBlock(_bp, _bs, 3);
+			}
 		} else if ((entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == MineKpopModItems.DRAMA_AESPA.get()) {
 			if (!world.isClientSide()) {
 				BlockPos _bp = BlockPos.containing(x, y, z);

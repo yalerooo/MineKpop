@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fearlesstexture1",
+        "1": "fearlesstexture2",
+        "2": "fearlesstexture3"
+      },
+      "name": "default"
+    }
+  }
+}

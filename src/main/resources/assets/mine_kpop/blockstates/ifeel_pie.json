@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/ifeel_pie"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/ifeel_pie",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/ifeel_pie",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/ifeel_pie",
+      "y": 270
+    }
+  }
+}

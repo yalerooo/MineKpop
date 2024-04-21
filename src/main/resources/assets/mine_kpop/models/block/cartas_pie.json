@@ -1,0 +1,10 @@
+{
+  "parent": "mine_kpop:custom/cartaspie",
+  "textures": {
+    "all": "mine_kpop:block/cardtexture2",
+    "particle": "mine_kpop:block/cardtexture2",
+    "0": "mine_kpop:block/cardtexture2",
+    "1": "mine_kpop:block/cardtexture3"
+  },
+  "render_type": "solid"
+}

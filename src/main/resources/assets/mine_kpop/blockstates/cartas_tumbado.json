@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/cartas_tumbado"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/cartas_tumbado",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/cartas_tumbado",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/cartas_tumbado",
+      "y": 270
+    }
+  }
+}

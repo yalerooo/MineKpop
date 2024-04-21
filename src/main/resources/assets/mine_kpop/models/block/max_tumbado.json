@@ -1,0 +1,11 @@
+{
+  "parent": "mine_kpop:custom/maxtumbado",
+  "textures": {
+    "all": "mine_kpop:block/maxtexture1",
+    "particle": "mine_kpop:block/maxtexture1",
+    "0": "mine_kpop:block/maxtexture1",
+    "1": "mine_kpop:block/maxtexture2",
+    "2": "mine_kpop:block/maxtexture3"
+  },
+  "render_type": "solid"
+}

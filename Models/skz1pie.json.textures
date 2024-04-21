@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "skz5startexture1",
+        "1": "skz5startexture2",
+        "2": "skz5startexture3"
+      },
+      "name": "default"
+    }
+  }
+}

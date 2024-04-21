@@ -253,6 +253,18 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModBlocks.BTS_ALBUM_1_P.get().asItem());
 				tabData.accept(MineKpopModBlocks.BTSYNT.get().asItem());
 				tabData.accept(MineKpopModBlocks.BTSNP.get().asItem());
+				tabData.accept(MineKpopModBlocks.TXT_1_TUMBADO.get().asItem());
+				tabData.accept(MineKpopModBlocks.TXT_1_PIE.get().asItem());
+				tabData.accept(MineKpopModBlocks.TXT_2_TUMBADO.get().asItem());
+				tabData.accept(MineKpopModBlocks.TXT_2_PIE.get().asItem());
+				tabData.accept(MineKpopModBlocks.SKZ_1_TUMBADO.get().asItem());
+				tabData.accept(MineKpopModBlocks.SKZ_1_PIE.get().asItem());
+				tabData.accept(MineKpopModBlocks.IFEEL_TUMBADO.get().asItem());
+				tabData.accept(MineKpopModBlocks.IFEEL_PIE.get().asItem());
+				tabData.accept(MineKpopModBlocks.CARTAS_TUMBADO.get().asItem());
+				tabData.accept(MineKpopModBlocks.CARTAS_PIE.get().asItem());
+				tabData.accept(MineKpopModBlocks.MAX_TUMBADO.get().asItem());
+				tabData.accept(MineKpopModBlocks.MAX_PIE.get().asItem());
 			})
 
 					.build());
