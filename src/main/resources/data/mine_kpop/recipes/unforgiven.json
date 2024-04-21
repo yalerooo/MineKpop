@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mine_kpop:le_sserafim_album_2"
+    }
+  ],
+  "result": {
+    "item": "mine_kpop:ls_album_2_t",
+    "count": 1
+  }
+}

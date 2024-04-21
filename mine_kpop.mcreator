@@ -5203,6 +5203,146 @@
         ]
       },
       "path": "~/Albums"
+    },
+    {
+      "name": "Antifragile",
+      "type": "recipe",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antifragile",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/antifragile.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "Unforgiven",
+      "type": "recipe",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unforgiven",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/unforgiven.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "Stars5",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stars_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/stars_5.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "Maxindent",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maxindent",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/maxindent.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "LV",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/lv.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "NeverWalk",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "never_walk",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/never_walk.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "Feel1",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "feel_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/feel_1.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "Feel2",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "feel_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/feel_2.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "Bluehour",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluehour",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/bluehour.json"
+        ]
+      },
+      "path": "~/Albums"
+    },
+    {
+      "name": "TheDream",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_dream",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/recipes/the_dream.json"
+        ]
+      },
+      "path": "~/Albums"
     }
   ],
   "variable_elements": [],
@@ -5539,8 +5679,8 @@
       "item.mine_kpop.yuqi_1": "Yuqi 1",
       "item.mine_kpop.yuqi_2": "Yuqi 2",
       "item.mine_kpop.han_2": "Han 2",
-      "item.mine_kpop.han_1": "Han 1",
       "item.mine_kpop.yuqi_3": "Yuqi 3",
+      "item.mine_kpop.han_1": "Han 1",
       "item.mine_kpop.lalala_skz": "Stray Kids - LALALALA",
       "subtitles.easy1": "",
       "block.mine_kpop.btsnp": "You Never Walk Alone - BTS",
@@ -5554,14 +5694,14 @@
       "item.mine_kpop.queen_zio_p_ark.desc": "QUEEN by Zior Park",
       "item.mine_kpop.fategidle": "(G)I-DLE - Fate",
       "item.mine_kpop.ive_iam.desc": "I AM by IVE",
-      "item.mine_kpop.jung_kook_2": "Jung Kook 2",
       "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
+      "item.mine_kpop.jung_kook_2": "Jung Kook 2",
       "item.mine_kpop.jung_kook_1": "Jung Kook 1",
       "item.mine_kpop.jung_kook_4": "Jung Kook 4",
       "item.mine_kpop.jung_kook_3": "Jung Kook 3",
       "item.mine_kpop.le_sserafim_1": "Le Sserafim 1",
-      "subtitles.nocelestial": "",
       "subtitles.iwantthat": "",
+      "subtitles.nocelestial": "",
       "item.mine_kpop.jung_kook_5": "Jung Kook 5",
       "block.mine_kpop.txt_2_tumbado": "The Dream Chapter Star - TXT",
       "item.mine_kpop.lesserafim_lightstick": "Lesserafim Lightstick",

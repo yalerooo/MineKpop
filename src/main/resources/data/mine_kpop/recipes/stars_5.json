@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mine_kpop:stray_kids_5_stars"
+    }
+  ],
+  "result": {
+    "item": "mine_kpop:skz_1_tumbado",
+    "count": 1
+  }
+}

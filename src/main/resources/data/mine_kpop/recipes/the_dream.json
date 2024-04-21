@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "mine_kpop:txt_the_dream_chapter_star"
+    }
+  },
+  "result": {
+    "item": "mine_kpop:txt_2_tumbado",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mine_kpop:bts_you_never_walk_alone"
+    }
+  ],
+  "result": {
+    "item": "mine_kpop:btsnp",
+    "count": 1
+  }
+}

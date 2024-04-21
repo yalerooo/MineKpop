@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mine_kpop:g_idle_ifeel_1"
+    }
+  ],
+  "result": {
+    "item": "mine_kpop:ifeel_tumbado",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mine_kpop:stray_kids_max_ident"
+    }
+  ],
+  "result": {
+    "item": "mine_kpop:max_tumbado",
+    "count": 1
+  }
+}
