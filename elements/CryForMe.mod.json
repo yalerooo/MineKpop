@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TWICE - CRY FOR ME",
+    "rarity": "COMMON",
+    "texture": "cryforme",
+    "description": "CRY FOR ME by TWICE",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:cryfor"
+    },
+    "lengthInTicks": 4720,
+    "analogOutput": 0
+  }
+}

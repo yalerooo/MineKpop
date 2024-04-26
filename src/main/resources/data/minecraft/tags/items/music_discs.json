@@ -1,6 +1,13 @@
 {
   "replace": false,
   "values": [
+    "mine_kpop:signal",
+    "mine_kpop:cry_for_me",
+    "mine_kpop:tt",
+    "mine_kpop:cheer_up",
+    "mine_kpop:likeoohaah",
+    "mine_kpop:secret_secret",
+    "mine_kpop:sorry_i_love_you",
     "mine_kpop:starttrain",
     "mine_kpop:singwab_b_komanchi",
     "mine_kpop:idol_yoasobi",

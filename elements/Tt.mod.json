@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TWICE - TT",
+    "rarity": "COMMON",
+    "texture": "twicecoaster",
+    "description": "TT by TWICE",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:tt"
+    },
+    "lengthInTicks": 4880,
+    "analogOutput": 0
+  }
+}

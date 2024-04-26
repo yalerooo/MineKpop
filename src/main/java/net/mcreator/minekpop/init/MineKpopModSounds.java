@@ -51,4 +51,11 @@ public class MineKpopModSounds {
 	public static final RegistryObject<SoundEvent> IDOL = REGISTRY.register("idol", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "idol")));
 	public static final RegistryObject<SoundEvent> WAB = REGISTRY.register("wab", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "wab")));
 	public static final RegistryObject<SoundEvent> STAR = REGISTRY.register("star", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "star")));
+	public static final RegistryObject<SoundEvent> SORRY = REGISTRY.register("sorry", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "sorry")));
+	public static final RegistryObject<SoundEvent> SECRET = REGISTRY.register("secret", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "secret")));
+	public static final RegistryObject<SoundEvent> LIKEOOH = REGISTRY.register("likeooh", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "likeooh")));
+	public static final RegistryObject<SoundEvent> CHEER = REGISTRY.register("cheer", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "cheer")));
+	public static final RegistryObject<SoundEvent> TT = REGISTRY.register("tt", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "tt")));
+	public static final RegistryObject<SoundEvent> CRYFOR = REGISTRY.register("cryfor", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "cryfor")));
+	public static final RegistryObject<SoundEvent> SIGNAL = REGISTRY.register("signal", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "signal")));
 }

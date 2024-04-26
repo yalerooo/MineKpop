@@ -286,5 +286,61 @@
         "stream": true
       }
     ]
+  },
+  "sorry": {
+    "sounds": [
+      {
+        "name": "mine_kpop:stray_kids_-_sorry_i_love_you_--_mv_sub._espanol",
+        "stream": true
+      }
+    ]
+  },
+  "secret": {
+    "sounds": [
+      {
+        "name": "mine_kpop:stray_kids__malhal_su_eobsneun_bimilsecret_secret__video",
+        "stream": true
+      }
+    ]
+  },
+  "likeooh": {
+    "sounds": [
+      {
+        "name": "mine_kpop:twice_-_like_ooh-ahh_ooh-ahhhage_color_coded_han_rom_eng_lyrics___by_yankat",
+        "stream": true
+      }
+    ]
+  },
+  "cheer": {
+    "sounds": [
+      {
+        "name": "mine_kpop:twice_teuwaiseu_-_cheer_up_color_coded_han_rom_eng_lyrics___by_yankat",
+        "stream": true
+      }
+    ]
+  },
+  "tt": {
+    "sounds": [
+      {
+        "name": "mine_kpop:twice_teuwaiseu_-_tt_han_rom_eng_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "cryfor": {
+    "sounds": [
+      {
+        "name": "mine_kpop:twice_cry_for_me_lyrics_teuwaiseu_cry_for_me_gasa_color_coded_lyrics",
+        "stream": false
+      }
+    ]
+  },
+  "signal": {
+    "sounds": [
+      {
+        "name": "mine_kpop:twice_teuwaiseu_-_signal_han_rom_eng_color_coded_lyrics",
+        "stream": true
+      }
+    ]
   }
 }

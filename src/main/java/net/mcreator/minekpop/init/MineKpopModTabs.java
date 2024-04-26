@@ -237,6 +237,13 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.IDOL_YOASOBI.get());
 				tabData.accept(MineKpopModItems.SINGWAB_B_KOMANCHI.get());
 				tabData.accept(MineKpopModItems.STARTTRAIN.get());
+				tabData.accept(MineKpopModItems.SORRY_I_LOVE_YOU.get());
+				tabData.accept(MineKpopModItems.SECRET_SECRET.get());
+				tabData.accept(MineKpopModItems.LIKEOOHAAH.get());
+				tabData.accept(MineKpopModItems.CHEER_UP.get());
+				tabData.accept(MineKpopModItems.TT.get());
+				tabData.accept(MineKpopModItems.CRY_FOR_ME.get());
+				tabData.accept(MineKpopModItems.SIGNAL.get());
 				tabData.accept(MineKpopModBlocks.COOKY.get().asItem());
 				tabData.accept(MineKpopModBlocks.SHOOKY.get().asItem());
 				tabData.accept(MineKpopModBlocks.TATA.get().asItem());

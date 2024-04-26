@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TWICE - CHEER UP",
+    "rarity": "COMMON",
+    "texture": "twicewakemeup",
+    "description": "CHEER UP by TWICE",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:cheer"
+    },
+    "lengthInTicks": 4720,
+    "analogOutput": 0
+  }
+}
