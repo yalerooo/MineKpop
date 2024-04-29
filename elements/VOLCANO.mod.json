@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Zior Park - ACT!VE VOLCANO",
+    "rarity": "COMMON",
+    "texture": "volcano",
+    "description": "ACT!VE VOLCANO by Zior Park",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:volcano"
+    },
+    "lengthInTicks": 5080,
+    "analogOutput": 0
+  }
+}

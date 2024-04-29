@@ -272,6 +272,13 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModBlocks.CARTAS_PIE.get().asItem());
 				tabData.accept(MineKpopModBlocks.MAX_TUMBADO.get().asItem());
 				tabData.accept(MineKpopModBlocks.MAX_PIE.get().asItem());
+				tabData.accept(MineKpopModItems.CANDY_POP.get());
+				tabData.accept(MineKpopModItems.YESORYES.get());
+				tabData.accept(MineKpopModItems.WHATISLOVE.get());
+				tabData.accept(MineKpopModItems.CHRISTIAN.get());
+				tabData.accept(MineKpopModItems.BYEBYEBYEBYE.get());
+				tabData.accept(MineKpopModItems.VOLCANO.get());
+				tabData.accept(MineKpopModItems.HOMEBIRD.get());
 			})
 
 					.build());

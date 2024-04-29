@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TWICE - YES OR YES",
+    "rarity": "COMMON",
+    "texture": "yesoryes",
+    "description": "YES OR YES by TWICE",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:yesor"
+    },
+    "lengthInTicks": 5920,
+    "analogOutput": 0
+  }
+}

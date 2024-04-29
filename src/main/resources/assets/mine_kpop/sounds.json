@@ -342,5 +342,61 @@
         "stream": true
       }
     ]
+  },
+  "candy": {
+    "sounds": [
+      {
+        "name": "mine_kpop:twice_teuwaiseu_-_candy_pop_color_coded_lyrics-jap-rom-eng",
+        "stream": true
+      }
+    ]
+  },
+  "yesor": {
+    "sounds": [
+      {
+        "name": "mine_kpop:twice_teuwaiseu__yes_or_yes__color_coded_eng-rom-han-gasa",
+        "stream": true
+      }
+    ]
+  },
+  "what": {
+    "sounds": [
+      {
+        "name": "mine_kpop:twice_teuwaiseu_-_what_is_love__han_rom_eng_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "chris": {
+    "sounds": [
+      {
+        "name": "mine_kpop:zior_park_-_christian_lyric_video",
+        "stream": true
+      }
+    ]
+  },
+  "volcano": {
+    "sounds": [
+      {
+        "name": "mine_kpop:_zior_park__actve_volcano_ft._tabber_--_sub_espanol__lyrics__",
+        "stream": true
+      }
+    ]
+  },
+  "home": {
+    "sounds": [
+      {
+        "name": "mine_kpop:_zior_park__homebird_--_sub_espanol__lyrics__",
+        "stream": true
+      }
+    ]
+  },
+  "bye": {
+    "sounds": [
+      {
+        "name": "mine_kpop:bye",
+        "stream": true
+      }
+    ]
   }
 }

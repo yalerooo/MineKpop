@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Zior Park - BYE BYE BYE",
+    "rarity": "COMMON",
+    "texture": "byebyebye",
+    "description": "BYE BYE BYE by Zior Park",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:bye"
+    },
+    "lengthInTicks": 6320,
+    "analogOutput": 0
+  }
+}

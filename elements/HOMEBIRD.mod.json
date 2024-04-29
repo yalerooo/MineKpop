@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Zior Park - HOMEBIRD",
+    "rarity": "COMMON",
+    "texture": "homebird",
+    "description": "HOMEBIRD by Zior Park",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:home"
+    },
+    "lengthInTicks": 5480,
+    "analogOutput": 0
+  }
+}

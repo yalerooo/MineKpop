@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TWICE - What is Love?",
+    "rarity": "COMMON",
+    "texture": "what_is_love",
+    "description": "What is Love? by TWICE",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:what"
+    },
+    "lengthInTicks": 4720,
+    "analogOutput": 0
+  }
+}

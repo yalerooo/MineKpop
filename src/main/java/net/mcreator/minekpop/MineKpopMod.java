@@ -38,6 +38,8 @@ public class MineKpopMod {
 	public static final String MODID = "mine_kpop";
 
 	public MineKpopMod() {
+		// Start of user code block mod constructor
+		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		MineKpopModSounds.REGISTRY.register(bus);
