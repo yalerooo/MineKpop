@@ -279,6 +279,13 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.BYEBYEBYEBYE.get());
 				tabData.accept(MineKpopModItems.VOLCANO.get());
 				tabData.accept(MineKpopModItems.HOMEBIRD.get());
+				tabData.accept(MineKpopModItems.PIRATES.get());
+				tabData.accept(MineKpopModItems.STRAWBERRY_CAKE.get());
+				tabData.accept(MineKpopModItems.TEST_ME.get());
+				tabData.accept(MineKpopModItems.PLUTO.get());
+				tabData.accept(MineKpopModItems.FREAKIN_BAD.get());
+				tabData.accept(MineKpopModItems.BICYCLE.get());
+				tabData.accept(MineKpopModItems.HAPPY_DEATH_DAY.get());
 			})
 
 					.build());

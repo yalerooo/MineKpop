@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Xdinary Heroes - Test Me",
+    "rarity": "COMMON",
+    "texture": "hello",
+    "description": "Test Me by Xdinary Heroes",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:test"
+    },
+    "lengthInTicks": 4360,
+    "analogOutput": 0
+  }
+}

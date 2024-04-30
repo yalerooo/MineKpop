@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Xdinary Heroes - Pirates",
+    "rarity": "COMMON",
+    "texture": "hello",
+    "description": "Pirates by Xdinary Heroes",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:pirates"
+    },
+    "lengthInTicks": 4400,
+    "analogOutput": 0
+  }
+}

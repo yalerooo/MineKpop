@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Xdinary Heroes - PLUTO",
+    "rarity": "COMMON",
+    "texture": "livelock",
+    "description": "PLUTO by Xdinary Heroes",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:pluto"
+    },
+    "lengthInTicks": 4520,
+    "analogOutput": 0
+  }
+}

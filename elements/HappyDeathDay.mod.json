@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Xdinary Heroes - Happy Death Day",
+    "rarity": "COMMON",
+    "texture": "deadth",
+    "description": "Happy Death Day by Xdinary Heroes",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:happy"
+    },
+    "lengthInTicks": 5240,
+    "analogOutput": 0
+  }
+}

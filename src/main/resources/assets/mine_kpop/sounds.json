@@ -398,5 +398,61 @@
         "stream": true
       }
     ]
+  },
+  "pirates": {
+    "sounds": [
+      {
+        "name": "mine_kpop:pirates",
+        "stream": true
+      }
+    ]
+  },
+  "cake1": {
+    "sounds": [
+      {
+        "name": "mine_kpop:xdinary_heroes_-_strawberry_cake_traducida_al_espanol",
+        "stream": true
+      }
+    ]
+  },
+  "test": {
+    "sounds": [
+      {
+        "name": "mine_kpop:xdinary_heroes_test_me_lyrics_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "pluto": {
+    "sounds": [
+      {
+        "name": "mine_kpop:xdinary_heroes_pluto_lyrics_color_coded_han_rom_eng___shadowbyyoongi",
+        "stream": true
+      }
+    ]
+  },
+  "bad": {
+    "sounds": [
+      {
+        "name": "mine_kpop:xdinary_heroes_-_freakin_bad_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "bicycle": {
+    "sounds": [
+      {
+        "name": "mine_kpop:xdinary_heroes_-_bicycle_official_audio",
+        "stream": true
+      }
+    ]
+  },
+  "happy": {
+    "sounds": [
+      {
+        "name": "mine_kpop:xdinary_heroes_-_happy_death_day_audio",
+        "stream": true
+      }
+    ]
   }
 }
