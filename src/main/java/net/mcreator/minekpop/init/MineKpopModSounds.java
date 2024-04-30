@@ -79,4 +79,5 @@ public class MineKpopModSounds {
 	public static final RegistryObject<SoundEvent> MOVE = REGISTRY.register("move", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "move")));
 	public static final RegistryObject<SoundEvent> SEXUALITY = REGISTRY.register("sexuality", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "sexuality")));
 	public static final RegistryObject<SoundEvent> HEAVEN = REGISTRY.register("heaven", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "heaven")));
+	public static final RegistryObject<SoundEvent> PRIZE = REGISTRY.register("prize", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("mine_kpop", "prize")));
 }

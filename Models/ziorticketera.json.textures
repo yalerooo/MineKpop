@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ticketera1",
+        "1": "ziortexture2",
+        "2": "ticketera3"
+      },
+      "name": "default"
+    }
+  }
+}

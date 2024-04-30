@@ -510,5 +510,13 @@
         "stream": true
       }
     ]
+  },
+  "prize": {
+    "sounds": [
+      {
+        "name": "mine_kpop:price",
+        "stream": false
+      }
+    ]
   }
 }

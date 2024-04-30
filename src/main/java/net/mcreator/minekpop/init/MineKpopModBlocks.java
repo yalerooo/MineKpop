@@ -10,12 +10,18 @@ import net.minecraftforge.registries.DeferredRegister;
 
 import net.minecraft.world.level.block.Block;
 
+import net.mcreator.minekpop.block.ZiorParkDisqueteraBlock;
+import net.mcreator.minekpop.block.XdinaryDisqueteraBlock;
 import net.mcreator.minekpop.block.VanBlock;
 import net.mcreator.minekpop.block.Txt2TumbadoBlock;
+import net.mcreator.minekpop.block.TwiceTicketeraBlock;
+import net.mcreator.minekpop.block.TicketeraLleSSerafimBlock;
 import net.mcreator.minekpop.block.TataBlock;
+import net.mcreator.minekpop.block.TaeDisqueteraBlock;
 import net.mcreator.minekpop.block.TXT2PieBlock;
 import net.mcreator.minekpop.block.TXT1TumbadoBlock;
 import net.mcreator.minekpop.block.TXT1PieBlock;
+import net.mcreator.minekpop.block.SkzDisqueteraBlock;
 import net.mcreator.minekpop.block.ShookyBlock;
 import net.mcreator.minekpop.block.SKZ1TumbadoBlock;
 import net.mcreator.minekpop.block.SKZ1PieBlock;
@@ -31,6 +37,7 @@ import net.mcreator.minekpop.block.LSAlbum2PBlock;
 import net.mcreator.minekpop.block.KoyaBlock;
 import net.mcreator.minekpop.block.IfeelTumbadoBlock;
 import net.mcreator.minekpop.block.IfeelPieBlock;
+import net.mcreator.minekpop.block.GIdleDisqueteraBlock;
 import net.mcreator.minekpop.block.CookyBlock;
 import net.mcreator.minekpop.block.ChimmyBlock;
 import net.mcreator.minekpop.block.CartasTumbadoBlock;
@@ -72,6 +79,13 @@ public class MineKpopModBlocks {
 	public static final RegistryObject<Block> CARTAS_PIE = REGISTRY.register("cartas_pie", () -> new CartasPieBlock());
 	public static final RegistryObject<Block> MAX_TUMBADO = REGISTRY.register("max_tumbado", () -> new MaxTumbadoBlock());
 	public static final RegistryObject<Block> MAX_PIE = REGISTRY.register("max_pie", () -> new MaxPieBlock());
+	public static final RegistryObject<Block> TICKETERA_LLE_S_SERAFIM = REGISTRY.register("ticketera_lle_s_serafim", () -> new TicketeraLleSSerafimBlock());
+	public static final RegistryObject<Block> G_IDLE_DISQUETERA = REGISTRY.register("g_idle_disquetera", () -> new GIdleDisqueteraBlock());
+	public static final RegistryObject<Block> SKZ_DISQUETERA = REGISTRY.register("skz_disquetera", () -> new SkzDisqueteraBlock());
+	public static final RegistryObject<Block> TWICE_TICKETERA = REGISTRY.register("twice_ticketera", () -> new TwiceTicketeraBlock());
+	public static final RegistryObject<Block> ZIOR_PARK_DISQUETERA = REGISTRY.register("zior_park_disquetera", () -> new ZiorParkDisqueteraBlock());
+	public static final RegistryObject<Block> XDINARY_DISQUETERA = REGISTRY.register("xdinary_disquetera", () -> new XdinaryDisqueteraBlock());
+	public static final RegistryObject<Block> TAE_DISQUETERA = REGISTRY.register("tae_disquetera", () -> new TaeDisqueteraBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

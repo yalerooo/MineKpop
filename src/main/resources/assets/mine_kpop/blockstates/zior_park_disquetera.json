@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mine_kpop:block/zior_park_disquetera"
+    },
+    "facing=east": {
+      "model": "mine_kpop:block/zior_park_disquetera",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mine_kpop:block/zior_park_disquetera",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mine_kpop:block/zior_park_disquetera",
+      "y": 270
+    }
+  }
+}

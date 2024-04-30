@@ -293,6 +293,21 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.MOVE.get());
 				tabData.accept(MineKpopModItems.SEXUALITY.get());
 				tabData.accept(MineKpopModItems.HEAVEN.get());
+				tabData.accept(MineKpopModItems.K_TICKET.get());
+				tabData.accept(MineKpopModBlocks.TICKETERA_LLE_S_SERAFIM.get().asItem());
+				tabData.accept(MineKpopModBlocks.G_IDLE_DISQUETERA.get().asItem());
+				tabData.accept(MineKpopModBlocks.SKZ_DISQUETERA.get().asItem());
+				tabData.accept(MineKpopModBlocks.TWICE_TICKETERA.get().asItem());
+				tabData.accept(MineKpopModBlocks.ZIOR_PARK_DISQUETERA.get().asItem());
+				tabData.accept(MineKpopModBlocks.XDINARY_DISQUETERA.get().asItem());
+				tabData.accept(MineKpopModBlocks.TAE_DISQUETERA.get().asItem());
+				tabData.accept(MineKpopModItems.TWICE_LIGHT_STICK.get());
+				tabData.accept(MineKpopModItems.NEWJEANS_LIGHTSTICK.get());
+				tabData.accept(MineKpopModItems.XDINARY_HEROES_LIGHTSTICK.get());
+				tabData.accept(MineKpopModItems.AESPA_LIGHTSTICK.get());
+				tabData.accept(MineKpopModItems.ATEEZ_LIGHT_STICK.get());
+				tabData.accept(MineKpopModItems.DREAMCATCHER_LIGHTSTICK.get());
+				tabData.accept(MineKpopModItems.IVE_LIGHT_STICK.get());
 			})
 
 					.build());
