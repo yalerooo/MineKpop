@@ -1,11 +1,9 @@
 {
-  "parent": "mine_kpop:custom/skzticketera",
+  "parent": "mine_kpop:custom/skzvending",
   "textures": {
     "all": "mine_kpop:block/skztexture2",
     "particle": "mine_kpop:block/skztexture2",
-    "0": "mine_kpop:block/ticketera1",
-    "1": "mine_kpop:block/skztexture2",
-    "2": "mine_kpop:block/ticketera3"
+    "0": "mine_kpop:block/skzvending"
   },
   "render_type": "solid"
 }

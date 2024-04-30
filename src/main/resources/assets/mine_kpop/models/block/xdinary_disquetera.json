@@ -1,11 +1,9 @@
 {
-  "parent": "mine_kpop:custom/xdinaryticketera",
+  "parent": "mine_kpop:custom/xdinaryvending",
   "textures": {
     "all": "mine_kpop:block/xdinarytexture2",
     "particle": "mine_kpop:block/xdinarytexture2",
-    "0": "mine_kpop:block/ticketera1",
-    "1": "mine_kpop:block/xdinarytexture2",
-    "2": "mine_kpop:block/ticketera3"
+    "0": "mine_kpop:block/xdinaryvending"
   },
   "render_type": "solid"
 }

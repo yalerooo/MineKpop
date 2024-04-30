@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "gidleticketera:default",
+    "customModelName": "gidlevending:default",
     "rotationMode": 1,
     "enablePitch": false,
     "emissiveRendering": false,
@@ -24,12 +24,12 @@
     "disableOffset": false,
     "boundingBoxes": [
       {
-        "mx": 2.0,
+        "mx": 0.0,
         "my": 0.0,
         "mz": 4.0,
-        "Mx": 14.0,
-        "My": 8.0,
-        "Mz": 12.0,
+        "Mx": 16.0,
+        "My": 32.0,
+        "Mz": 16.0,
         "subtract": false
       }
     ],

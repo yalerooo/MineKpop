@@ -1,11 +1,9 @@
 {
-  "parent": "mine_kpop:custom/taeticketera",
+  "parent": "mine_kpop:custom/taevending",
   "textures": {
-    "all": "mine_kpop:block/taemintexture2",
-    "particle": "mine_kpop:block/taemintexture2",
-    "0": "mine_kpop:block/ticketera1",
-    "1": "mine_kpop:block/taemintexture2",
-    "2": "mine_kpop:block/ticketera3"
+    "all": "mine_kpop:block/tae",
+    "particle": "mine_kpop:block/tae",
+    "0": "mine_kpop:block/tae"
   },
   "render_type": "solid"
 }

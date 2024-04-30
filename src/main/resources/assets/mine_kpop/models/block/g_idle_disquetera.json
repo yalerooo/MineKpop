@@ -1,11 +1,9 @@
 {
-  "parent": "mine_kpop:custom/gidleticketera",
+  "parent": "mine_kpop:custom/gidlevending",
   "textures": {
     "all": "mine_kpop:block/gidletexture2",
     "particle": "mine_kpop:block/gidletexture2",
-    "0": "mine_kpop:block/ticketera1",
-    "1": "mine_kpop:block/gidletexture2",
-    "2": "mine_kpop:block/ticketera3"
+    "0": "mine_kpop:block/gidlevending"
   },
   "render_type": "solid"
 }

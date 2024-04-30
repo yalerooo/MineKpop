@@ -1,11 +1,9 @@
 {
-  "parent": "mine_kpop:custom/lesserafimticketera",
+  "parent": "mine_kpop:custom/lesserafimvendingv2",
   "textures": {
     "all": "mine_kpop:block/ticketera2",
     "particle": "mine_kpop:block/ticketera2",
-    "0": "mine_kpop:block/ticketera1",
-    "1": "mine_kpop:block/ticketera2",
-    "2": "mine_kpop:block/ticketera3"
+    "0": "mine_kpop:block/lesserafimvending"
   },
   "render_type": "solid"
 }

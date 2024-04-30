@@ -1,11 +1,9 @@
 {
-  "parent": "mine_kpop:custom/twiceticketera",
+  "parent": "mine_kpop:custom/twicevending",
   "textures": {
     "all": "mine_kpop:block/twicetxture2",
     "particle": "mine_kpop:block/twicetxture2",
-    "0": "mine_kpop:block/ticketera1",
-    "1": "mine_kpop:block/twicetxture2",
-    "2": "mine_kpop:block/ticketera3"
+    "0": "mine_kpop:block/twicevending"
   },
   "render_type": "solid"
 }

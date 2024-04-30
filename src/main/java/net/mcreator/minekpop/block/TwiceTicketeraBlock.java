@@ -51,10 +51,10 @@ public class TwiceTicketeraBlock extends Block {
 	@Override
 	public VoxelShape getShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
 		return switch (state.getValue(FACING)) {
-			default -> box(2, 0, 4, 14, 8, 12);
-			case NORTH -> box(2, 0, 4, 14, 8, 12);
-			case EAST -> box(4, 0, 2, 12, 8, 14);
-			case WEST -> box(4, 0, 2, 12, 8, 14);
+			default -> box(0, 0, 0, 16, 32, 12);
+			case NORTH -> box(0, 0, 4, 16, 32, 16);
+			case EAST -> box(0, 0, 0, 12, 32, 16);
+			case WEST -> box(4, 0, 0, 16, 32, 16);
 		};
 	}
 
