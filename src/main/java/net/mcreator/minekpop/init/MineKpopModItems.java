@@ -89,6 +89,8 @@ import net.mcreator.minekpop.item.Shuhua4Item;
 import net.mcreator.minekpop.item.Shuhua3Item;
 import net.mcreator.minekpop.item.Shuhua2Item;
 import net.mcreator.minekpop.item.Shuhua1Item;
+import net.mcreator.minekpop.item.ShelovemeshelovemenotItem;
+import net.mcreator.minekpop.item.SexualityItem;
 import net.mcreator.minekpop.item.Seungmin4Item;
 import net.mcreator.minekpop.item.Seungmin3Item;
 import net.mcreator.minekpop.item.Seungmin2Item;
@@ -110,6 +112,7 @@ import net.mcreator.minekpop.item.PiratesItem;
 import net.mcreator.minekpop.item.PerfectNightLeSserafimItem;
 import net.mcreator.minekpop.item.NxdegidleItem;
 import net.mcreator.minekpop.item.NocelestialLeSserafimItem;
+import net.mcreator.minekpop.item.MoveItem;
 import net.mcreator.minekpop.item.Miyeon4Item;
 import net.mcreator.minekpop.item.Miyeon3Item;
 import net.mcreator.minekpop.item.Miyeon2Item;
@@ -181,12 +184,14 @@ import net.mcreator.minekpop.item.HueningKai3Item;
 import net.mcreator.minekpop.item.HueningKai2Item;
 import net.mcreator.minekpop.item.HueningKai1Item;
 import net.mcreator.minekpop.item.HellevatorSKZItem;
+import net.mcreator.minekpop.item.HeavenItem;
 import net.mcreator.minekpop.item.HappyDeathDayItem;
 import net.mcreator.minekpop.item.Han4Item;
 import net.mcreator.minekpop.item.Han3Item;
 import net.mcreator.minekpop.item.Han2Item;
 import net.mcreator.minekpop.item.Han1Item;
 import net.mcreator.minekpop.item.HOMEBIRDItem;
+import net.mcreator.minekpop.item.GuiltyItem;
 import net.mcreator.minekpop.item.GodsNewJeansItem;
 import net.mcreator.minekpop.item.GIdleLightstickItem;
 import net.mcreator.minekpop.item.GIdleIfeel2Item;
@@ -214,6 +219,7 @@ import net.mcreator.minekpop.item.Eunchae1Item;
 import net.mcreator.minekpop.item.EasyLeSserafimItem;
 import net.mcreator.minekpop.item.DramaAespaItem;
 import net.mcreator.minekpop.item.CryForMeItem;
+import net.mcreator.minekpop.item.CriminalItem;
 import net.mcreator.minekpop.item.ChristianItem;
 import net.mcreator.minekpop.item.CheeseSKZItem;
 import net.mcreator.minekpop.item.CheerUpItem;
@@ -251,6 +257,7 @@ import net.mcreator.minekpop.item.BTS2Item;
 import net.mcreator.minekpop.item.BTS1Item;
 import net.mcreator.minekpop.item.BT21Item;
 import net.mcreator.minekpop.item.AntifragileLeSserafimItem;
+import net.mcreator.minekpop.item.AdviceItem;
 import net.mcreator.minekpop.MineKpopMod;
 
 public class MineKpopModItems {
@@ -523,6 +530,13 @@ public class MineKpopModItems {
 	public static final RegistryObject<Item> FREAKIN_BAD = REGISTRY.register("freakin_bad", () -> new FreakinBadItem());
 	public static final RegistryObject<Item> BICYCLE = REGISTRY.register("bicycle", () -> new BicycleItem());
 	public static final RegistryObject<Item> HAPPY_DEATH_DAY = REGISTRY.register("happy_death_day", () -> new HappyDeathDayItem());
+	public static final RegistryObject<Item> GUILTY = REGISTRY.register("guilty", () -> new GuiltyItem());
+	public static final RegistryObject<Item> SHELOVEMESHELOVEMENOT = REGISTRY.register("shelovemeshelovemenot", () -> new ShelovemeshelovemenotItem());
+	public static final RegistryObject<Item> CRIMINAL = REGISTRY.register("criminal", () -> new CriminalItem());
+	public static final RegistryObject<Item> ADVICE = REGISTRY.register("advice", () -> new AdviceItem());
+	public static final RegistryObject<Item> MOVE = REGISTRY.register("move", () -> new MoveItem());
+	public static final RegistryObject<Item> SEXUALITY = REGISTRY.register("sexuality", () -> new SexualityItem());
+	public static final RegistryObject<Item> HEAVEN = REGISTRY.register("heaven", () -> new HeavenItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items

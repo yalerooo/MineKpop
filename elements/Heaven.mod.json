@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TAEMIN - Heaven",
+    "rarity": "COMMON",
+    "texture": "heaven",
+    "description": "Heaven by TAEMIN",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:heaven"
+    },
+    "lengthInTicks": 4080,
+    "analogOutput": 0
+  }
+}

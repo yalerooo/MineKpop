@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TAEMIN - Advice",
+    "rarity": "COMMON",
+    "texture": "advice",
+    "description": "Advice by TAEMIN",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ad"
+    },
+    "lengthInTicks": 4200,
+    "analogOutput": 0
+  }
+}

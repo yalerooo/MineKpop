@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TAEMIN - She love me she love me not",
+    "rarity": "COMMON",
+    "texture": "guilty",
+    "description": "She love me she love me not by TAEMIN",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:she"
+    },
+    "lengthInTicks": 3680,
+    "analogOutput": 0
+  }
+}

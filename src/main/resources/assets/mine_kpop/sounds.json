@@ -454,5 +454,61 @@
         "stream": true
       }
     ]
+  },
+  "guilty": {
+    "sounds": [
+      {
+        "name": "mine_kpop:taemin_taemin_guilty_lyrics_color_coded_han_rom_eng___shadowbyyoongi",
+        "stream": true
+      }
+    ]
+  },
+  "she": {
+    "sounds": [
+      {
+        "name": "mine_kpop:she_loves_me_she_loves_me_not",
+        "stream": true
+      }
+    ]
+  },
+  "criminal": {
+    "sounds": [
+      {
+        "name": "mine_kpop:taemin_-__criminal__easy_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "ad": {
+    "sounds": [
+      {
+        "name": "mine_kpop:taemin_taemin_advice_easy_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "move": {
+    "sounds": [
+      {
+        "name": "mine_kpop:taemin_taemin_-_move_easy_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "sexuality": {
+    "sounds": [
+      {
+        "name": "mine_kpop:taemintaemin_-_sexuality_han-rom-eng_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "heaven": {
+    "sounds": [
+      {
+        "name": "mine_kpop:taemin_taemin_-_heaven_color_coded_han-rom-eng",
+        "stream": true
+      }
+    ]
   }
 }
