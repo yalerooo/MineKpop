@@ -18,6 +18,7 @@ import net.mcreator.minekpop.block.TwiceTicketeraBlock;
 import net.mcreator.minekpop.block.TicketeraLleSSerafimBlock;
 import net.mcreator.minekpop.block.TataBlock;
 import net.mcreator.minekpop.block.TaeDisqueteraBlock;
+import net.mcreator.minekpop.block.TXTDisqueteraBlock;
 import net.mcreator.minekpop.block.TXT2PieBlock;
 import net.mcreator.minekpop.block.TXT1TumbadoBlock;
 import net.mcreator.minekpop.block.TXT1PieBlock;
@@ -47,6 +48,7 @@ import net.mcreator.minekpop.block.BTSNPBlock;
 import net.mcreator.minekpop.block.BTSDisqueteraBlock;
 import net.mcreator.minekpop.block.BTSAlbum1TBlock;
 import net.mcreator.minekpop.block.BTSAlbum1PBlock;
+import net.mcreator.minekpop.block.AdoDisqueteraBlock;
 import net.mcreator.minekpop.MineKpopMod;
 
 public class MineKpopModBlocks {
@@ -88,6 +90,8 @@ public class MineKpopModBlocks {
 	public static final RegistryObject<Block> XDINARY_DISQUETERA = REGISTRY.register("xdinary_disquetera", () -> new XdinaryDisqueteraBlock());
 	public static final RegistryObject<Block> TAE_DISQUETERA = REGISTRY.register("tae_disquetera", () -> new TaeDisqueteraBlock());
 	public static final RegistryObject<Block> BTS_DISQUETERA = REGISTRY.register("bts_disquetera", () -> new BTSDisqueteraBlock());
+	public static final RegistryObject<Block> TXT_DISQUETERA = REGISTRY.register("txt_disquetera", () -> new TXTDisqueteraBlock());
+	public static final RegistryObject<Block> ADO_DISQUETERA = REGISTRY.register("ado_disquetera", () -> new AdoDisqueteraBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

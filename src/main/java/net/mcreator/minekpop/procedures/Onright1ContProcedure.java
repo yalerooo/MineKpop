@@ -1177,7 +1177,7 @@ public class Onright1ContProcedure {
 				_level.addFreshEntity(entityToSpawn);
 			}
 		} else {
-			Onright2Procedure.execute(world, x, y, z, entity);
+			Onrigh11ContProcedure.execute(world, x, y, z, entity);
 		}
 	}
 }

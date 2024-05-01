@@ -582,5 +582,125 @@
         "stream": true
       }
     ]
+  },
+  "loser": {
+    "sounds": [
+      {
+        "name": "mine_kpop:txt_loerloer_lyrics_tumoroubaitugedeo_loserlover_gasa_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "anti": {
+    "sounds": [
+      {
+        "name": "mine_kpop:anti-romantic",
+        "stream": true
+      }
+    ]
+  },
+  "doit": {
+    "sounds": [
+      {
+        "name": "mine_kpop:txt_tumoroubaitugedeo_jonas_brothers_do_it_like_that_alan_walker_remix_official_visualizer",
+        "stream": true
+      }
+    ]
+  },
+  "ps5": {
+    "sounds": [
+      {
+        "name": "mine_kpop:salem_ilese_tomorrow_x_together_alan_walker_-_ps5_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "chasing": {
+    "sounds": [
+      {
+        "name": "mine_kpop:txt_chasing_that_feeling_lyrics_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "back": {
+    "sounds": [
+      {
+        "name": "mine_kpop:txt_anitta_back_for_more_lyrics_color_coded_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "show": {
+    "sounds": [
+      {
+        "name": "mine_kpop:show",
+        "stream": true
+      }
+    ]
+  },
+  "usseewa": {
+    "sounds": [
+      {
+        "name": "mine_kpop:usseewa",
+        "stream": true
+      }
+    ]
+  },
+  "ibara": {
+    "sounds": [
+      {
+        "name": "mine_kpop:ibara",
+        "stream": true
+      }
+    ]
+  },
+  "controversy": {
+    "sounds": [
+      {
+        "name": "mine_kpop:im_a_controversy",
+        "stream": true
+      }
+    ]
+  },
+  "unravel": {
+    "sounds": [
+      {
+        "name": "mine_kpop:ado_unravel_ge_imasita",
+        "stream": true
+      }
+    ]
+  },
+  "backlight": {
+    "sounds": [
+      {
+        "name": "mine_kpop:backlight",
+        "stream": true
+      }
+    ]
+  },
+  "totmusica": {
+    "sounds": [
+      {
+        "name": "mine_kpop:ado_tot_musicauta_from_one_piece_film_red",
+        "stream": true
+      }
+    ]
+  },
+  "aishite": {
+    "sounds": [
+      {
+        "name": "mine_kpop:aishite_aishite_aishite",
+        "stream": true
+      }
+    ]
+  },
+  "guerrilla": {
+    "sounds": [
+      {
+        "name": "mine_kpop:ateez_eitijeu_-_guerrilla_audio_",
+        "stream": true
+      }
+    ]
   }
 }

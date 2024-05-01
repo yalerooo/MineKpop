@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "ATEEZ - GUERRILLA",
+    "rarity": "COMMON",
+    "texture": "theworld",
+    "description": "GUERRILLA by ATEEZ",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:guerrilla"
+    },
+    "lengthInTicks": 4800,
+    "analogOutput": 0
+  }
+}

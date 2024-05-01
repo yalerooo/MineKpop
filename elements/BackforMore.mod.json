@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TXT - Back for More",
+    "rarity": "COMMON",
+    "texture": "backformore",
+    "description": "Back for More by TXT",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:chasing"
+    },
+    "lengthInTicks": 4240,
+    "analogOutput": 0
+  }
+}

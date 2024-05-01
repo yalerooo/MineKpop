@@ -1,0 +1,9 @@
+{
+  "parent": "mine_kpop:custom/adovending",
+  "textures": {
+    "all": "mine_kpop:block/adovending",
+    "particle": "mine_kpop:block/adovending",
+    "0": "mine_kpop:block/adovending"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Ado - Usseewa",
+    "rarity": "COMMON",
+    "texture": "usseewa",
+    "description": "Usseewa by Ado",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:usseewa"
+    },
+    "lengthInTicks": 4480,
+    "analogOutput": 0
+  }
+}

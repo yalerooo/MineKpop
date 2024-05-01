@@ -317,6 +317,23 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.RUN_BTS.get());
 				tabData.accept(MineKpopModItems.FIRST_LOVE.get());
 				tabData.accept(MineKpopModBlocks.BTS_DISQUETERA.get().asItem());
+				tabData.accept(MineKpopModItems.TXT_LOSER_LOVER.get());
+				tabData.accept(MineKpopModItems.ANTI_ROMANTIC.get());
+				tabData.accept(MineKpopModItems.DO_IT_LIKE_THAT.get());
+				tabData.accept(MineKpopModItems.PS_5.get());
+				tabData.accept(MineKpopModItems.CHASING_THAT_FEELING.get());
+				tabData.accept(MineKpopModItems.BACKFOR_MORE.get());
+				tabData.accept(MineKpopModItems.SHOW_ADO.get());
+				tabData.accept(MineKpopModItems.USSEEWA_ADO.get());
+				tabData.accept(MineKpopModItems.IBARA_ADO.get());
+				tabData.accept(MineKpopModItems.IMA_CONTROVERSY.get());
+				tabData.accept(MineKpopModItems.UNRAVEL_ADO.get());
+				tabData.accept(MineKpopModItems.BACKLIGHT_ADO.get());
+				tabData.accept(MineKpopModItems.TOT_MUSICA_ADO.get());
+				tabData.accept(MineKpopModItems.AISHITE_AISHITE_AISHITE.get());
+				tabData.accept(MineKpopModItems.GUERRILLAATEEZ.get());
+				tabData.accept(MineKpopModBlocks.TXT_DISQUETERA.get().asItem());
+				tabData.accept(MineKpopModBlocks.ADO_DISQUETERA.get().asItem());
 			})
 
 					.build());

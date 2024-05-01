@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Ado - Aishite Aishite Aishite",
+    "rarity": "COMMON",
+    "texture": "unravel",
+    "description": "Aishite Aishite Aishite by Ado",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:aishite"
+    },
+    "lengthInTicks": 5520,
+    "analogOutput": 0
+  }
+}

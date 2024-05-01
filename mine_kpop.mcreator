@@ -6434,6 +6434,479 @@
         ]
       },
       "path": "~/Music/Ticketeras"
+    },
+    {
+      "name": "Onrigh11Cont",
+      "type": "procedure",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "onrigh_11_cont",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/Onrigh11ContProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "OnRight21Cont",
+      "type": "procedure",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "on_right_21_cont",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/OnRight21ContProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "OnRight31Cont",
+      "type": "procedure",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "on_right_31_cont",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/OnRight31ContProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "UpdateTickCont2",
+      "type": "procedure",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "update_tick_cont_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/UpdateTickCont2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "TXTLoserLover",
+      "type": "musicdisc",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "txt_loser_lover",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/TXTLoserLoverItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/txt_loser_lover.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "AntiRomantic",
+      "type": "musicdisc",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anti_romantic",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/anti_romantic.json",
+          "src/main/java/net/mcreator/minekpop/item/AntiRomanticItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "DoItLikeThat",
+      "type": "musicdisc",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "do_it_like_that",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/do_it_like_that.json",
+          "src/main/java/net/mcreator/minekpop/item/DoItLikeThatItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "PS5",
+      "type": "musicdisc",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ps_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/ps_5.json",
+          "src/main/java/net/mcreator/minekpop/item/PS5Item.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "ChasingThatFeeling",
+      "type": "musicdisc",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chasing_that_feeling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/ChasingThatFeelingItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/chasing_that_feeling.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "BackforMore",
+      "type": "musicdisc",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backfor_more",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/backfor_more.json",
+          "src/main/java/net/mcreator/minekpop/item/BackforMoreItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "ShowAdo",
+      "type": "musicdisc",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "show_ado",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/show_ado.json",
+          "src/main/java/net/mcreator/minekpop/item/ShowAdoItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "UsseewaAdo",
+      "type": "musicdisc",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "usseewa_ado",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/UsseewaAdoItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/usseewa_ado.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "IbaraAdo",
+      "type": "musicdisc",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ibara_ado",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/IbaraAdoItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/ibara_ado.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "ImaControversy",
+      "type": "musicdisc",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ima_controversy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/ima_controversy.json",
+          "src/main/java/net/mcreator/minekpop/item/ImaControversyItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "UnravelAdo",
+      "type": "musicdisc",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unravel_ado",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/UnravelAdoItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/unravel_ado.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "BacklightAdo",
+      "type": "musicdisc",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backlight_ado",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/backlight_ado.json",
+          "src/main/java/net/mcreator/minekpop/item/BacklightAdoItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "TotMusicaAdo",
+      "type": "musicdisc",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tot_musica_ado",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/TotMusicaAdoItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/tot_musica_ado.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "AishiteAishiteAishite",
+      "type": "musicdisc",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aishite_aishite_aishite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/AishiteAishiteAishiteItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/aishite_aishite_aishite.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "GUERRILLAATEEZ",
+      "type": "musicdisc",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guerrillaateez",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/GUERRILLAATEEZItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/guerrillaateez.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "TXTDisquetera",
+      "type": "block",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "txt_disquetera",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/txt_disquetera.json",
+          "src/main/java/net/mcreator/minekpop/block/TXTDisqueteraBlock.java",
+          "src/main/resources/assets/mine_kpop/models/block/txt_disquetera.json",
+          "src/main/resources/assets/mine_kpop/models/item/txt_disquetera.json",
+          "src/main/resources/assets/mine_kpop/blockstates/txt_disquetera.json"
+        ]
+      },
+      "path": "~/Music/Ticketeras"
+    },
+    {
+      "name": "TXTDisqueteraOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "txt_disquetera_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/TXTDisqueteraOnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music/Ticketeras"
+    },
+    {
+      "name": "AdoDisquetera",
+      "type": "block",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ado_disquetera",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/ado_disquetera.json",
+          "src/main/resources/assets/mine_kpop/models/block/ado_disquetera.json",
+          "src/main/java/net/mcreator/minekpop/block/AdoDisqueteraBlock.java",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/ado_disquetera.json",
+          "src/main/resources/assets/mine_kpop/blockstates/ado_disquetera.json"
+        ]
+      },
+      "path": "~/Music/Ticketeras"
+    },
+    {
+      "name": "AdoDisqueteraOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ado_disquetera_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/AdoDisqueteraOnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music/Ticketeras"
     }
   ],
   "variable_elements": [],
@@ -7021,10 +7494,145 @@
       ],
       "category": "music",
       "subtitle": ""
+    },
+    {
+      "name": "loser",
+      "files": [
+        "txt_loerloer_lyrics_tumoroubaitugedeo_loserlover_gasa_color_coded_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "anti",
+      "files": [
+        "anti-romantic"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "doit",
+      "files": [
+        "txt_tumoroubaitugedeo_jonas_brothers_do_it_like_that_alan_walker_remix_official_visualizer"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "ps5",
+      "files": [
+        "salem_ilese_tomorrow_x_together_alan_walker_-_ps5_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "chasing",
+      "files": [
+        "txt_chasing_that_feeling_lyrics_color_coded_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "back",
+      "files": [
+        "txt_anitta_back_for_more_lyrics_color_coded_lyrics"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "show",
+      "files": [
+        "show"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "usseewa",
+      "files": [
+        "usseewa"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "ibara",
+      "files": [
+        "ibara"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "controversy",
+      "files": [
+        "im_a_controversy"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "unravel",
+      "files": [
+        "ado_unravel_ge_imasita"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "backlight",
+      "files": [
+        "backlight"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "totmusica",
+      "files": [
+        "ado_tot_musicauta_from_one_piece_film_red"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "aishite",
+      "files": [
+        "aishite_aishite_aishite"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "guerrilla",
+      "files": [
+        "ateez_eitijeu_-_guerrilla_audio_"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "tag_elements": {
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:GUERRILLAATEEZ",
+      "~CUSTOM:AishiteAishiteAishite",
+      "~CUSTOM:TotMusicaAdo",
+      "~CUSTOM:BacklightAdo",
+      "~CUSTOM:UnravelAdo",
+      "~CUSTOM:ImaControversy",
+      "~CUSTOM:IbaraAdo",
+      "~CUSTOM:UsseewaAdo",
+      "~CUSTOM:ShowAdo",
+      "~CUSTOM:BackforMore",
+      "~CUSTOM:ChasingThatFeeling",
+      "~CUSTOM:PS5",
+      "~CUSTOM:DoItLikeThat",
+      "~CUSTOM:AntiRomantic",
+      "~CUSTOM:TXTLoserLover",
       "~CUSTOM:FirstLove",
       "~CUSTOM:RunBTS",
       "~CUSTOM:FAKELOVE",
@@ -7098,10 +7706,12 @@
   "language_map": {
     "en_us": {
       "item.mine_kpop.han_4": "Han 4",
+      "subtitles.ibara": "",
       "item.mine_kpop.han_3": "Han 3",
       "item.mine_kpop.han_2": "Han 2",
       "item.mine_kpop.han_1": "Han 1",
       "subtitles.cryfor": "",
+      "item.mine_kpop.backlight_ado": "Ado - Backlight",
       "subtitles.drama": "",
       "item.mine_kpop.advice": "TAEMIN - Advice",
       "item.mine_kpop.stray_kids_2": "Stray Kids 2",
@@ -7109,42 +7719,48 @@
       "item.mine_kpop.queen_zio_p_ark.desc": "QUEEN by Zior Park",
       "item.mine_kpop.ive_iam.desc": "I AM by IVE",
       "item.mine_kpop.jung_kook_2": "Jung Kook 2",
-      "item.mine_kpop.jung_kook_1": "Jung Kook 1",
-      "item.mine_kpop.cry_for_me": "TWICE - CRY FOR ME",
       "subtitles.save": "",
+      "item.mine_kpop.cry_for_me": "TWICE - CRY FOR ME",
+      "item.mine_kpop.jung_kook_1": "Jung Kook 1",
       "item.mine_kpop.jung_kook_4": "Jung Kook 4",
       "item.mine_kpop.jung_kook_3": "Jung Kook 3",
       "subtitles.iwantthat": "",
       "item.mine_kpop.criminal": "TAEMIN - CRIMINAL",
       "item.mine_kpop.jung_kook_5": "Jung Kook 5",
+      "item.mine_kpop.show_ado": "Ado - Show",
       "block.mine_kpop.txt_2_tumbado": "The Dream Chapter Star - TXT",
       "block.mine_kpop.bts_disquetera": "Disquetera BTS",
       "block.mine_kpop.skz_disquetera": "Disquetera Stray Kids",
-      "item.mine_kpop.soobin_4": "Soobin 4",
       "item.mine_kpop.guilty.desc": "Guilty by TAEMIN",
+      "item.mine_kpop.soobin_4": "Soobin 4",
       "item.mine_kpop.soobin_5": "Soobin 5",
       "item.mine_kpop.christian.desc": "CHRISTIAN by Zior Park",
       "block.mine_kpop.zior_park_disquetera": "Disquetera Zior Park",
       "item.mine_kpop.likeoohaah": "TWICE - Like OOH-AHH",
+      "subtitles.unravel": "",
       "subtitles.she": "",
       "subtitles.likeooh": "",
       "subtitles.first": "",
       "subtitles.heaven": "",
       "block.mine_kpop.cooky": "Cooky",
+      "item.mine_kpop.chasing_that_feeling": "TXT - Chasing That Feeling",
       "subtitles.silentcry": "",
       "item.mine_kpop.bts_lightstick": "BTS Lightstick",
+      "item.mine_kpop.aishite_aishite_aishite": "Ado - Aishite Aishite Aishite",
       "item.mine_kpop.taehyun_5": "Taehyun 5",
       "item.mine_kpop.taehyun_4": "Taehyun 4",
-      "item.mine_kpop.xdinary_heroes_lightstick": "Xdinary Heroes Lightstick",
-      "item.mine_kpop.yesoryes": "TWICE - YES OR YES",
+      "item.mine_kpop.tot_musica_ado": "Ado - Tot Musica",
       "item.mine_kpop.run_bts": "BTS - Run BTS",
+      "item.mine_kpop.yesoryes": "TWICE - YES OR YES",
+      "item.mine_kpop.xdinary_heroes_lightstick": "Xdinary Heroes Lightstick",
       "subtitles.whalien": "",
       "item.mine_kpop.txt_the_dream_chapter_star": "TXT The dream chapter: Star",
-      "item.mine_kpop.super_shy_new_jeans.desc": "Super Shy by NewJeans",
       "item.mine_kpop.hellevator_skz": "Stray Kids - Hellevator",
+      "item.mine_kpop.super_shy_new_jeans.desc": "Super Shy by NewJeans",
       "item.mine_kpop.taehyun_3": "Taehyun 3",
       "item.mine_kpop.taehyun_2": "Taehyun 2",
       "item.mine_kpop.taehyun_1": "Taehyun 1",
+      "item.mine_kpop.ibara_ado": "Ado - Ibara",
       "subtitles.queen": "",
       "subtitles.shy": "",
       "block.mine_kpop.xdinary_disquetera": "Disquetera Xdinary Heroes",
@@ -7152,27 +7768,30 @@
       "item.mine_kpop.chaewon_rabbit": "Chaewon rabbit",
       "block.mine_kpop.g_idle_disquetera": "Disquetera (G)I-dle",
       "subtitles.tomboy": "",
-      "item.mine_kpop.fakelove": "BTS - FAKE LOVE",
       "item.mine_kpop.fakelove.desc": "FAKE LOVE by BTS",
+      "item.mine_kpop.fakelove": "BTS - FAKE LOVE",
+      "item.mine_kpop.unravel_ado": "Ado - unravel",
       "item.mine_kpop.bts_you_never_walk_alone": "BTS You never walk alone",
       "item.mine_kpop.lady_gidle.desc": "Super lady from (G)I-DLE",
-      "subtitles.lovesong": "",
       "item.mine_kpop.yesoryes.desc": "YES OR YES by TWICE",
+      "subtitles.lovesong": "",
       "item.mine_kpop.minnie_2": "Minnie 2",
       "item.mine_kpop.pirates": "Xdinary Heroes - Pirates",
       "item.mine_kpop.minnie_3": "Minnie 3",
       "item.mine_kpop.minnie_1": "Minnie 1",
+      "item.mine_kpop.backfor_more.desc": "Back for More by TXT",
       "subtitles.perfect": "",
       "item.kpop_albums.lesserafim_lightstick": "Lesserafim lightstick",
+      "item.mine_kpop.txt_loser_lover.desc": "LO$ER\u003dLO♡ER by TXT",
       "item.mine_kpop.bt_21": "BT21",
       "item.mine_kpop.minnie_4": "Minnie 4",
       "item.mine_kpop.minnie_5": "Minnie 5",
       "item.mine_kpop.txt_1": "TXT 1",
-      "item.mine_kpop.soojin_3": "Soojin 3",
       "item.mine_kpop.txt_5": "TXT 5",
-      "item.mine_kpop.txt_4": "TXT 4",
-      "item.mine_kpop.soojin_2": "Soojin 2",
+      "item.mine_kpop.soojin_3": "Soojin 3",
       "item.mine_kpop.wifegidle": "(G)I-DLE - Wife",
+      "item.mine_kpop.soojin_2": "Soojin 2",
+      "item.mine_kpop.txt_4": "TXT 4",
       "item.mine_kpop.soojin_1": "Soojin 1",
       "item.mine_kpop.txt_3": "TXT 3",
       "item.mine_kpop.txt_2": "TXT 2",
@@ -7198,37 +7817,46 @@
       "subtitles.eyesroll": "",
       "item.mine_kpop.seungmin_1": "Seungmin 1",
       "item.mine_kpop.lady_gidle": "(G)I-DLE - Super lady",
+      "item.mine_kpop.anti_romantic.desc": "Anti-Romantic from TXT",
       "subtitles.sorry": "",
+      "subtitles.backlight": "",
       "block.mine_kpop.txt_2_pie": "The Dream Chapter Star - TXT",
+      "item.mine_kpop.ps_5.desc": "PS5 by TXT",
       "block.mine_kpop.rj": "Rj",
       "item.mine_kpop.seungmin_2": "Seungmin 2",
       "item.mine_kpop.le_sserafim_fcb_1": "Le Sserafim FCB1",
       "item.mine_kpop.seungmin_3": "Seungmin 3",
       "item.mine_kpop.idol_yoasobi": "YOASOB - Idol",
-      "item.mine_kpop.le_sserafim_fcb_2": "Le Sserafim FCB2",
       "item.mine_kpop.seungmin_4": "Seungmin 4",
+      "item.mine_kpop.le_sserafim_fcb_2": "Le Sserafim FCB2",
       "item.mine_kpop.le_sserafim_fcb_3": "Le Sserafim FCB3",
       "item.mine_kpop.run_bts.desc": "Run BTS by BTS",
+      "item.mine_kpop.ibara_ado.desc": "Ibara by Ado",
       "item.mine_kpop.pluto": "Xdinary Heroes - PLUTO",
+      "subtitles.chasing": "",
       "item.mine_kpop.le_sserafim_f_1": "Le Sserafim F1",
       "item.mine_kpop.v_4": "V 4",
       "item.mine_kpop.v_2": "V 2",
       "item.mine_kpop.v_3": "V 3",
       "item.mine_kpop.v_1": "V 1",
       "block.mine_kpop.ls_album_2_t": "Unforgiven - Le Sserafim",
+      "item.mine_kpop.unravel_ado.desc": "unravel by Ado",
       "block.mine_kpop.ls_album_2_p": "Unforgiven - Le Sserafim",
       "item.mine_kpop.secret_secret": "Stray Kids - Secret Secret",
       "item.mine_kpop.evepsychethebluebeardswife.desc": "eve psyche \u0026 the bluebeard’s wife from LeSserafim",
-      "subtitles.star": "",
       "item.mine_kpop.happy_death_day.desc": "Happy Death Day by Xdinary Heroes",
+      "subtitles.star": "",
       "subtitles.cheer": "",
       "subtitles.prize": "",
       "block.mine_kpop.koya": "Koya",
+      "subtitles.totmusica": "",
+      "subtitles.aishite": "",
       "subtitles.cheese": "",
       "item.mine_kpop.nxdegidle": "(G)I-DLE - Nxde",
       "subtitles.bad": "",
       "item.mine_kpop.rm_1": "RM 1",
       "subtitles.unforgiven2": "",
+      "item.mine_kpop.tot_musica_ado.desc": "Tot Musica by Ado",
       "item.mine_kpop.rm_2": "RM 2",
       "item.mine_kpop.rm_3": "RM 3",
       "item.mine_kpop.rm_4": "RM 4",
@@ -7267,6 +7895,7 @@
       "item.mine_kpop.beomgyu_3": "Beomgyu 3",
       "item.mine_kpop.beomgyu_2": "Beomgyu 2",
       "item.mine_kpop.beomgyu_1": "Beomgyu 1",
+      "item.mine_kpop.chasing_that_feeling.desc": "Chasing That Feeling by TXT",
       "item.mine_kpop.unforgiven_le_sserafim.desc": "Unforgiven from LeSserafim",
       "item.kpop_albums.le_sserafim_album": "Le Sserafim Album",
       "item.mine_kpop.bts_love_yourself": "BTS Love yourself",
@@ -7280,6 +7909,8 @@
       "item.mine_kpop.in_3": "Jeongin 3",
       "item.mine_kpop.in_4": "Jeongin 4",
       "item.mine_kpop.strawberry_cake.desc": "Strawberry Cake by Xdinary Heroes",
+      "item.mine_kpop.backfor_more": "TXT - Back for More",
+      "item.mine_kpop.usseewa_ado.desc": "Usseewa by Ado",
       "item.mine_kpop.likeoohaah.desc": "Like OOH-AHH by TWICE",
       "item.mine_kpop.txt_lightstick": "TXT Lightstick",
       "item.mine_kpop.lee_know_4": "Lee Know 4",
@@ -7293,6 +7924,7 @@
       "item.mine_kpop.in_2": "Jeongin 2",
       "item.mine_kpop.hellevator_skz.desc": "Hellevator  by Stray kids",
       "subtitles.ad": "",
+      "subtitles.show": "",
       "item.mine_kpop.freakin_bad": "Xdinary Heroes - Freakin\u0027 Bad",
       "item.mine_kpop.perfect_night_le_sserafim.desc": "Perfect night from LeSserafim",
       "item.mine_kpop.j_hope_3": "J-Hope 3",
@@ -7302,13 +7934,16 @@
       "item.mine_kpop.evepsychethebluebeardswife": "Le Sserafim - eve psyche \u0026 the bluebeard’s wife",
       "item.mine_kpop.j_hope_1": "J-Hope 1",
       "item.mine_kpop.j_hope_2": "J-Hope 2",
+      "subtitles.doit": "",
       "block.mine_kpop.max_pie": "Max Ident - Stray Kids",
       "item.mine_kpop.fire_in_the_belly_le_sserafim.desc": "Fire in the belly from LeSserafim",
+      "item.mine_kpop.ima_controversy": "Ado - I’m a Controversy",
       "item.mine_kpop.dreamcatcher_lightstick": "Dreamcatcher Lightstick",
       "block.mine_kpop.porcos_box": "PorcosBox",
       "item.mine_kpop.stray_kids_max_ident": "Stray Kids Max ident",
       "item.mine_kpop.guilty": "TAEMIN - Guilty",
       "block.mine_kpop.le_sserafim_album_1_p": "Fearless - Le Sserafim",
+      "subtitles.loser": "",
       "item.mine_kpop.signal.desc": "SIGNAL by TWICE",
       "item.mine_kpop.shuhua_4": "Shuhua 4",
       "subtitles.wife": "",
@@ -7346,6 +7981,7 @@
       "item.mine_kpop.yuqi_2": "Yuqi 2",
       "item.mine_kpop.yuqi_3": "Yuqi 3",
       "item.mine_kpop.lalala_skz": "Stray Kids - LALALALA",
+      "item.mine_kpop.guerrillaateez": "ATEEZ - GUERRILLA",
       "item.mine_kpop.whalien_52": "BTS - Whalien 52",
       "item.mine_kpop.volcano.desc": "ACT!VE VOLCANO by Zior Park",
       "subtitles.pirates": "",
@@ -7355,6 +7991,7 @@
       "item.mine_kpop.move.desc": "Move by TAEMIN",
       "subtitles.fake": "",
       "subtitles.wab": "",
+      "subtitles.anti": "",
       "block.mine_kpop.cartas_pie": "I Feel (QUEEN Ver.) - (G)I-DLE",
       "item.mine_kpop.antifragile_le_sserafim": "Le Sserafim - Antifragile",
       "item.mine_kpop.bicycle.desc": "Bicycle by Xdinary Heroes",
@@ -7362,6 +7999,7 @@
       "item.mine_kpop.le_sserafim_2": "Le Sserafim 2",
       "item.mine_kpop.le_sserafim_1": "Le Sserafim 1",
       "subtitles.nocelestial": "",
+      "block.mine_kpop.ado_disquetera": "Disquetera Ado",
       "item.mine_kpop.lesserafim_lightstick": "Lesserafim Lightstick",
       "item.mine_kpop.gods_new_jeans.desc": "GODS by NewJeans",
       "item.mine_kpop.wifegidle.desc": "Wife from (G)I-DLE",
@@ -7382,10 +8020,13 @@
       "subtitles.black": "",
       "block.mine_kpop.skz_1_pie": "5 Stars - Stray Kids",
       "item.mine_kpop.silent_cry_skz.desc": "Silent Cry by Stray kids",
+      "item.mine_kpop.do_it_like_that": "TXT - Do It Like That (Alan Walker Remix)",
       "item.mine_kpop.idol_yoasobi.desc": "Idol by YOASOB",
+      "item.mine_kpop.backlight_ado.desc": "Backlight by Ado",
       "item.mine_kpop.move": "TAEMIN - Move",
       "item.mine_kpop.twice_light_stick": "Twice Lightstick",
       "block.mine_kpop.btsynt": "You Never Walk Alone - BTS",
+      "item.mine_kpop.do_it_like_that.desc": "Do It Like That (Alan Walker Remix) by TXT",
       "subtitles.nxde": "",
       "block.mine_kpop.ifeel_tumbado": "I Feel - (G)I-DLE",
       "item.mine_kpop.starttrain.desc": "STAR☆T☆RAIN by B-Komachi ",
@@ -7406,6 +8047,8 @@
       "block.mine_kpop.chimmy": "Chimmy",
       "subtitles.iam": "",
       "item.mine_kpop.nocelestial_le_sserafim": "Le Sserafim - No celestial",
+      "item.mine_kpop.aishite_aishite_aishite.desc": "Aishite Aishite Aishite by Ado",
+      "subtitles.ps5": "",
       "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
       "subtitles.easy": "",
       "item.mine_kpop.chaewon_fcb_3": "Chaewon FCB3",
@@ -7439,6 +8082,7 @@
       "item.mine_kpop.miyeon_1": "Miyeon 1",
       "item.mine_kpop.g_idle_lightstick": "(G)I-DLE Lightstick",
       "item.mine_kpop.social_path_skz": "Stray Kids - Social Path",
+      "item.mine_kpop.txt_loser_lover": "TXT - LO$ER\u003dLO♡ER",
       "subtitles.idol": "",
       "subtitles.social": "",
       "item.mine_kpop.suga_5": "Suga 5",
@@ -7457,8 +8101,10 @@
       "item.mine_kpop.bts_1": "BTS 1",
       "item.mine_kpop.huening_kai_1": "Huening Kai 1",
       "subtitles.eve": "",
+      "item.mine_kpop.guerrillaateez.desc": "GUERRILLA by ATEEZ",
       "item.mine_kpop.fire_in_the_belly_le_sserafim": "Le Sserafim - Fire in the belly",
       "item.mine_kpop.bts_black_swan": "BTS - Black Swan",
+      "item.mine_kpop.usseewa_ado": "Ado - Usseewa",
       "item.mine_kpop.whalien_52.desc": "Whalien 52 by BTS",
       "item_group.kpop_albums.mine_kpop": "Mine Kpop",
       "item.mine_kpop.heaven.desc": "Heaven by TAEMIN",
@@ -7470,16 +8116,20 @@
       "subtitles.pluto": "",
       "item.mine_kpop.i_want_that_gidle.desc": "I Want That from (G)I-DLE",
       "item.mine_kpop.i_want_that_gidle": "(G)I-DLE - I Want That",
+      "subtitles.controversy": "",
       "subtitles.test": "",
       "item.mine_kpop.shelovemeshelovemenot.desc": "She love me she love me not by TAEMIN",
       "item.mine_kpop.gods_new_jeans": "NewJeans - GODS",
       "item.mine_kpop.silent_cry_skz": "Stray Kids - Silent Cry",
+      "subtitles.guerrilla": "",
       "subtitles.need": "",
       "item.mine_kpop.antifragile_le_sserafim.desc": "Antifragile from LeSserafim",
+      "item.mine_kpop.ps_5": "TXT - PS5",
       "item.mine_kpop.ineedu.desc": "I NEED U by BTS",
       "item.mine_kpop.le_sserafim_album": "Le Sserafim Fearless",
       "item.mine_kpop.test_me.desc": "Test Me by Xdinary Heroes",
       "subtitles.lady": "",
+      "item.mine_kpop.show_ado.desc": "Show by Ado",
       "item.mine_kpop.signal": "TWICE - SIGNAL",
       "item.mine_kpop.cheer_up": "TWICE - CHEER UP",
       "item.mine_kpop.magnetic_illit.desc": "Magnetic by ILLIT",
@@ -7504,6 +8154,7 @@
       "item.mine_kpop.felix_1": "Felix 1",
       "item.mine_kpop.singwab_b_komanchi.desc": "Sign wa B by B-Komachi ",
       "item.mine_kpop.eyes_roll_gidle": "(G)I-DLE - Eyes roll",
+      "subtitles.back": "",
       "item.mine_kpop.jimin_2": "Jimin 2",
       "item.mine_kpop.jimin_1": "Jimin 1",
       "item.mine_kpop.whatislove": "TWICE - What is Love?",
@@ -7512,9 +8163,11 @@
       "subtitles.criminal": "",
       "subtitles.chris": "",
       "subtitles.secret": "",
+      "item.mine_kpop.anti_romantic": "TXT - Anti-Romantic",
       "subtitles.spring": "",
       "item.mine_kpop.bts_black_swan.desc": "Black Swan by BTS",
       "item.mine_kpop.k_ticket": "K-Ticket",
+      "subtitles.usseewa": "",
       "item.mine_kpop.eyes_roll_gidle.desc": "Eyes roll from (G)I-DLE",
       "subtitles.tt": "",
       "item.mine_kpop.sorry_i_love_you": "Stray Kids - Sorry, I Love You",
@@ -7532,6 +8185,8 @@
       "subtitles.opening": "",
       "item.mine_kpop.lalala_skz.desc": "LALALALA  by Stray kids",
       "block.mine_kpop.shooky": "Shooky",
+      "block.mine_kpop.txt_disquetera": "Disquetera TXT",
+      "item.mine_kpop.ima_controversy.desc": "I’m a Controversy by Ado",
       "item.mine_kpop.slump_skz": "Stray kids - Slump",
       "item.mine_kpop.ineedu": "BTS - I NEED U",
       "item.mine_kpop.chan_4": "Chan 4",

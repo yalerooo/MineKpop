@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TXT - PS5",
+    "rarity": "COMMON",
+    "texture": "ps5",
+    "description": "PS5 by TXT",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ps5"
+    },
+    "lengthInTicks": 3720,
+    "analogOutput": 0
+  }
+}

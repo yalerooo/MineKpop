@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Ado - Show",
+    "rarity": "COMMON",
+    "texture": "show",
+    "description": "Show by Ado",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:show"
+    },
+    "lengthInTicks": 3960,
+    "analogOutput": 0
+  }
+}

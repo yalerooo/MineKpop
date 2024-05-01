@@ -1,0 +1,9 @@
+{
+  "parent": "mine_kpop:custom/txtvending",
+  "textures": {
+    "all": "mine_kpop:block/txtvending",
+    "particle": "mine_kpop:block/txtvending",
+    "0": "mine_kpop:block/txtvending"
+  },
+  "render_type": "solid"
+}

@@ -1142,6 +1142,8 @@ public class OnRight3ContProcedure {
 			}
 			if (entity instanceof Player _player && !_player.level().isClientSide())
 				_player.displayClientMessage(Component.literal("Spring Day - BTS"), true);
+		} else {
+			OnRight31ContProcedure.execute(world, x, y, z, entity);
 		}
 	}
 }

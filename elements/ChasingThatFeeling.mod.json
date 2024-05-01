@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TXT - Chasing That Feeling",
+    "rarity": "COMMON",
+    "texture": "chasing",
+    "description": "Chasing That Feeling by TXT",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:chasing"
+    },
+    "lengthInTicks": 3680,
+    "analogOutput": 0
+  }
+}

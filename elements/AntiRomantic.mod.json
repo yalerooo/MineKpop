@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "TXT - Anti-Romantic",
+    "rarity": "COMMON",
+    "texture": "freeze",
+    "description": "Anti-Romantic from TXT",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:anti"
+    },
+    "lengthInTicks": 5000,
+    "analogOutput": 0
+  }
+}

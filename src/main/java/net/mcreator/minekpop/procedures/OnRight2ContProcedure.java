@@ -1653,7 +1653,7 @@ public class OnRight2ContProcedure {
 				_level.addFreshEntity(entityToSpawn);
 			}
 		} else {
-			Onright3Procedure.execute(world, x, y, z, entity);
+			OnRight21ContProcedure.execute(world, x, y, z, entity);
 		}
 	}
 }
