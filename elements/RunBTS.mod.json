@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "BTS - Run BTS",
+    "rarity": "COMMON",
+    "texture": "runbts",
+    "description": "Run BTS by BTS",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:run"
+    },
+    "lengthInTicks": 4600,
+    "analogOutput": 0
+  }
+}

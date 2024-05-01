@@ -6260,6 +6260,180 @@
         ]
       },
       "path": "~/LightSticks"
+    },
+    {
+      "name": "BTSBlackSwan",
+      "type": "musicdisc",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_black_swan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/bts_black_swan.json",
+          "src/main/java/net/mcreator/minekpop/item/BTSBlackSwanItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "SpringDayBTS",
+      "type": "musicdisc",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spring_day_bts",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/spring_day_bts.json",
+          "src/main/java/net/mcreator/minekpop/item/SpringDayBTSItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "INEEDU",
+      "type": "musicdisc",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ineedu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/ineedu.json",
+          "src/main/java/net/mcreator/minekpop/item/INEEDUItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Whalien52",
+      "type": "musicdisc",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whalien_52",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/Whalien52Item.java",
+          "src/main/resources/assets/mine_kpop/models/item/whalien_52.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "SaveMe",
+      "type": "musicdisc",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "save_me",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/SaveMeItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/save_me.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "FAKELOVE",
+      "type": "musicdisc",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fakelove",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/item/fakelove.json",
+          "src/main/java/net/mcreator/minekpop/item/FAKELOVEItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "RunBTS",
+      "type": "musicdisc",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "run_bts",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/RunBTSItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/run_bts.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "FirstLove",
+      "type": "musicdisc",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "first_love",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/item/FirstLoveItem.java",
+          "src/main/resources/assets/mine_kpop/models/item/first_love.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "BTSDisquetera",
+      "type": "block",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_disquetera",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mine_kpop/models/block/bts_disquetera.json",
+          "src/main/resources/data/mine_kpop/loot_tables/blocks/bts_disquetera.json",
+          "src/main/resources/assets/mine_kpop/models/item/bts_disquetera.json",
+          "src/main/resources/assets/mine_kpop/blockstates/bts_disquetera.json",
+          "src/main/java/net/mcreator/minekpop/block/BTSDisqueteraBlock.java"
+        ]
+      },
+      "path": "~/Music/Ticketeras"
+    },
+    {
+      "name": "BTSDisqueteraOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bts_disquetera_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minekpop/procedures/BTSDisqueteraOnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Music/Ticketeras"
     }
   ],
   "variable_elements": [],
@@ -6783,10 +6957,82 @@
       ],
       "category": "neutral",
       "subtitle": ""
+    },
+    {
+      "name": "black",
+      "files": [
+        "bts_-_black_swan_audio"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "spring",
+      "files": [
+        "spring_day_-_bts_traducida_al_espanol"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "need",
+      "files": [
+        "i_need_u"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "whalien",
+      "files": [
+        "whalien_52"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "save",
+      "files": [
+        "bts_-_save_me_audio"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "fake",
+      "files": [
+        "fake_love"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "run",
+      "files": [
+        "run_bts"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "first",
+      "files": [
+        "first_love"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "tag_elements": {
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:FirstLove",
+      "~CUSTOM:RunBTS",
+      "~CUSTOM:FAKELOVE",
+      "~CUSTOM:SaveMe",
+      "~CUSTOM:Whalien52",
+      "~CUSTOM:INEEDU",
+      "~CUSTOM:SpringDayBTS",
+      "~CUSTOM:BTSBlackSwan",
       "~CUSTOM:Heaven",
       "~CUSTOM:Sexuality",
       "~CUSTOM:Move",
@@ -6865,12 +7111,14 @@
       "item.mine_kpop.jung_kook_2": "Jung Kook 2",
       "item.mine_kpop.jung_kook_1": "Jung Kook 1",
       "item.mine_kpop.cry_for_me": "TWICE - CRY FOR ME",
+      "subtitles.save": "",
       "item.mine_kpop.jung_kook_4": "Jung Kook 4",
       "item.mine_kpop.jung_kook_3": "Jung Kook 3",
       "subtitles.iwantthat": "",
       "item.mine_kpop.criminal": "TAEMIN - CRIMINAL",
       "item.mine_kpop.jung_kook_5": "Jung Kook 5",
       "block.mine_kpop.txt_2_tumbado": "The Dream Chapter Star - TXT",
+      "block.mine_kpop.bts_disquetera": "Disquetera BTS",
       "block.mine_kpop.skz_disquetera": "Disquetera Stray Kids",
       "item.mine_kpop.soobin_4": "Soobin 4",
       "item.mine_kpop.guilty.desc": "Guilty by TAEMIN",
@@ -6880,6 +7128,7 @@
       "item.mine_kpop.likeoohaah": "TWICE - Like OOH-AHH",
       "subtitles.she": "",
       "subtitles.likeooh": "",
+      "subtitles.first": "",
       "subtitles.heaven": "",
       "block.mine_kpop.cooky": "Cooky",
       "subtitles.silentcry": "",
@@ -6888,6 +7137,8 @@
       "item.mine_kpop.taehyun_4": "Taehyun 4",
       "item.mine_kpop.xdinary_heroes_lightstick": "Xdinary Heroes Lightstick",
       "item.mine_kpop.yesoryes": "TWICE - YES OR YES",
+      "item.mine_kpop.run_bts": "BTS - Run BTS",
+      "subtitles.whalien": "",
       "item.mine_kpop.txt_the_dream_chapter_star": "TXT The dream chapter: Star",
       "item.mine_kpop.super_shy_new_jeans.desc": "Super Shy by NewJeans",
       "item.mine_kpop.hellevator_skz": "Stray Kids - Hellevator",
@@ -6901,6 +7152,8 @@
       "item.mine_kpop.chaewon_rabbit": "Chaewon rabbit",
       "block.mine_kpop.g_idle_disquetera": "Disquetera (G)I-dle",
       "subtitles.tomboy": "",
+      "item.mine_kpop.fakelove": "BTS - FAKE LOVE",
+      "item.mine_kpop.fakelove.desc": "FAKE LOVE by BTS",
       "item.mine_kpop.bts_you_never_walk_alone": "BTS You never walk alone",
       "item.mine_kpop.lady_gidle.desc": "Super lady from (G)I-DLE",
       "subtitles.lovesong": "",
@@ -6955,6 +7208,7 @@
       "item.mine_kpop.le_sserafim_fcb_2": "Le Sserafim FCB2",
       "item.mine_kpop.seungmin_4": "Seungmin 4",
       "item.mine_kpop.le_sserafim_fcb_3": "Le Sserafim FCB3",
+      "item.mine_kpop.run_bts.desc": "Run BTS by BTS",
       "item.mine_kpop.pluto": "Xdinary Heroes - PLUTO",
       "item.mine_kpop.le_sserafim_f_1": "Le Sserafim F1",
       "item.mine_kpop.v_4": "V 4",
@@ -7021,6 +7275,7 @@
       "item.mine_kpop.love_song_txt.desc": "0X1\u003dLOVESONG from TXT",
       "item.mine_kpop.slump_skz.desc": "Slump by Stray kids",
       "item.mine_kpop.strawberry_cake": "Xdinary Heroes - Strawberry Cake",
+      "item.mine_kpop.first_love": "BTS - First Love",
       "item.mine_kpop.advice.desc": "Advice by TAEMIN",
       "item.mine_kpop.in_3": "Jeongin 3",
       "item.mine_kpop.in_4": "Jeongin 4",
@@ -7091,12 +7346,14 @@
       "item.mine_kpop.yuqi_2": "Yuqi 2",
       "item.mine_kpop.yuqi_3": "Yuqi 3",
       "item.mine_kpop.lalala_skz": "Stray Kids - LALALALA",
+      "item.mine_kpop.whalien_52": "BTS - Whalien 52",
       "item.mine_kpop.volcano.desc": "ACT!VE VOLCANO by Zior Park",
       "subtitles.pirates": "",
       "subtitles.easy1": "",
       "block.mine_kpop.btsnp": "You Never Walk Alone - BTS",
       "subtitles.easy3": "",
       "item.mine_kpop.move.desc": "Move by TAEMIN",
+      "subtitles.fake": "",
       "subtitles.wab": "",
       "block.mine_kpop.cartas_pie": "I Feel (QUEEN Ver.) - (G)I-DLE",
       "item.mine_kpop.antifragile_le_sserafim": "Le Sserafim - Antifragile",
@@ -7122,6 +7379,7 @@
       "item.mine_kpop.eunchae_2": "Eunchae 2",
       "subtitles.antifragile": "",
       "item.mine_kpop.eunchae_1": "Eunchae 1",
+      "subtitles.black": "",
       "block.mine_kpop.skz_1_pie": "5 Stars - Stray Kids",
       "item.mine_kpop.silent_cry_skz.desc": "Silent Cry by Stray kids",
       "item.mine_kpop.idol_yoasobi.desc": "Idol by YOASOB",
@@ -7141,6 +7399,7 @@
       "item.mine_kpop.jin_1": "Jin 1",
       "item.mine_kpop.junjin_3": "Junjin 3",
       "item.mine_kpop.junjin_2": "Junjin 2",
+      "item.mine_kpop.save_me": "BTS - Save Me",
       "item.mine_kpop.homebird": "Zior Park - HOMEBIRD",
       "subtitles.move": "",
       "item.mine_kpop.tombo_ygidel": "(G)I-DLE - TOMBOY",
@@ -7150,6 +7409,7 @@
       "item.mine_kpop.le_sserafim_perfect_night": "Le Sserafim Perfect night",
       "subtitles.easy": "",
       "item.mine_kpop.chaewon_fcb_3": "Chaewon FCB3",
+      "subtitles.run": "",
       "item.mine_kpop.txt_blue_hour": "TXT Blue Hour",
       "item.mine_kpop.singwab_b_komanchi": "B-Komachi - Sign wa B",
       "item.mine_kpop.ive_iam": "IVE - I AM",
@@ -7183,6 +7443,7 @@
       "subtitles.social": "",
       "item.mine_kpop.suga_5": "Suga 5",
       "item.mine_kpop.suga_4": "Suga 4",
+      "item.mine_kpop.first_love.desc": "First Love by BTS",
       "item.mine_kpop.aespa_lightstick": "Aespa Lightstick",
       "subtitles.fate": "",
       "item.mine_kpop.huening_kai_2": "Huening Kai 2",
@@ -7197,8 +7458,11 @@
       "item.mine_kpop.huening_kai_1": "Huening Kai 1",
       "subtitles.eve": "",
       "item.mine_kpop.fire_in_the_belly_le_sserafim": "Le Sserafim - Fire in the belly",
+      "item.mine_kpop.bts_black_swan": "BTS - Black Swan",
+      "item.mine_kpop.whalien_52.desc": "Whalien 52 by BTS",
       "item_group.kpop_albums.mine_kpop": "Mine Kpop",
       "item.mine_kpop.heaven.desc": "Heaven by TAEMIN",
+      "item.mine_kpop.spring_day_bts.desc": "Spring Day by BTS",
       "subtitles.bicycle": "",
       "subtitles.opening2": "",
       "item.mine_kpop.drama_aespa": "aespa - Drama",
@@ -7210,7 +7474,9 @@
       "item.mine_kpop.shelovemeshelovemenot.desc": "She love me she love me not by TAEMIN",
       "item.mine_kpop.gods_new_jeans": "NewJeans - GODS",
       "item.mine_kpop.silent_cry_skz": "Stray Kids - Silent Cry",
+      "subtitles.need": "",
       "item.mine_kpop.antifragile_le_sserafim.desc": "Antifragile from LeSserafim",
+      "item.mine_kpop.ineedu.desc": "I NEED U by BTS",
       "item.mine_kpop.le_sserafim_album": "Le Sserafim Fearless",
       "item.mine_kpop.test_me.desc": "Test Me by Xdinary Heroes",
       "subtitles.lady": "",
@@ -7246,10 +7512,13 @@
       "subtitles.criminal": "",
       "subtitles.chris": "",
       "subtitles.secret": "",
+      "subtitles.spring": "",
+      "item.mine_kpop.bts_black_swan.desc": "Black Swan by BTS",
       "item.mine_kpop.k_ticket": "K-Ticket",
       "item.mine_kpop.eyes_roll_gidle.desc": "Eyes roll from (G)I-DLE",
       "subtitles.tt": "",
       "item.mine_kpop.sorry_i_love_you": "Stray Kids - Sorry, I Love You",
+      "item.mine_kpop.spring_day_bts": "BTS - Spring Day",
       "item.mine_kpop.soobin_2": "Soobin 2",
       "item.mine_kpop.soobin_3": "Soobin 3",
       "item.mine_kpop.soobin_1": "Soobin 1",
@@ -7264,11 +7533,13 @@
       "item.mine_kpop.lalala_skz.desc": "LALALALA  by Stray kids",
       "block.mine_kpop.shooky": "Shooky",
       "item.mine_kpop.slump_skz": "Stray kids - Slump",
+      "item.mine_kpop.ineedu": "BTS - I NEED U",
       "item.mine_kpop.chan_4": "Chan 4",
       "item.mine_kpop.chan_3": "Chan 3",
       "item.mine_kpop.chan_2": "Chan 2",
       "item.mine_kpop.chan_1": "Chan 1",
       "item.mine_kpop.easy_le_sserafim": "Le Sserafim - Easy",
+      "item.mine_kpop.save_me.desc": "Save Me by BTS",
       "item.mine_kpop.heaven": "TAEMIN - Heaven"
     }
   },

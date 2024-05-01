@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "BTS - I NEED U",
+    "rarity": "COMMON",
+    "texture": "young_forever",
+    "description": "I NEED U by BTS",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:need"
+    },
+    "lengthInTicks": 4800,
+    "analogOutput": 0
+  }
+}

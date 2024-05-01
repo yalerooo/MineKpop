@@ -308,6 +308,15 @@ public class MineKpopModTabs {
 				tabData.accept(MineKpopModItems.ATEEZ_LIGHT_STICK.get());
 				tabData.accept(MineKpopModItems.DREAMCATCHER_LIGHTSTICK.get());
 				tabData.accept(MineKpopModItems.IVE_LIGHT_STICK.get());
+				tabData.accept(MineKpopModItems.BTS_BLACK_SWAN.get());
+				tabData.accept(MineKpopModItems.SPRING_DAY_BTS.get());
+				tabData.accept(MineKpopModItems.INEEDU.get());
+				tabData.accept(MineKpopModItems.WHALIEN_52.get());
+				tabData.accept(MineKpopModItems.SAVE_ME.get());
+				tabData.accept(MineKpopModItems.FAKELOVE.get());
+				tabData.accept(MineKpopModItems.RUN_BTS.get());
+				tabData.accept(MineKpopModItems.FIRST_LOVE.get());
+				tabData.accept(MineKpopModBlocks.BTS_DISQUETERA.get().asItem());
 			})
 
 					.build());

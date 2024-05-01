@@ -1,0 +1,9 @@
+{
+  "parent": "mine_kpop:custom/btsvending",
+  "textures": {
+    "all": "mine_kpop:block/btsvending",
+    "particle": "mine_kpop:block/btsvending",
+    "0": "mine_kpop:block/btsvending"
+  },
+  "render_type": "solid"
+}

@@ -518,5 +518,69 @@
         "stream": false
       }
     ]
+  },
+  "black": {
+    "sounds": [
+      {
+        "name": "mine_kpop:bts_-_black_swan_audio",
+        "stream": true
+      }
+    ]
+  },
+  "spring": {
+    "sounds": [
+      {
+        "name": "mine_kpop:spring_day_-_bts_traducida_al_espanol",
+        "stream": true
+      }
+    ]
+  },
+  "need": {
+    "sounds": [
+      {
+        "name": "mine_kpop:i_need_u",
+        "stream": true
+      }
+    ]
+  },
+  "whalien": {
+    "sounds": [
+      {
+        "name": "mine_kpop:whalien_52",
+        "stream": true
+      }
+    ]
+  },
+  "save": {
+    "sounds": [
+      {
+        "name": "mine_kpop:bts_-_save_me_audio",
+        "stream": true
+      }
+    ]
+  },
+  "fake": {
+    "sounds": [
+      {
+        "name": "mine_kpop:fake_love",
+        "stream": true
+      }
+    ]
+  },
+  "run": {
+    "sounds": [
+      {
+        "name": "mine_kpop:run_bts",
+        "stream": true
+      }
+    ]
+  },
+  "first": {
+    "sounds": [
+      {
+        "name": "mine_kpop:first_love",
+        "stream": true
+      }
+    ]
   }
 }

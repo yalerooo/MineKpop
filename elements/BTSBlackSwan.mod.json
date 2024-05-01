@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "BTS - Black Swan",
+    "rarity": "COMMON",
+    "texture": "mapofthesoul",
+    "description": "Black Swan by BTS",
+    "creativeTab": {
+      "value": "CUSTOM:MineKpop"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:black"
+    },
+    "lengthInTicks": 4360,
+    "analogOutput": 0
+  }
+}

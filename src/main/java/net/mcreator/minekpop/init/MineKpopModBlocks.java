@@ -44,6 +44,7 @@ import net.mcreator.minekpop.block.CartasTumbadoBlock;
 import net.mcreator.minekpop.block.CartasPieBlock;
 import net.mcreator.minekpop.block.BTSYNTBlock;
 import net.mcreator.minekpop.block.BTSNPBlock;
+import net.mcreator.minekpop.block.BTSDisqueteraBlock;
 import net.mcreator.minekpop.block.BTSAlbum1TBlock;
 import net.mcreator.minekpop.block.BTSAlbum1PBlock;
 import net.mcreator.minekpop.MineKpopMod;
@@ -86,6 +87,7 @@ public class MineKpopModBlocks {
 	public static final RegistryObject<Block> ZIOR_PARK_DISQUETERA = REGISTRY.register("zior_park_disquetera", () -> new ZiorParkDisqueteraBlock());
 	public static final RegistryObject<Block> XDINARY_DISQUETERA = REGISTRY.register("xdinary_disquetera", () -> new XdinaryDisqueteraBlock());
 	public static final RegistryObject<Block> TAE_DISQUETERA = REGISTRY.register("tae_disquetera", () -> new TaeDisqueteraBlock());
+	public static final RegistryObject<Block> BTS_DISQUETERA = REGISTRY.register("bts_disquetera", () -> new BTSDisqueteraBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }
